@@ -1,0 +1,517 @@
+[
+  {
+    "Chinese": "新闻",
+    "Pinyin": "xīnwén",
+    "english": "news"
+  },
+  {
+    "Chinese": "报道",
+    "Pinyin": "bàodào",
+    "english": "report"
+  },
+  {
+    "Chinese": "记者",
+    "Pinyin": "jìzhě",
+    "english": "reporter"
+  },
+  {
+    "Chinese": "通讯员",
+    "Pinyin": "tōngxùnyuán",
+    "english": "correspondent"
+  },
+  {
+    "Chinese": "报纸",
+    "Pinyin": "bàozhǐ",
+    "english": "newspaper"
+  },
+  {
+    "Chinese": "杂志",
+    "Pinyin": "zázhì",
+    "english": "magazine"
+  },
+  {
+    "Chinese": "广播",
+    "Pinyin": "guǎngbò",
+    "english": "broadcast"
+  },
+  {
+    "Chinese": "电视台",
+    "Pinyin": "diànshìtái",
+    "english": "TV station"
+  },
+  {
+    "Chinese": "新闻社",
+    "Pinyin": "xīnwénshè",
+    "english": "news agency"
+  },
+  {
+    "Chinese": "媒体",
+    "Pinyin": "méitǐ",
+    "english": "media"
+  },
+  {
+    "Chinese": "社论",
+    "Pinyin": "shèlùn",
+    "english": "editorial"
+  },
+  {
+    "Chinese": "评论",
+    "Pinyin": "pínglùn",
+    "english": "commentary"
+  },
+  {
+    "Chinese": "采访",
+    "Pinyin": "cǎifǎng",
+    "english": "interview"
+  },
+  {
+    "Chinese": "头条",
+    "Pinyin": "tóutiáo",
+    "english": "headline"
+  },
+  {
+    "Chinese": "快讯",
+    "Pinyin": "kuàixùn",
+    "english": "breaking news"
+  },
+  {
+    "Chinese": "记者会",
+    "Pinyin": "jìzhěhuì",
+    "english": "press conference"
+  },
+  {
+    "Chinese": "声明",
+    "Pinyin": "shēngmíng",
+    "english": "statement"
+  },
+  {
+    "Chinese": "报道员",
+    "Pinyin": "bàodàoyuán",
+    "english": "news announcer"
+  },
+  {
+    "Chinese": "照片",
+    "Pinyin": "zhàopiàn",
+    "english": "photo"
+  },
+  {
+    "Chinese": "视频",
+    "Pinyin": "shìpín",
+    "english": "video"
+  },
+  {
+    "Chinese": "政府",
+    "Pinyin": "zhèngfǔ",
+    "english": "government"
+  },
+  {
+    "Chinese": "官员",
+    "Pinyin": "guānyuán",
+    "english": "official"
+  },
+  {
+    "Chinese": "外交",
+    "Pinyin": "wàijiāo",
+    "english": "diplomacy"
+  },
+  {
+    "Chinese": "政策",
+    "Pinyin": "zhèngcè",
+    "english": "policy"
+  },
+  {
+    "Chinese": "法律",
+    "Pinyin": "fǎlǜ",
+    "english": "law"
+  },
+  {
+    "Chinese": "法规",
+    "Pinyin": "fǎguī",
+    "english": "regulation"
+  },
+  {
+    "Chinese": "经济",
+    "Pinyin": "jīngjì",
+    "english": "economy"
+  },
+  {
+    "Chinese": "市场",
+    "Pinyin": "shìchǎng",
+    "english": "market"
+  },
+  {
+    "Chinese": "金融",
+    "Pinyin": "jīnróng",
+    "english": "finance"
+  },
+  {
+    "Chinese": "投资",
+    "Pinyin": "tóuzī",
+    "english": "investment"
+  },
+  {
+    "Chinese": "贸易",
+    "Pinyin": "màoyì",
+    "english": "trade"
+  },
+  {
+    "Chinese": "合作",
+    "Pinyin": "hézuò",
+    "english": "cooperation"
+  },
+  {
+    "Chinese": "发展",
+    "Pinyin": "fāzhǎn",
+    "english": "development"
+  },
+  {
+    "Chinese": "改革",
+    "Pinyin": "gǎigé",
+    "english": "reform"
+  },
+  {
+    "Chinese": "稳定",
+    "Pinyin": "wěndìng",
+    "english": "stability"
+  },
+  {
+    "Chinese": "选举",
+    "Pinyin": "xuǎnjǔ",
+    "english": "election"
+  },
+  {
+    "Chinese": "议会",
+    "Pinyin": "yìhuì",
+    "english": "parliament"
+  },
+  {
+    "Chinese": "总统",
+    "Pinyin": "zǒngtǒng",
+    "english": "president"
+  },
+  {
+    "Chinese": "总理",
+    "Pinyin": "zǒnglǐ",
+    "english": "prime minister"
+  },
+  {
+    "Chinese": "社会",
+    "Pinyin": "shèhuì",
+    "english": "society"
+  },
+  {
+    "Chinese": "公众",
+    "Pinyin": "gōngzhòng",
+    "english": "public"
+  },
+  {
+    "Chinese": "舆论",
+    "Pinyin": "yúlùn",
+    "english": "public opinion"
+  },
+  {
+    "Chinese": "事件",
+    "Pinyin": "shìjiàn",
+    "english": "incident"
+  },
+  {
+    "Chinese": "事故",
+    "Pinyin": "shìgù",
+    "english": "accident"
+  },
+  {
+    "Chinese": "危机",
+    "Pinyin": "wéijī",
+    "english": "crisis"
+  },
+  {
+    "Chinese": "冲突",
+    "Pinyin": "chōngtū",
+    "english": "conflict"
+  },
+  {
+    "Chinese": "战争",
+    "Pinyin": "zhànzhēng",
+    "english": "war"
+  },
+  {
+    "Chinese": "和平",
+    "Pinyin": "hépíng",
+    "english": "peace"
+  },
+  {
+    "Chinese": "安全",
+    "Pinyin": "ānquán",
+    "english": "safety"
+  },
+  {
+    "Chinese": "恐怖主义",
+    "Pinyin": "kǒngbù zhǔyì",
+    "english": "terrorism"
+  },
+  {
+    "Chinese": "外交关系",
+    "Pinyin": "wàijiāo guānxì",
+    "english": "diplomatic relations"
+  },
+  {
+    "Chinese": "联合国",
+    "Pinyin": "Liánhéguó",
+    "english": "United Nations"
+  },
+  {
+    "Chinese": "国际",
+    "Pinyin": "guójì",
+    "english": "international"
+  },
+  {
+    "Chinese": "全球",
+    "Pinyin": "quánqiú",
+    "english": "global"
+  },
+  {
+    "Chinese": "地区",
+    "Pinyin": "dìqū",
+    "english": "region"
+  },
+  {
+    "Chinese": "国内",
+    "Pinyin": "guónèi",
+    "english": "domestic"
+  },
+  {
+    "Chinese": "国外",
+    "Pinyin": "guówài",
+    "english": "abroad"
+  },
+  {
+    "Chinese": "因为",
+    "Pinyin": "yīnwèi",
+    "english": "because"
+  },
+  {
+    "Chinese": "所以",
+    "Pinyin": "suǒyǐ",
+    "english": "therefore"
+  },
+  {
+    "Chinese": "由于",
+    "Pinyin": "yóuyú",
+    "english": "due to"
+  },
+  {
+    "Chinese": "虽然",
+    "Pinyin": "suīrán",
+    "english": "although"
+  },
+  {
+    "Chinese": "但是",
+    "Pinyin": "dànshì",
+    "english": "but"
+  },
+  {
+    "Chinese": "然而",
+    "Pinyin": "rán'ér",
+    "english": "however"
+  },
+  {
+    "Chinese": "同时",
+    "Pinyin": "tóngshí",
+    "english": "at the same time"
+  },
+  {
+    "Chinese": "不仅",
+    "Pinyin": "bùjǐn",
+    "english": "not only"
+  },
+  {
+    "Chinese": "而且",
+    "Pinyin": "érqiě",
+    "english": "but also"
+  },
+  {
+    "Chinese": "即使",
+    "Pinyin": "jíshǐ",
+    "english": "even if"
+  },
+  {
+    "Chinese": "如果",
+    "Pinyin": "rúguǒ",
+    "english": "if"
+  },
+  {
+    "Chinese": "或者",
+    "Pinyin": "huòzhě",
+    "english": "or"
+  },
+  {
+    "Chinese": "以及",
+    "Pinyin": "yǐjí",
+    "english": "as well as"
+  },
+  {
+    "Chinese": "还有",
+    "Pinyin": "háiyǒu",
+    "english": "also"
+  },
+  {
+    "Chinese": "例如",
+    "Pinyin": "lìrú",
+    "english": "for example"
+  },
+  {
+    "Chinese": "比如",
+    "Pinyin": "bǐrú",
+    "english": "such as"
+  },
+  {
+    "Chinese": "首先",
+    "Pinyin": "shǒuxiān",
+    "english": "firstly"
+  },
+  {
+    "Chinese": "其次",
+    "Pinyin": "qícì",
+    "english": "secondly"
+  },
+  {
+    "Chinese": "最后",
+    "Pinyin": "zuìhòu",
+    "english": "finally"
+  },
+  {
+    "Chinese": "总之",
+    "Pinyin": "zǒngzhī",
+    "english": "in short"
+  },
+  {
+    "Chinese": "宣布",
+    "Pinyin": "xuānbù",
+    "english": "announce"
+  },
+  {
+    "Chinese": "指出",
+    "Pinyin": "zhǐchū",
+    "english": "point out"
+  },
+  {
+    "Chinese": "强调",
+    "Pinyin": "qiángdiào",
+    "english": "emphasize"
+  },
+  {
+    "Chinese": "表示",
+    "Pinyin": "biǎoshì",
+    "english": "express"
+  },
+  {
+    "Chinese": "认为",
+    "Pinyin": "rènwéi",
+    "english": "consider, think"
+  },
+  {
+    "Chinese": "发现",
+    "Pinyin": "fāxiàn",
+    "english": "discover"
+  },
+  {
+    "Chinese": "调查",
+    "Pinyin": "diàochá",
+    "english": "investigate"
+  },
+  {
+    "Chinese": "结果",
+    "Pinyin": "jiéguǒ",
+    "english": "result"
+  },
+  {
+    "Chinese": "原因",
+    "Pinyin": "yuányīn",
+    "english": "reason"
+  },
+  {
+    "Chinese": "影响",
+    "Pinyin": "yǐngxiǎng",
+    "english": "influence"
+  },
+  {
+    "Chinese": "改善",
+    "Pinyin": "gǎishàn",
+    "english": "improve"
+  },
+  {
+    "Chinese": "恶化",
+    "Pinyin": "èhuà",
+    "english": "worsen"
+  },
+  {
+    "Chinese": "成功",
+    "Pinyin": "chénggōng",
+    "english": "success"
+  },
+  {
+    "Chinese": "失败",
+    "Pinyin": "shībài",
+    "english": "failure"
+  },
+  {
+    "Chinese": "增加",
+    "Pinyin": "zēngjiā",
+    "english": "increase"
+  },
+  {
+    "Chinese": "减少",
+    "Pinyin": "jiǎnshǎo",
+    "english": "decrease"
+  },
+  {
+    "Chinese": "支持",
+    "Pinyin": "zhīchí",
+    "english": "support"
+  },
+  {
+    "Chinese": "反对",
+    "Pinyin": "fǎnduì",
+    "english": "oppose"
+  },
+  {
+    "Chinese": "建议",
+    "Pinyin": "jiànyì",
+    "english": "suggestion"
+  },
+  {
+    "Chinese": "措施",
+    "Pinyin": "cuòshī",
+    "english": "measure"
+  },
+  {
+    "Chinese": "计划",
+    "Pinyin": "jìhuà",
+    "english": "plan"
+  },
+  {
+    "Chinese": "目标",
+    "Pinyin": "mùbiāo",
+    "english": "goal"
+  },
+  {
+    "Chinese": "重要",
+    "Pinyin": "zhòngyào",
+    "english": "important"
+  },
+  {
+    "Chinese": "紧急",
+    "Pinyin": "jǐnjí",
+    "english": "urgent"
+  },
+  {
+    "Chinese": "最新",
+    "Pinyin": "zuìxīn",
+    "english": "latest"
+  },
+  {
+    "Chinese": "消息",
+    "Pinyin": "xiāoxī",
+    "english": "information, news"
+  }
+]

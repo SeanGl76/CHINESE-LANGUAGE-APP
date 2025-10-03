@@ -1,0 +1,532 @@
+[
+  {
+    "Chinese": "超市",
+    "Pinyin": "chāoshì",
+    "english": "supermarket"
+  },
+  {
+    "Chinese": "商店",
+    "Pinyin": "shāngdiàn",
+    "english": "shop, store"
+  },
+  {
+    "Chinese": "市场",
+    "Pinyin": "shìchǎng",
+    "english": "market"
+  },
+  {
+    "Chinese": "购物中心",
+    "Pinyin": "gòuwù zhōngxīn",
+    "english": "shopping mall"
+  },
+  {
+    "Chinese": "银行",
+    "Pinyin": "yínháng",
+    "english": "bank"
+  },
+  {
+    "Chinese": "邮局",
+    "Pinyin": "yóujú",
+    "english": "post office"
+  },
+  {
+    "Chinese": "医院",
+    "Pinyin": "yīyuàn",
+    "english": "hospital"
+  },
+  {
+    "Chinese": "诊所",
+    "Pinyin": "zhěnsuǒ",
+    "english": "clinic"
+  },
+  {
+    "Chinese": "药店",
+    "Pinyin": "yàodiàn",
+    "english": "pharmacy"
+  },
+  {
+    "Chinese": "警察局",
+    "Pinyin": "jǐngchájú",
+    "english": "police station"
+  },
+  {
+    "Chinese": "消防队",
+    "Pinyin": "xiāofángduì",
+    "english": "fire station"
+  },
+  {
+    "Chinese": "学校",
+    "Pinyin": "xuéxiào",
+    "english": "school"
+  },
+  {
+    "Chinese": "幼儿园",
+    "Pinyin": "yòu’éryuán",
+    "english": "kindergarten"
+  },
+  {
+    "Chinese": "大学",
+    "Pinyin": "dàxué",
+    "english": "university"
+  },
+  {
+    "Chinese": "公园",
+    "Pinyin": "gōngyuán",
+    "english": "park"
+  },
+  {
+    "Chinese": "体育馆",
+    "Pinyin": "tǐyùguǎn",
+    "english": "gymnasium"
+  },
+  {
+    "Chinese": "游泳池",
+    "Pinyin": "yóuyǒngchí",
+    "english": "swimming pool"
+  },
+  {
+    "Chinese": "餐厅",
+    "Pinyin": "cāntīng",
+    "english": "restaurant"
+  },
+  {
+    "Chinese": "饭馆",
+    "Pinyin": "fànguǎn",
+    "english": "restaurant"
+  },
+  {
+    "Chinese": "咖啡馆",
+    "Pinyin": "kāfēiguǎn",
+    "english": "cafe"
+  },
+  {
+    "Chinese": "酒吧",
+    "Pinyin": "jiǔbā",
+    "english": "bar"
+  },
+  {
+    "Chinese": "电影院",
+    "Pinyin": "diànyǐngyuàn",
+    "english": "cinema"
+  },
+  {
+    "Chinese": "剧院",
+    "Pinyin": "jùyuàn",
+    "english": "theater"
+  },
+  {
+    "Chinese": "书店",
+    "Pinyin": "shūdiàn",
+    "english": "bookstore"
+  },
+  {
+    "Chinese": "图书馆",
+    "Pinyin": "túshūguǎn",
+    "english": "library"
+  },
+  {
+    "Chinese": "博物馆",
+    "Pinyin": "bówùguǎn",
+    "english": "museum"
+  },
+  {
+    "Chinese": "美术馆",
+    "Pinyin": "měishùguǎn",
+    "english": "art gallery"
+  },
+  {
+    "Chinese": "邮筒",
+    "Pinyin": "yóutǒng",
+    "english": "mailbox"
+  },
+  {
+    "Chinese": "火车站",
+    "Pinyin": "huǒchēzhàn",
+    "english": "train station"
+  },
+  {
+    "Chinese": "汽车站",
+    "Pinyin": "qìchēzhàn",
+    "english": "bus station"
+  },
+  {
+    "Chinese": "地铁站",
+    "Pinyin": "dìtiě zhàn",
+    "english": "subway station"
+  },
+  {
+    "Chinese": "机场",
+    "Pinyin": "jīchǎng",
+    "english": "airport"
+  },
+  {
+    "Chinese": "加油站",
+    "Pinyin": "jiāyóuzhàn",
+    "english": "gas station"
+  },
+  {
+    "Chinese": "便利店",
+    "Pinyin": "biànlìdiàn",
+    "english": "convenience store"
+  },
+  {
+    "Chinese": "理发店",
+    "Pinyin": "lǐfàdiàn",
+    "english": "barbershop"
+  },
+  {
+    "Chinese": "美容院",
+    "Pinyin": "měiróngyuàn",
+    "english": "beauty salon"
+  },
+  {
+    "Chinese": "洗衣店",
+    "Pinyin": "xǐyīdiàn",
+    "english": "laundry"
+  },
+  {
+    "Chinese": "修理店",
+    "Pinyin": "xiūlǐdiàn",
+    "english": "repair shop"
+  },
+  {
+    "Chinese": "宾馆",
+    "Pinyin": "bīnguǎn",
+    "english": "hotel"
+  },
+  {
+    "Chinese": "旅馆",
+    "Pinyin": "lǚguǎn",
+    "english": "inn"
+  },
+  {
+    "Chinese": "快递点",
+    "Pinyin": "kuàidì diǎn",
+    "english": "parcel station"
+  },
+  {
+    "Chinese": "吃饭",
+    "Pinyin": "chīfàn",
+    "english": "to eat"
+  },
+  {
+    "Chinese": "喝水",
+    "Pinyin": "hē shuǐ",
+    "english": "to drink water"
+  },
+  {
+    "Chinese": "睡觉",
+    "Pinyin": "shuìjiào",
+    "english": "to sleep"
+  },
+  {
+    "Chinese": "起床",
+    "Pinyin": "qǐchuáng",
+    "english": "to get up"
+  },
+  {
+    "Chinese": "上班",
+    "Pinyin": "shàngbān",
+    "english": "to go to work"
+  },
+  {
+    "Chinese": "下班",
+    "Pinyin": "xiàbān",
+    "english": "to get off work"
+  },
+  {
+    "Chinese": "上学",
+    "Pinyin": "shàngxué",
+    "english": "to go to school"
+  },
+  {
+    "Chinese": "放学",
+    "Pinyin": "fàngxué",
+    "english": "to finish school"
+  },
+  {
+    "Chinese": "买东西",
+    "Pinyin": "mǎi dōngxī",
+    "english": "to go shopping"
+  },
+  {
+    "Chinese": "看电影",
+    "Pinyin": "kàn diànyǐng",
+    "english": "to watch a movie"
+  },
+  {
+    "Chinese": "看电视",
+    "Pinyin": "kàn diànshì",
+    "english": "to watch TV"
+  },
+  {
+    "Chinese": "听音乐",
+    "Pinyin": "tīng yīnyuè",
+    "english": "to listen to music"
+  },
+  {
+    "Chinese": "运动",
+    "Pinyin": "yùndòng",
+    "english": "to exercise, sports"
+  },
+  {
+    "Chinese": "散步",
+    "Pinyin": "sànbù",
+    "english": "to take a walk"
+  },
+  {
+    "Chinese": "跑步",
+    "Pinyin": "pǎobù",
+    "english": "to jog"
+  },
+  {
+    "Chinese": "游泳",
+    "Pinyin": "yóuyǒng",
+    "english": "to swim"
+  },
+  {
+    "Chinese": "骑自行车",
+    "Pinyin": "qí zìxíngchē",
+    "english": "to ride a bike"
+  },
+  {
+    "Chinese": "开车",
+    "Pinyin": "kāichē",
+    "english": "to drive"
+  },
+  {
+    "Chinese": "坐车",
+    "Pinyin": "zuòchē",
+    "english": "to take a ride"
+  },
+  {
+    "Chinese": "打电话",
+    "Pinyin": "dǎ diànhuà",
+    "english": "to make a call"
+  },
+  {
+    "Chinese": "发短信",
+    "Pinyin": "fā duǎnxìn",
+    "english": "to send a text message"
+  },
+  {
+    "Chinese": "上网",
+    "Pinyin": "shàngwǎng",
+    "english": "to go online"
+  },
+  {
+    "Chinese": "聊天",
+    "Pinyin": "liáotiān",
+    "english": "to chat"
+  },
+  {
+    "Chinese": "学习",
+    "Pinyin": "xuéxí",
+    "english": "to study"
+  },
+  {
+    "Chinese": "读书",
+    "Pinyin": "dúshū",
+    "english": "to read a book"
+  },
+  {
+    "Chinese": "写字",
+    "Pinyin": "xiězì",
+    "english": "to write"
+  },
+  {
+    "Chinese": "做饭",
+    "Pinyin": "zuòfàn",
+    "english": "to cook"
+  },
+  {
+    "Chinese": "洗澡",
+    "Pinyin": "xǐzǎo",
+    "english": "to bathe"
+  },
+  {
+    "Chinese": "刷牙",
+    "Pinyin": "shuāyá",
+    "english": "to brush teeth"
+  },
+  {
+    "Chinese": "洗脸",
+    "Pinyin": "xǐliǎn",
+    "english": "to wash face"
+  },
+  {
+    "Chinese": "买单",
+    "Pinyin": "mǎidān",
+    "english": "to pay the bill"
+  },
+  {
+    "Chinese": "结账",
+    "Pinyin": "jiézhàng",
+    "english": "to check out (pay)"
+  },
+  {
+    "Chinese": "你好",
+    "Pinyin": "nǐ hǎo",
+    "english": "hello"
+  },
+  {
+    "Chinese": "早上好",
+    "Pinyin": "zǎoshang hǎo",
+    "english": "good morning"
+  },
+  {
+    "Chinese": "晚上好",
+    "Pinyin": "wǎnshàng hǎo",
+    "english": "good evening"
+  },
+  {
+    "Chinese": "再见",
+    "Pinyin": "zàijiàn",
+    "english": "goodbye"
+  },
+  {
+    "Chinese": "谢谢",
+    "Pinyin": "xièxie",
+    "english": "thank you"
+  },
+  {
+    "Chinese": "不客气",
+    "Pinyin": "bú kèqi",
+    "english": "you're welcome"
+  },
+  {
+    "Chinese": "对不起",
+    "Pinyin": "duìbuqǐ",
+    "english": "sorry"
+  },
+  {
+    "Chinese": "没关系",
+    "Pinyin": "méiguānxi",
+    "english": "it doesn't matter"
+  },
+  {
+    "Chinese": "请",
+    "Pinyin": "qǐng",
+    "english": "please"
+  },
+  {
+    "Chinese": "麻烦你",
+    "Pinyin": "máfan nǐ",
+    "english": "trouble you / excuse me"
+  },
+  {
+    "Chinese": "好的",
+    "Pinyin": "hǎode",
+    "english": "ok"
+  },
+  {
+    "Chinese": "行",
+    "Pinyin": "xíng",
+    "english": "alright"
+  },
+  {
+    "Chinese": "没问题",
+    "Pinyin": "méi wèntí",
+    "english": "no problem"
+  },
+  {
+    "Chinese": "加油",
+    "Pinyin": "jiāyóu",
+    "english": "cheer up / come on"
+  },
+  {
+    "Chinese": "干杯",
+    "Pinyin": "gānbēi",
+    "english": "cheers"
+  },
+  {
+    "Chinese": "祝你好运",
+    "Pinyin": "zhù nǐ hǎoyùn",
+    "english": "good luck"
+  },
+  {
+    "Chinese": "生日快乐",
+    "Pinyin": "shēngrì kuàilè",
+    "english": "happy birthday"
+  },
+  {
+    "Chinese": "新年快乐",
+    "Pinyin": "xīnnián kuàilè",
+    "english": "happy new year"
+  },
+  {
+    "Chinese": "欢迎光临",
+    "Pinyin": "huānyíng guānglín",
+    "english": "welcome"
+  },
+  {
+    "Chinese": "慢走",
+    "Pinyin": "màn zǒu",
+    "english": "take care"
+  },
+  {
+    "Chinese": "请坐",
+    "Pinyin": "qǐng zuò",
+    "english": "please sit down"
+  },
+  {
+    "Chinese": "请进",
+    "Pinyin": "qǐng jìn",
+    "english": "please come in"
+  },
+  {
+    "Chinese": "请问",
+    "Pinyin": "qǐngwèn",
+    "english": "excuse me / may I ask"
+  },
+  {
+    "Chinese": "多少钱",
+    "Pinyin": "duōshǎo qián",
+    "english": "how much"
+  },
+  {
+    "Chinese": "在哪里",
+    "Pinyin": "zài nǎlǐ",
+    "english": "where is ..."
+  },
+  {
+    "Chinese": "怎么走",
+    "Pinyin": "zěnme zǒu",
+    "english": "how to get there"
+  },
+  {
+    "Chinese": "什么时候",
+    "Pinyin": "shénme shíhòu",
+    "english": "when"
+  },
+  {
+    "Chinese": "为什么",
+    "Pinyin": "wèishénme",
+    "english": "why"
+  },
+  {
+    "Chinese": "怎么了",
+    "Pinyin": "zěnme le",
+    "english": "what happened"
+  },
+  {
+    "Chinese": "可以吗",
+    "Pinyin": "kěyǐ ma",
+    "english": "is it okay"
+  },
+  {
+    "Chinese": "没事",
+    "Pinyin": "méishì",
+    "english": "it’s fine"
+  },
+  {
+    "Chinese": "太好了",
+    "Pinyin": "tài hǎo le",
+    "english": "great"
+  },
+  {
+    "Chinese": "真棒",
+    "Pinyin": "zhēn bàng",
+    "english": "awesome"
+  }
+]

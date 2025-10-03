@@ -1,0 +1,482 @@
+[
+  {
+    "Chinese": "中国",
+    "Pinyin": "Zhōngguó",
+    "english": "China"
+  },
+  {
+    "Chinese": "美国",
+    "Pinyin": "Měiguó",
+    "english": "United States"
+  },
+  {
+    "Chinese": "英国",
+    "Pinyin": "Yīngguó",
+    "english": "United Kingdom"
+  },
+  {
+    "Chinese": "法国",
+    "Pinyin": "Fǎguó",
+    "english": "France"
+  },
+  {
+    "Chinese": "德国",
+    "Pinyin": "Déguó",
+    "english": "Germany"
+  },
+  {
+    "Chinese": "意大利",
+    "Pinyin": "Yìdàlì",
+    "english": "Italy"
+  },
+  {
+    "Chinese": "西班牙",
+    "Pinyin": "Xībānyá",
+    "english": "Spain"
+  },
+  {
+    "Chinese": "葡萄牙",
+    "Pinyin": "Pútáoyá",
+    "english": "Portugal"
+  },
+  {
+    "Chinese": "俄罗斯",
+    "Pinyin": "Éluósī",
+    "english": "Russia"
+  },
+  {
+    "Chinese": "乌克兰",
+    "Pinyin": "Wūkèlán",
+    "english": "Ukraine"
+  },
+  {
+    "Chinese": "波兰",
+    "Pinyin": "Bōlán",
+    "english": "Poland"
+  },
+  {
+    "Chinese": "荷兰",
+    "Pinyin": "Hélán",
+    "english": "Netherlands"
+  },
+  {
+    "Chinese": "比利时",
+    "Pinyin": "Bǐlìshí",
+    "english": "Belgium"
+  },
+  {
+    "Chinese": "瑞士",
+    "Pinyin": "Ruìshì",
+    "english": "Switzerland"
+  },
+  {
+    "Chinese": "瑞典",
+    "Pinyin": "Ruìdiǎn",
+    "english": "Sweden"
+  },
+  {
+    "Chinese": "挪威",
+    "Pinyin": "Nuówēi",
+    "english": "Norway"
+  },
+  {
+    "Chinese": "丹麦",
+    "Pinyin": "Dānmài",
+    "english": "Denmark"
+  },
+  {
+    "Chinese": "芬兰",
+    "Pinyin": "Fēnlán",
+    "english": "Finland"
+  },
+  {
+    "Chinese": "希腊",
+    "Pinyin": "Xīlà",
+    "english": "Greece"
+  },
+  {
+    "Chinese": "土耳其",
+    "Pinyin": "Tǔ'ěrqí",
+    "english": "Turkey"
+  },
+  {
+    "Chinese": "以色列",
+    "Pinyin": "Yǐsèliè",
+    "english": "Israel"
+  },
+  {
+    "Chinese": "埃及",
+    "Pinyin": "Āijí",
+    "english": "Egypt"
+  },
+  {
+    "Chinese": "南非",
+    "Pinyin": "Nánfēi",
+    "english": "South Africa"
+  },
+  {
+    "Chinese": "印度",
+    "Pinyin": "Yìndù",
+    "english": "India"
+  },
+  {
+    "Chinese": "巴基斯坦",
+    "Pinyin": "Bājīsītǎn",
+    "english": "Pakistan"
+  },
+  {
+    "Chinese": "孟加拉国",
+    "Pinyin": "Mèngjiālāguó",
+    "english": "Bangladesh"
+  },
+  {
+    "Chinese": "日本",
+    "Pinyin": "Rìběn",
+    "english": "Japan"
+  },
+  {
+    "Chinese": "韩国",
+    "Pinyin": "Hánguó",
+    "english": "South Korea"
+  },
+  {
+    "Chinese": "朝鲜",
+    "Pinyin": "Cháoxiǎn",
+    "english": "North Korea"
+  },
+  {
+    "Chinese": "越南",
+    "Pinyin": "Yuènán",
+    "english": "Vietnam"
+  },
+  {
+    "Chinese": "泰国",
+    "Pinyin": "Tàiguó",
+    "english": "Thailand"
+  },
+  {
+    "Chinese": "新加坡",
+    "Pinyin": "Xīnjiāpō",
+    "english": "Singapore"
+  },
+  {
+    "Chinese": "马来西亚",
+    "Pinyin": "Mǎláixīyà",
+    "english": "Malaysia"
+  },
+  {
+    "Chinese": "菲律宾",
+    "Pinyin": "Fēilǜbīn",
+    "english": "Philippines"
+  },
+  {
+    "Chinese": "印尼",
+    "Pinyin": "Yìnní",
+    "english": "Indonesia"
+  },
+  {
+    "Chinese": "澳大利亚",
+    "Pinyin": "Àodàlìyà",
+    "english": "Australia"
+  },
+  {
+    "Chinese": "新西兰",
+    "Pinyin": "Xīnxīlán",
+    "english": "New Zealand"
+  },
+  {
+    "Chinese": "加拿大",
+    "Pinyin": "Jiānádà",
+    "english": "Canada"
+  },
+  {
+    "Chinese": "墨西哥",
+    "Pinyin": "Mòxīgē",
+    "english": "Mexico"
+  },
+  {
+    "Chinese": "巴西",
+    "Pinyin": "Bāxī",
+    "english": "Brazil"
+  },
+  {
+    "Chinese": "阿根廷",
+    "Pinyin": "Āgēntíng",
+    "english": "Argentina"
+  },
+  {
+    "Chinese": "智利",
+    "Pinyin": "Zhìlì",
+    "english": "Chile"
+  },
+  {
+    "Chinese": "哥伦比亚",
+    "Pinyin": "Gēlúnbǐyà",
+    "english": "Colombia"
+  },
+  {
+    "Chinese": "秘鲁",
+    "Pinyin": "Bìlǔ",
+    "english": "Peru"
+  },
+  {
+    "Chinese": "委内瑞拉",
+    "Pinyin": "Wěinèiruìlā",
+    "english": "Venezuela"
+  },
+  {
+    "Chinese": "北京",
+    "Pinyin": "Běijīng",
+    "english": "Beijing"
+  },
+  {
+    "Chinese": "上海",
+    "Pinyin": "Shànghǎi",
+    "english": "Shanghai"
+  },
+  {
+    "Chinese": "广州",
+    "Pinyin": "Guǎngzhōu",
+    "english": "Guangzhou"
+  },
+  {
+    "Chinese": "深圳",
+    "Pinyin": "Shēnzhèn",
+    "english": "Shenzhen"
+  },
+  {
+    "Chinese": "天津",
+    "Pinyin": "Tiānjīn",
+    "english": "Tianjin"
+  },
+  {
+    "Chinese": "重庆",
+    "Pinyin": "Chóngqìng",
+    "english": "Chongqing"
+  },
+  {
+    "Chinese": "南京",
+    "Pinyin": "Nánjīng",
+    "english": "Nanjing"
+  },
+  {
+    "Chinese": "杭州",
+    "Pinyin": "Hángzhōu",
+    "english": "Hangzhou"
+  },
+  {
+    "Chinese": "苏州",
+    "Pinyin": "Sūzhōu",
+    "english": "Suzhou"
+  },
+  {
+    "Chinese": "成都",
+    "Pinyin": "Chéngdū",
+    "english": "Chengdu"
+  },
+  {
+    "Chinese": "西安",
+    "Pinyin": "Xī’ān",
+    "english": "Xi’an"
+  },
+  {
+    "Chinese": "武汉",
+    "Pinyin": "Wǔhàn",
+    "english": "Wuhan"
+  },
+  {
+    "Chinese": "长沙",
+    "Pinyin": "Chángshā",
+    "english": "Changsha"
+  },
+  {
+    "Chinese": "昆明",
+    "Pinyin": "Kūnmíng",
+    "english": "Kunming"
+  },
+  {
+    "Chinese": "大连",
+    "Pinyin": "Dàlián",
+    "english": "Dalian"
+  },
+  {
+    "Chinese": "青岛",
+    "Pinyin": "Qīngdǎo",
+    "english": "Qingdao"
+  },
+  {
+    "Chinese": "厦门",
+    "Pinyin": "Xiàmén",
+    "english": "Xiamen"
+  },
+  {
+    "Chinese": "哈尔滨",
+    "Pinyin": "Hā’ěrbīn",
+    "english": "Harbin"
+  },
+  {
+    "Chinese": "郑州",
+    "Pinyin": "Zhèngzhōu",
+    "english": "Zhengzhou"
+  },
+  {
+    "Chinese": "济南",
+    "Pinyin": "Jǐnán",
+    "english": "Jinan"
+  },
+  {
+    "Chinese": "纽约",
+    "Pinyin": "Niǔyuē",
+    "english": "New York"
+  },
+  {
+    "Chinese": "洛杉矶",
+    "Pinyin": "Luòshānjī",
+    "english": "Los Angeles"
+  },
+  {
+    "Chinese": "华盛顿",
+    "Pinyin": "Huáshèngdùn",
+    "english": "Washington, D.C."
+  },
+  {
+    "Chinese": "伦敦",
+    "Pinyin": "Lúndūn",
+    "english": "London"
+  },
+  {
+    "Chinese": "巴黎",
+    "Pinyin": "Bālí",
+    "english": "Paris"
+  },
+  {
+    "Chinese": "柏林",
+    "Pinyin": "Bólín",
+    "english": "Berlin"
+  },
+  {
+    "Chinese": "罗马",
+    "Pinyin": "Luómǎ",
+    "english": "Rome"
+  },
+  {
+    "Chinese": "马德里",
+    "Pinyin": "Mǎdélǐ",
+    "english": "Madrid"
+  },
+  {
+    "Chinese": "巴塞罗那",
+    "Pinyin": "Bāsàiluónà",
+    "english": "Barcelona"
+  },
+  {
+    "Chinese": "阿姆斯特丹",
+    "Pinyin": "Āmǔsītèdān",
+    "english": "Amsterdam"
+  },
+  {
+    "Chinese": "布鲁塞尔",
+    "Pinyin": "Bùlǔsài’ěr",
+    "english": "Brussels"
+  },
+  {
+    "Chinese": "日内瓦",
+    "Pinyin": "Rìnèiwǎ",
+    "english": "Geneva"
+  },
+  {
+    "Chinese": "莫斯科",
+    "Pinyin": "Mòsīkē",
+    "english": "Moscow"
+  },
+  {
+    "Chinese": "圣彼得堡",
+    "Pinyin": "Shèng Bǐdébǎo",
+    "english": "St. Petersburg"
+  },
+  {
+    "Chinese": "伊斯坦布尔",
+    "Pinyin": "Yīsītǎnbù’ěr",
+    "english": "Istanbul"
+  },
+  {
+    "Chinese": "开罗",
+    "Pinyin": "Kāiluó",
+    "english": "Cairo"
+  },
+  {
+    "Chinese": "德里",
+    "Pinyin": "Délǐ",
+    "english": "Delhi"
+  },
+  {
+    "Chinese": "孟买",
+    "Pinyin": "Mèngmǎi",
+    "english": "Mumbai"
+  },
+  {
+    "Chinese": "东京",
+    "Pinyin": "Dōngjīng",
+    "english": "Tokyo"
+  },
+  {
+    "Chinese": "大阪",
+    "Pinyin": "Dàbǎn",
+    "english": "Osaka"
+  },
+  {
+    "Chinese": "首尔",
+    "Pinyin": "Shǒu’ěr",
+    "english": "Seoul"
+  },
+  {
+    "Chinese": "河内",
+    "Pinyin": "Hénèi",
+    "english": "Hanoi"
+  },
+  {
+    "Chinese": "曼谷",
+    "Pinyin": "Màngǔ",
+    "english": "Bangkok"
+  },
+  {
+    "Chinese": "悉尼",
+    "Pinyin": "Xīní",
+    "english": "Sydney"
+  },
+  {
+    "Chinese": "墨尔本",
+    "Pinyin": "Mò’ěrběn",
+    "english": "Melbourne"
+  },
+  {
+    "Chinese": "渥太华",
+    "Pinyin": "Wòtàihuá",
+    "english": "Ottawa"
+  },
+  {
+    "Chinese": "多伦多",
+    "Pinyin": "Duōlúnduō",
+    "english": "Toronto"
+  },
+  {
+    "Chinese": "墨西哥城",
+    "Pinyin": "Mòxīgē Chéng",
+    "english": "Mexico City"
+  },
+  {
+    "Chinese": "里约热内卢",
+    "Pinyin": "Lǐyuē Rènèilú",
+    "english": "Rio de Janeiro"
+  },
+  {
+    "Chinese": "布宜诺斯艾利斯",
+    "Pinyin": "Bùyínuòsī Àilìsī",
+    "english": "Buenos Aires"
+  },
+  {
+    "Chinese": "圣保罗",
+    "Pinyin": "Shèng Bǎoluó",
+    "english": "São Paulo"
+  }
+]

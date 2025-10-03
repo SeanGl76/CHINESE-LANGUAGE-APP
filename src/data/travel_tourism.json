@@ -1,0 +1,592 @@
+[
+  {
+    "Chinese": "飞机",
+    "Pinyin": "fēijī",
+    "english": "airplane"
+  },
+  {
+    "Chinese": "火车",
+    "Pinyin": "huǒchē",
+    "english": "train"
+  },
+  {
+    "Chinese": "地铁",
+    "Pinyin": "dìtiě",
+    "english": "subway"
+  },
+  {
+    "Chinese": "出租车",
+    "Pinyin": "chūzūchē",
+    "english": "taxi"
+  },
+  {
+    "Chinese": "公共汽车",
+    "Pinyin": "gōnggòng qìchē",
+    "english": "bus"
+  },
+  {
+    "Chinese": "电车",
+    "Pinyin": "diànchē",
+    "english": "tram"
+  },
+  {
+    "Chinese": "轮船",
+    "Pinyin": "lúnchuán",
+    "english": "ship"
+  },
+  {
+    "Chinese": "港口",
+    "Pinyin": "gǎngkǒu",
+    "english": "port, harbor"
+  },
+  {
+    "Chinese": "机场",
+    "Pinyin": "jīchǎng",
+    "english": "airport"
+  },
+  {
+    "Chinese": "车站",
+    "Pinyin": "chēzhàn",
+    "english": "station"
+  },
+  {
+    "Chinese": "高速公路",
+    "Pinyin": "gāosù gōnglù",
+    "english": "highway"
+  },
+  {
+    "Chinese": "护照检查",
+    "Pinyin": "hùzhào jiǎnchá",
+    "english": "passport control"
+  },
+  {
+    "Chinese": "行李",
+    "Pinyin": "xínglǐ",
+    "english": "luggage"
+  },
+  {
+    "Chinese": "登机牌",
+    "Pinyin": "dēngjīpái",
+    "english": "boarding pass"
+  },
+  {
+    "Chinese": "安检",
+    "Pinyin": "ānjiǎn",
+    "english": "security check"
+  },
+  {
+    "Chinese": "转机",
+    "Pinyin": "zhuǎnjī",
+    "english": "transfer flight"
+  },
+  {
+    "Chinese": "出发",
+    "Pinyin": "chūfā",
+    "english": "depart"
+  },
+  {
+    "Chinese": "到达",
+    "Pinyin": "dàodá",
+    "english": "arrive"
+  },
+  {
+    "Chinese": "延误",
+    "Pinyin": "yánwù",
+    "english": "delay"
+  },
+  {
+    "Chinese": "签证",
+    "Pinyin": "qiānzhèng",
+    "english": "visa"
+  },
+  {
+    "Chinese": "酒店",
+    "Pinyin": "jiǔdiàn",
+    "english": "hotel"
+  },
+  {
+    "Chinese": "旅馆",
+    "Pinyin": "lǚguǎn",
+    "english": "inn, hotel"
+  },
+  {
+    "Chinese": "青年旅舍",
+    "Pinyin": "qīngnián lǚshè",
+    "english": "youth hostel"
+  },
+  {
+    "Chinese": "宾馆",
+    "Pinyin": "bīnguǎn",
+    "english": "guesthouse"
+  },
+  {
+    "Chinese": "预订",
+    "Pinyin": "yùdìng",
+    "english": "reserve, book"
+  },
+  {
+    "Chinese": "入住",
+    "Pinyin": "rùzhù",
+    "english": "check in"
+  },
+  {
+    "Chinese": "退房",
+    "Pinyin": "tuìfáng",
+    "english": "check out"
+  },
+  {
+    "Chinese": "前台",
+    "Pinyin": "qiántái",
+    "english": "reception desk"
+  },
+  {
+    "Chinese": "钥匙",
+    "Pinyin": "yàoshi",
+    "english": "key"
+  },
+  {
+    "Chinese": "房卡",
+    "Pinyin": "fángkǎ",
+    "english": "room card"
+  },
+  {
+    "Chinese": "单人间",
+    "Pinyin": "dānrénjiān",
+    "english": "single room"
+  },
+  {
+    "Chinese": "双人间",
+    "Pinyin": "shuāngrénjiān",
+    "english": "double room"
+  },
+  {
+    "Chinese": "套房",
+    "Pinyin": "tàofáng",
+    "english": "suite"
+  },
+  {
+    "Chinese": "旅客",
+    "Pinyin": "lǚkè",
+    "english": "traveler, guest"
+  },
+  {
+    "Chinese": "行程",
+    "Pinyin": "xíngchéng",
+    "english": "itinerary"
+  },
+  {
+    "Chinese": "导游",
+    "Pinyin": "dǎoyóu",
+    "english": "tour guide"
+  },
+  {
+    "Chinese": "景点",
+    "Pinyin": "jǐngdiǎn",
+    "english": "scenic spot"
+  },
+  {
+    "Chinese": "景区",
+    "Pinyin": "jǐngqū",
+    "english": "scenic area"
+  },
+  {
+    "Chinese": "博物馆",
+    "Pinyin": "bówùguǎn",
+    "english": "museum"
+  },
+  {
+    "Chinese": "美术馆",
+    "Pinyin": "měishùguǎn",
+    "english": "art gallery"
+  },
+  {
+    "Chinese": "公园",
+    "Pinyin": "gōngyuán",
+    "english": "park"
+  },
+  {
+    "Chinese": "动物园",
+    "Pinyin": "dòngwùyuán",
+    "english": "zoo"
+  },
+  {
+    "Chinese": "植物园",
+    "Pinyin": "zhíwùyuán",
+    "english": "botanical garden"
+  },
+  {
+    "Chinese": "古迹",
+    "Pinyin": "gǔjì",
+    "english": "historic site"
+  },
+  {
+    "Chinese": "寺庙",
+    "Pinyin": "sìmiào",
+    "english": "temple"
+  },
+  {
+    "Chinese": "教堂",
+    "Pinyin": "jiàotáng",
+    "english": "church"
+  },
+  {
+    "Chinese": "清真寺",
+    "Pinyin": "qīngzhēnsì",
+    "english": "mosque"
+  },
+  {
+    "Chinese": "宫殿",
+    "Pinyin": "gōngdiàn",
+    "english": "palace"
+  },
+  {
+    "Chinese": "长城",
+    "Pinyin": "Chángchéng",
+    "english": "the Great Wall"
+  },
+  {
+    "Chinese": "故宫",
+    "Pinyin": "Gùgōng",
+    "english": "the Forbidden City"
+  },
+  {
+    "Chinese": "黄山",
+    "Pinyin": "Huángshān",
+    "english": "Yellow Mountain"
+  },
+  {
+    "Chinese": "张家界",
+    "Pinyin": "Zhāngjiājiè",
+    "english": "Zhangjiajie"
+  },
+  {
+    "Chinese": "导览图",
+    "Pinyin": "dǎolǎn tú",
+    "english": "tourist map"
+  },
+  {
+    "Chinese": "餐厅",
+    "Pinyin": "cāntīng",
+    "english": "restaurant"
+  },
+  {
+    "Chinese": "饭店",
+    "Pinyin": "fàndiàn",
+    "english": "restaurant, hotel"
+  },
+  {
+    "Chinese": "快餐",
+    "Pinyin": "kuàicān",
+    "english": "fast food"
+  },
+  {
+    "Chinese": "小吃",
+    "Pinyin": "xiǎochī",
+    "english": "snack"
+  },
+  {
+    "Chinese": "特色菜",
+    "Pinyin": "tèsè cài",
+    "english": "specialty dish"
+  },
+  {
+    "Chinese": "饮料",
+    "Pinyin": "yǐnliào",
+    "english": "beverage"
+  },
+  {
+    "Chinese": "水",
+    "Pinyin": "shuǐ",
+    "english": "water"
+  },
+  {
+    "Chinese": "啤酒",
+    "Pinyin": "píjiǔ",
+    "english": "beer"
+  },
+  {
+    "Chinese": "葡萄酒",
+    "Pinyin": "pútáojiǔ",
+    "english": "wine"
+  },
+  {
+    "Chinese": "菜单",
+    "Pinyin": "càidān",
+    "english": "menu"
+  },
+  {
+    "Chinese": "服务员",
+    "Pinyin": "fúwùyuán",
+    "english": "waiter/waitress"
+  },
+  {
+    "Chinese": "结账",
+    "Pinyin": "jiézhàng",
+    "english": "pay the bill"
+  },
+  {
+    "Chinese": "预订座位",
+    "Pinyin": "yùdìng zuòwèi",
+    "english": "reserve a seat"
+  },
+  {
+    "Chinese": "素食",
+    "Pinyin": "sùshí",
+    "english": "vegetarian food"
+  },
+  {
+    "Chinese": "早餐",
+    "Pinyin": "zǎocān",
+    "english": "breakfast"
+  },
+  {
+    "Chinese": "午餐",
+    "Pinyin": "wǔcān",
+    "english": "lunch"
+  },
+  {
+    "Chinese": "晚餐",
+    "Pinyin": "wǎncān",
+    "english": "dinner"
+  },
+  {
+    "Chinese": "宵夜",
+    "Pinyin": "xiāoyè",
+    "english": "late night snack"
+  },
+  {
+    "Chinese": "自助餐",
+    "Pinyin": "zìzhùcān",
+    "english": "buffet"
+  },
+  {
+    "Chinese": "火锅",
+    "Pinyin": "huǒguō",
+    "english": "hotpot"
+  },
+  {
+    "Chinese": "商场",
+    "Pinyin": "shāngchǎng",
+    "english": "shopping mall"
+  },
+  {
+    "Chinese": "市场",
+    "Pinyin": "shìchǎng",
+    "english": "market"
+  },
+  {
+    "Chinese": "纪念品",
+    "Pinyin": "jìniànpǐn",
+    "english": "souvenir"
+  },
+  {
+    "Chinese": "工艺品",
+    "Pinyin": "gōngyìpǐn",
+    "english": "handicraft"
+  },
+  {
+    "Chinese": "特色产品",
+    "Pinyin": "tèsè chǎnpǐn",
+    "english": "local product"
+  },
+  {
+    "Chinese": "价格",
+    "Pinyin": "jiàgé",
+    "english": "price"
+  },
+  {
+    "Chinese": "便宜",
+    "Pinyin": "piányi",
+    "english": "cheap"
+  },
+  {
+    "Chinese": "贵",
+    "Pinyin": "guì",
+    "english": "expensive"
+  },
+  {
+    "Chinese": "讨价还价",
+    "Pinyin": "tǎojià huánjià",
+    "english": "bargain"
+  },
+  {
+    "Chinese": "付款",
+    "Pinyin": "fùkuǎn",
+    "english": "make a payment"
+  },
+  {
+    "Chinese": "现金",
+    "Pinyin": "xiànjīn",
+    "english": "cash"
+  },
+  {
+    "Chinese": "信用卡",
+    "Pinyin": "xìnyòngkǎ",
+    "english": "credit card"
+  },
+  {
+    "Chinese": "收据",
+    "Pinyin": "shōujù",
+    "english": "receipt"
+  },
+  {
+    "Chinese": "打折",
+    "Pinyin": "dǎzhé",
+    "english": "discount"
+  },
+  {
+    "Chinese": "换钱",
+    "Pinyin": "huàn qián",
+    "english": "exchange money"
+  },
+  {
+    "Chinese": "旅行",
+    "Pinyin": "lǚxíng",
+    "english": "travel"
+  },
+  {
+    "Chinese": "旅游",
+    "Pinyin": "lǚyóu",
+    "english": "tourism"
+  },
+  {
+    "Chinese": "冒险",
+    "Pinyin": "màoxiǎn",
+    "english": "adventure"
+  },
+  {
+    "Chinese": "徒步",
+    "Pinyin": "túbù",
+    "english": "hiking"
+  },
+  {
+    "Chinese": "滑雪",
+    "Pinyin": "huáxuě",
+    "english": "skiing"
+  },
+  {
+    "Chinese": "冲浪",
+    "Pinyin": "chōnglàng",
+    "english": "surfing"
+  },
+  {
+    "Chinese": "潜水",
+    "Pinyin": "qiánshuǐ",
+    "english": "diving"
+  },
+  {
+    "Chinese": "游泳",
+    "Pinyin": "yóuyǒng",
+    "english": "swimming"
+  },
+  {
+    "Chinese": "晒太阳",
+    "Pinyin": "shài tàiyáng",
+    "english": "sunbathe"
+  },
+  {
+    "Chinese": "露营",
+    "Pinyin": "lùyíng",
+    "english": "camping"
+  },
+  {
+    "Chinese": "拍照",
+    "Pinyin": "pāizhào",
+    "english": "take photos"
+  },
+  {
+    "Chinese": "录像",
+    "Pinyin": "lùxiàng",
+    "english": "record video"
+  },
+  {
+    "Chinese": "纪念",
+    "Pinyin": "jìniàn",
+    "english": "commemorate"
+  },
+  {
+    "Chinese": "休闲",
+    "Pinyin": "xiūxián",
+    "english": "leisure"
+  },
+  {
+    "Chinese": "探险",
+    "Pinyin": "tànxiǎn",
+    "english": "explore"
+  },
+  {
+    "Chinese": "导览",
+    "Pinyin": "dǎolǎn",
+    "english": "guided tour"
+  },
+  {
+    "Chinese": "自由行",
+    "Pinyin": "zìyóuxíng",
+    "english": "self-guided trip"
+  },
+  {
+    "Chinese": "团体游",
+    "Pinyin": "tuántǐ yóu",
+    "english": "group tour"
+  },
+  {
+    "Chinese": "邮轮",
+    "Pinyin": "yóulún",
+    "english": "cruise"
+  },
+  {
+    "Chinese": "护照",
+    "Pinyin": "hùzhào",
+    "english": "passport"
+  },
+  {
+    "Chinese": "身份证",
+    "Pinyin": "shēnfèn zhèng",
+    "english": "ID card"
+  },
+  {
+    "Chinese": "驾驶证",
+    "Pinyin": "jiàshǐ zhèng",
+    "english": "driver's license"
+  },
+  {
+    "Chinese": "地图",
+    "Pinyin": "dìtú",
+    "english": "map"
+  },
+  {
+    "Chinese": "指南",
+    "Pinyin": "zhǐnán",
+    "english": "guidebook"
+  },
+  {
+    "Chinese": "翻译",
+    "Pinyin": "fānyì",
+    "english": "translation"
+  },
+  {
+    "Chinese": "旅行社",
+    "Pinyin": "lǚxíngshè",
+    "english": "travel agency"
+  },
+  {
+    "Chinese": "预订号码",
+    "Pinyin": "yùdìng hàomǎ",
+    "english": "reservation number"
+  },
+  {
+    "Chinese": "联系电话",
+    "Pinyin": "liánxì diànhuà",
+    "english": "contact number"
+  },
+  {
+    "Chinese": "紧急电话",
+    "Pinyin": "jǐnjí diànhuà",
+    "english": "emergency phone number"
+  },
+  {
+    "Chinese": "旅游保险",
+    "Pinyin": "lǚyóu bǎoxiǎn",
+    "english": "travel insurance"
+  }
+]

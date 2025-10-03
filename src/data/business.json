@@ -1,0 +1,332 @@
+[
+  {
+    "Chinese": "商业",
+    "Pinyin": "shāngyè",
+    "english": "business, commerce"
+  },
+  {
+    "Chinese": "生意",
+    "Pinyin": "shēngyì",
+    "english": "business, trade"
+  },
+  {
+    "Chinese": "公司",
+    "Pinyin": "gōngsī",
+    "english": "company"
+  },
+  {
+    "Chinese": "企业",
+    "Pinyin": "qǐyè",
+    "english": "enterprise"
+  },
+  {
+    "Chinese": "集团",
+    "Pinyin": "jítuán",
+    "english": "corporation, group"
+  },
+  {
+    "Chinese": "客户",
+    "Pinyin": "kèhù",
+    "english": "client, customer"
+  },
+  {
+    "Chinese": "供应商",
+    "Pinyin": "gōngyìngshāng",
+    "english": "supplier"
+  },
+  {
+    "Chinese": "合作伙伴",
+    "Pinyin": "hézuò huǒbàn",
+    "english": "business partner"
+  },
+  {
+    "Chinese": "投资者",
+    "Pinyin": "tóuzīzhě",
+    "english": "investor"
+  },
+  {
+    "Chinese": "股东",
+    "Pinyin": "gǔdōng",
+    "english": "shareholder"
+  },
+  {
+    "Chinese": "董事会",
+    "Pinyin": "dǒngshìhuì",
+    "english": "board of directors"
+  },
+  {
+    "Chinese": "管理层",
+    "Pinyin": "guǎnlǐcéng",
+    "english": "management"
+  },
+  {
+    "Chinese": "经理",
+    "Pinyin": "jīnglǐ",
+    "english": "manager"
+  },
+  {
+    "Chinese": "总裁",
+    "Pinyin": "zǒngcái",
+    "english": "CEO, president"
+  },
+  {
+    "Chinese": "总经理",
+    "Pinyin": "zǒng jīnglǐ",
+    "english": "general manager"
+  },
+  {
+    "Chinese": "市场部",
+    "Pinyin": "shìchǎng bù",
+    "english": "marketing department"
+  },
+  {
+    "Chinese": "财务部",
+    "Pinyin": "cáiwù bù",
+    "english": "finance department"
+  },
+  {
+    "Chinese": "人力资源部",
+    "Pinyin": "rénlì zīyuán bù",
+    "english": "human resources department"
+  },
+  {
+    "Chinese": "销售部",
+    "Pinyin": "xiāoshòu bù",
+    "english": "sales department"
+  },
+  {
+    "Chinese": "研发部",
+    "Pinyin": "yánfā bù",
+    "english": "R&D department"
+  },
+  {
+    "Chinese": "市场",
+    "Pinyin": "shìchǎng",
+    "english": "market"
+  },
+  {
+    "Chinese": "贸易",
+    "Pinyin": "màoyì",
+    "english": "trade"
+  },
+  {
+    "Chinese": "投资",
+    "Pinyin": "tóuzī",
+    "english": "investment"
+  },
+  {
+    "Chinese": "资金",
+    "Pinyin": "zījīn",
+    "english": "funds, capital"
+  },
+  {
+    "Chinese": "利润",
+    "Pinyin": "lìrùn",
+    "english": "profit"
+  },
+  {
+    "Chinese": "亏损",
+    "Pinyin": "kuīsǔn",
+    "english": "loss"
+  },
+  {
+    "Chinese": "收入",
+    "Pinyin": "shōurù",
+    "english": "income"
+  },
+  {
+    "Chinese": "支出",
+    "Pinyin": "zhīchū",
+    "english": "expense"
+  },
+  {
+    "Chinese": "预算",
+    "Pinyin": "yùsuàn",
+    "english": "budget"
+  },
+  {
+    "Chinese": "成本",
+    "Pinyin": "chéngběn",
+    "english": "cost"
+  },
+  {
+    "Chinese": "价格",
+    "Pinyin": "jiàgé",
+    "english": "price"
+  },
+  {
+    "Chinese": "合同",
+    "Pinyin": "hétóng",
+    "english": "contract"
+  },
+  {
+    "Chinese": "协议",
+    "Pinyin": "xiéyì",
+    "english": "agreement"
+  },
+  {
+    "Chinese": "订单",
+    "Pinyin": "dìngdān",
+    "english": "order (business)"
+  },
+  {
+    "Chinese": "发票",
+    "Pinyin": "fāpiào",
+    "english": "invoice"
+  },
+  {
+    "Chinese": "收据",
+    "Pinyin": "shōujù",
+    "english": "receipt"
+  },
+  {
+    "Chinese": "出口",
+    "Pinyin": "chūkǒu",
+    "english": "export"
+  },
+  {
+    "Chinese": "进口",
+    "Pinyin": "jìnkǒu",
+    "english": "import"
+  },
+  {
+    "Chinese": "外贸",
+    "Pinyin": "wàimào",
+    "english": "foreign trade"
+  },
+  {
+    "Chinese": "开会",
+    "Pinyin": "kāihuì",
+    "english": "hold a meeting"
+  },
+  {
+    "Chinese": "谈判",
+    "Pinyin": "tánpàn",
+    "english": "negotiation"
+  },
+  {
+    "Chinese": "签约",
+    "Pinyin": "qiānyuē",
+    "english": "sign a contract"
+  },
+  {
+    "Chinese": "合作",
+    "Pinyin": "hézuò",
+    "english": "cooperate"
+  },
+  {
+    "Chinese": "竞争",
+    "Pinyin": "jìngzhēng",
+    "english": "competition"
+  },
+  {
+    "Chinese": "发展",
+    "Pinyin": "fāzhǎn",
+    "english": "develop"
+  },
+  {
+    "Chinese": "推广",
+    "Pinyin": "tuīguǎng",
+    "english": "promote"
+  },
+  {
+    "Chinese": "营销",
+    "Pinyin": "yíngxiāo",
+    "english": "marketing"
+  },
+  {
+    "Chinese": "广告",
+    "Pinyin": "guǎnggào",
+    "english": "advertisement"
+  },
+  {
+    "Chinese": "品牌",
+    "Pinyin": "pǐnpái",
+    "english": "brand"
+  },
+  {
+    "Chinese": "报价",
+    "Pinyin": "bàojià",
+    "english": "quote a price"
+  },
+  {
+    "Chinese": "成交",
+    "Pinyin": "chéngjiāo",
+    "english": "close a deal"
+  },
+  {
+    "Chinese": "交货",
+    "Pinyin": "jiāohuò",
+    "english": "deliver goods"
+  },
+  {
+    "Chinese": "付款",
+    "Pinyin": "fùkuǎn",
+    "english": "make payment"
+  },
+  {
+    "Chinese": "退款",
+    "Pinyin": "tuìkuǎn",
+    "english": "refund"
+  },
+  {
+    "Chinese": "物流",
+    "Pinyin": "wùliú",
+    "english": "logistics"
+  },
+  {
+    "Chinese": "供应链",
+    "Pinyin": "gōngyìngliàn",
+    "english": "supply chain"
+  },
+  {
+    "Chinese": "战略",
+    "Pinyin": "zhànlüè",
+    "english": "strategy"
+  },
+  {
+    "Chinese": "目标",
+    "Pinyin": "mùbiāo",
+    "english": "goal"
+  },
+  {
+    "Chinese": "计划",
+    "Pinyin": "jìhuà",
+    "english": "plan"
+  },
+  {
+    "Chinese": "方案",
+    "Pinyin": "fāng'àn",
+    "english": "proposal, plan"
+  },
+  {
+    "Chinese": "业绩",
+    "Pinyin": "yèjì",
+    "english": "business performance"
+  },
+  {
+    "Chinese": "风险",
+    "Pinyin": "fēngxiǎn",
+    "english": "risk"
+  },
+  {
+    "Chinese": "机遇",
+    "Pinyin": "jīyù",
+    "english": "opportunity"
+  },
+  {
+    "Chinese": "挑战",
+    "Pinyin": "tiǎozhàn",
+    "english": "challenge"
+  },
+  {
+    "Chinese": "责任",
+    "Pinyin": "zérèn",
+    "english": "responsibility"
+  },
+  {
+    "Chinese": "权利",
+    "Pinyin": "quánlì",
+    "english": "rights"
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "Chinese": "文化",
+    "Pinyin": "wénhuà",
+    "english": "culture"
+  },
+  {
+    "Chinese": "传统",
+    "Pinyin": "chuántǒng",
+    "english": "tradition"
+  },
+  {
+    "Chinese": "习俗",
+    "Pinyin": "xísú",
+    "english": "custom"
+  },
+  {
+    "Chinese": "礼节",
+    "Pinyin": "lǐjié",
+    "english": "etiquette"
+  },
+  {
+    "Chinese": "文明",
+    "Pinyin": "wénmíng",
+    "english": "civilization"
+  },
+  {
+    "Chinese": "历史",
+    "Pinyin": "lìshǐ",
+    "english": "history"
+  },
+  {
+    "Chinese": "遗产",
+    "Pinyin": "yíchǎn",
+    "english": "heritage"
+  },
+  {
+    "Chinese": "古代",
+    "Pinyin": "gǔdài",
+    "english": "ancient times"
+  },
+  {
+    "Chinese": "现代",
+    "Pinyin": "xiàndài",
+    "english": "modern"
+  },
+  {
+    "Chinese": "民族",
+    "Pinyin": "mínzú",
+    "english": "ethnic group"
+  },
+  {
+    "Chinese": "多元文化",
+    "Pinyin": "duōyuán wénhuà",
+    "english": "multiculturalism"
+  },
+  {
+    "Chinese": "文化交流",
+    "Pinyin": "wénhuà jiāoliú",
+    "english": "cultural exchange"
+  },
+  {
+    "Chinese": "文化差异",
+    "Pinyin": "wénhuà chāyì",
+    "english": "cultural difference"
+  },
+  {
+    "Chinese": "文化认同",
+    "Pinyin": "wénhuà rèntóng",
+    "english": "cultural identity"
+  },
+  {
+    "Chinese": "文化背景",
+    "Pinyin": "wénhuà bèijǐng",
+    "english": "cultural background"
+  },
+  {
+    "Chinese": "春节",
+    "Pinyin": "Chūnjié",
+    "english": "Spring Festival"
+  },
+  {
+    "Chinese": "元宵节",
+    "Pinyin": "Yuánxiāo Jié",
+    "english": "Lantern Festival"
+  },
+  {
+    "Chinese": "清明节",
+    "Pinyin": "Qīngmíng Jié",
+    "english": "Tomb-Sweeping Day"
+  },
+  {
+    "Chinese": "端午节",
+    "Pinyin": "Duānwǔ Jié",
+    "english": "Dragon Boat Festival"
+  },
+  {
+    "Chinese": "中秋节",
+    "Pinyin": "Zhōngqiū Jié",
+    "english": "Mid-Autumn Festival"
+  },
+  {
+    "Chinese": "重阳节",
+    "Pinyin": "Chóngyáng Jié",
+    "english": "Double Ninth Festival"
+  },
+  {
+    "Chinese": "七夕节",
+    "Pinyin": "Qīxī Jié",
+    "english": "Qixi Festival (Chinese Valentine’s Day)"
+  },
+  {
+    "Chinese": "腊八节",
+    "Pinyin": "Làbā Jié",
+    "english": "Laba Festival"
+  },
+  {
+    "Chinese": "国庆节",
+    "Pinyin": "Guóqìng Jié",
+    "english": "National Day"
+  },
+  {
+    "Chinese": "圣诞节",
+    "Pinyin": "Shèngdàn Jié",
+    "english": "Christmas"
+  },
+  {
+    "Chinese": "万圣节",
+    "Pinyin": "Wànshèng Jié",
+    "english": "Halloween"
+  },
+  {
+    "Chinese": "复活节",
+    "Pinyin": "Fùhuó Jié",
+    "english": "Easter"
+  },
+  {
+    "Chinese": "艺术",
+    "Pinyin": "yìshù",
+    "english": "art"
+  },
+  {
+    "Chinese": "美术",
+    "Pinyin": "měishù",
+    "english": "fine arts"
+  },
+  {
+    "Chinese": "音乐",
+    "Pinyin": "yīnyuè",
+    "english": "music"
+  },
+  {
+    "Chinese": "舞蹈",
+    "Pinyin": "wǔdǎo",
+    "english": "dance"
+  },
+  {
+    "Chinese": "戏剧",
+    "Pinyin": "xìjù",
+    "english": "theater"
+  },
+  {
+    "Chinese": "话剧",
+    "Pinyin": "huàjù",
+    "english": "stage play"
+  },
+  {
+    "Chinese": "歌剧",
+    "Pinyin": "gējù",
+    "english": "opera"
+  },
+  {
+    "Chinese": "京剧",
+    "Pinyin": "Jīngjù",
+    "english": "Peking Opera"
+  },
+  {
+    "Chinese": "昆曲",
+    "Pinyin": "Kūnqǔ",
+    "english": "Kunqu Opera"
+  },
+  {
+    "Chinese": "绘画",
+    "Pinyin": "huìhuà",
+    "english": "painting"
+  },
+  {
+    "Chinese": "雕塑",
+    "Pinyin": "diāosù",
+    "english": "sculpture"
+  },
+  {
+    "Chinese": "陶艺",
+    "Pinyin": "táoyì",
+    "english": "pottery art"
+  },
+  {
+    "Chinese": "摄影",
+    "Pinyin": "shèyǐng",
+    "english": "photography"
+  },
+  {
+    "Chinese": "文学",
+    "Pinyin": "wénxué",
+    "english": "literature"
+  },
+  {
+    "Chinese": "小说",
+    "Pinyin": "xiǎoshuō",
+    "english": "novel"
+  },
+  {
+    "Chinese": "散文",
+    "Pinyin": "sǎnwén",
+    "english": "prose"
+  },
+  {
+    "Chinese": "诗歌",
+    "Pinyin": "shīgē",
+    "english": "poetry"
+  },
+  {
+    "Chinese": "书法",
+    "Pinyin": "shūfǎ",
+    "english": "calligraphy"
+  },
+  {
+    "Chinese": "篆刻",
+    "Pinyin": "zhuànkè",
+    "english": "seal carving"
+  },
+  {
+    "Chinese": "国画",
+    "Pinyin": "guóhuà",
+    "english": "Chinese painting"
+  },
+  {
+    "Chinese": "民间艺术",
+    "Pinyin": "mínjiān yìshù",
+    "english": "folk art"
+  },
+  {
+    "Chinese": "民间舞蹈",
+    "Pinyin": "mínjiān wǔdǎo",
+    "english": "folk dance"
+  },
+  {
+    "Chinese": "民歌",
+    "Pinyin": "míngē",
+    "english": "folk song"
+  },
+  {
+    "Chinese": "戏曲",
+    "Pinyin": "xìqǔ",
+    "english": "traditional opera"
+  },
+  {
+    "Chinese": "乐器",
+    "Pinyin": "yuèqì",
+    "english": "musical instrument"
+  },
+  {
+    "Chinese": "古筝",
+    "Pinyin": "gǔzhēng",
+    "english": "guzheng (zither)"
+  },
+  {
+    "Chinese": "琵琶",
+    "Pinyin": "pípá",
+    "english": "pipa (lute)"
+  },
+  {
+    "Chinese": "二胡",
+    "Pinyin": "èrhú",
+    "english": "erhu"
+  },
+  {
+    "Chinese": "笛子",
+    "Pinyin": "dízi",
+    "english": "flute"
+  },
+  {
+    "Chinese": "鼓",
+    "Pinyin": "gǔ",
+    "english": "drum"
+  },
+  {
+    "Chinese": "大提琴",
+    "Pinyin": "dàtíqín",
+    "english": "cello"
+  },
+  {
+    "Chinese": "钢琴",
+    "Pinyin": "gāngqín",
+    "english": "piano"
+  },
+  {
+    "Chinese": "小提琴",
+    "Pinyin": "xiǎotíqín",
+    "english": "violin"
+  },
+  {
+    "Chinese": "宗教",
+    "Pinyin": "zōngjiào",
+    "english": "religion"
+  },
+  {
+    "Chinese": "佛教",
+    "Pinyin": "Fójiào",
+    "english": "Buddhism"
+  },
+  {
+    "Chinese": "道教",
+    "Pinyin": "Dàojiào",
+    "english": "Daoism"
+  },
+  {
+    "Chinese": "儒家",
+    "Pinyin": "Rújiā",
+    "english": "Confucianism"
+  },
+  {
+    "Chinese": "基督教",
+    "Pinyin": "Jīdūjiào",
+    "english": "Christianity"
+  },
+  {
+    "Chinese": "伊斯兰教",
+    "Pinyin": "Yīsīlánjiào",
+    "english": "Islam"
+  },
+  {
+    "Chinese": "寺庙",
+    "Pinyin": "sìmiào",
+    "english": "temple"
+  },
+  {
+    "Chinese": "教堂",
+    "Pinyin": "jiàotáng",
+    "english": "church"
+  },
+  {
+    "Chinese": "清真寺",
+    "Pinyin": "qīngzhēnsì",
+    "english": "mosque"
+  },
+  {
+    "Chinese": "哲学",
+    "Pinyin": "zhéxué",
+    "english": "philosophy"
+  },
+  {
+    "Chinese": "思想",
+    "Pinyin": "sīxiǎng",
+    "english": "thought, ideology"
+  },
+  {
+    "Chinese": "价值观",
+    "Pinyin": "jiàzhíguān",
+    "english": "values"
+  },
+  {
+    "Chinese": "信仰",
+    "Pinyin": "xìnyǎng",
+    "english": "faith, belief"
+  },
+  {
+    "Chinese": "饮食文化",
+    "Pinyin": "yǐnshí wénhuà",
+    "english": "food culture"
+  },
+  {
+    "Chinese": "茶文化",
+    "Pinyin": "chá wénhuà",
+    "english": "tea culture"
+  },
+  {
+    "Chinese": "酒文化",
+    "Pinyin": "jiǔ wénhuà",
+    "english": "alcohol culture"
+  },
+  {
+    "Chinese": "中医",
+    "Pinyin": "Zhōngyī",
+    "english": "traditional Chinese medicine"
+  },
+  {
+    "Chinese": "武术",
+    "Pinyin": "wǔshù",
+    "english": "martial arts"
+  },
+  {
+    "Chinese": "太极拳",
+    "Pinyin": "tàijíquán",
+    "english": "Tai Chi"
+  },
+  {
+    "Chinese": "功夫",
+    "Pinyin": "gōngfu",
+    "english": "Kung Fu"
+  },
+  {
+    "Chinese": "风水",
+    "Pinyin": "fēngshuǐ",
+    "english": "feng shui"
+  },
+  {
+    "Chinese": "生肖",
+    "Pinyin": "shēngxiào",
+    "english": "Chinese zodiac"
+  },
+  {
+    "Chinese": "龙",
+    "Pinyin": "lóng",
+    "english": "dragon"
+  },
+  {
+    "Chinese": "凤凰",
+    "Pinyin": "fènghuáng",
+    "english": "phoenix"
+  },
+  {
+    "Chinese": "麒麟",
+    "Pinyin": "qílín",
+    "english": "qilin (Chinese unicorn)"
+  },
+  {
+    "Chinese": "祥云",
+    "Pinyin": "xiángyún",
+    "english": "auspicious cloud"
+  },
+  {
+    "Chinese": "吉祥物",
+    "Pinyin": "jíxiángwù",
+    "english": "mascot"
+  },
+  {
+    "Chinese": "剪纸",
+    "Pinyin": "jiǎnzhǐ",
+    "english": "paper cutting"
+  },
+  {
+    "Chinese": "灯笼",
+    "Pinyin": "dēnglóng",
+    "english": "lantern"
+  },
+  {
+    "Chinese": "年画",
+    "Pinyin": "niánhuà",
+    "english": "New Year picture"
+  },
+  {
+    "Chinese": "对联",
+    "Pinyin": "duìlián",
+    "english": "couplet"
+  },
+  {
+    "Chinese": "象征",
+    "Pinyin": "xiàngzhēng",
+    "english": "symbol"
+  },
+  {
+    "Chinese": "民族服饰",
+    "Pinyin": "mínzú fúshì",
+    "english": "ethnic clothing"
+  },
+  {
+    "Chinese": "旗袍",
+    "Pinyin": "qípáo",
+    "english": "cheongsam"
+  },
+  {
+    "Chinese": "汉服",
+    "Pinyin": "Hànfú",
+    "english": "Han clothing"
+  },
+  {
+    "Chinese": "唐装",
+    "Pinyin": "Tángzhuāng",
+    "english": "Tang suit"
+  },
+  {
+    "Chinese": "京剧脸谱",
+    "Pinyin": "Jīngjù liǎnpǔ",
+    "english": "Peking Opera mask"
+  },
+  {
+    "Chinese": "陶瓷",
+    "Pinyin": "táocí",
+    "english": "ceramics"
+  },
+  {
+    "Chinese": "青花瓷",
+    "Pinyin": "qīnghuācí",
+    "english": "blue-and-white porcelain"
+  },
+  {
+    "Chinese": "丝绸",
+    "Pinyin": "sīchóu",
+    "english": "silk"
+  },
+  {
+    "Chinese": "丝绸之路",
+    "Pinyin": "Sīchóu Zhī Lù",
+    "english": "Silk Road"
+  },
+  {
+    "Chinese": "长城",
+    "Pinyin": "Chángchéng",
+    "english": "Great Wall"
+  },
+  {
+    "Chinese": "故宫",
+    "Pinyin": "Gùgōng",
+    "english": "Forbidden City"
+  },
+  {
+    "Chinese": "兵马俑",
+    "Pinyin": "Bīngmǎyǒng",
+    "english": "Terracotta Army"
+  }
+]

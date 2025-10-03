@@ -1,0 +1,597 @@
+[
+  {
+    "Chinese": "办公室",
+    "Pinyin": "bàngōngshì",
+    "english": "office"
+  },
+  {
+    "Chinese": "公司",
+    "Pinyin": "gōngsī",
+    "english": "company"
+  },
+  {
+    "Chinese": "企业",
+    "Pinyin": "qǐyè",
+    "english": "enterprise"
+  },
+  {
+    "Chinese": "部门",
+    "Pinyin": "bùmén",
+    "english": "department"
+  },
+  {
+    "Chinese": "科室",
+    "Pinyin": "kēshì",
+    "english": "division"
+  },
+  {
+    "Chinese": "总部",
+    "Pinyin": "zǒngbù",
+    "english": "headquarters"
+  },
+  {
+    "Chinese": "分公司",
+    "Pinyin": "fēngōngsī",
+    "english": "branch office"
+  },
+  {
+    "Chinese": "经理",
+    "Pinyin": "jīnglǐ",
+    "english": "manager"
+  },
+  {
+    "Chinese": "主管",
+    "Pinyin": "zhǔguǎn",
+    "english": "supervisor"
+  },
+  {
+    "Chinese": "主任",
+    "Pinyin": "zhǔrèn",
+    "english": "director"
+  },
+  {
+    "Chinese": "同事",
+    "Pinyin": "tóngshì",
+    "english": "colleague"
+  },
+  {
+    "Chinese": "同僚",
+    "Pinyin": "tóngliáo",
+    "english": "coworker"
+  },
+  {
+    "Chinese": "同伴",
+    "Pinyin": "tóngbàn",
+    "english": "companion, peer"
+  },
+  {
+    "Chinese": "员工",
+    "Pinyin": "yuángōng",
+    "english": "employee"
+  },
+  {
+    "Chinese": "职员",
+    "Pinyin": "zhíyuán",
+    "english": "staff"
+  },
+  {
+    "Chinese": "老板",
+    "Pinyin": "lǎobǎn",
+    "english": "boss"
+  },
+  {
+    "Chinese": "上司",
+    "Pinyin": "shàngsī",
+    "english": "superior"
+  },
+  {
+    "Chinese": "秘书",
+    "Pinyin": "mìshū",
+    "english": "secretary"
+  },
+  {
+    "Chinese": "助理",
+    "Pinyin": "zhùlǐ",
+    "english": "assistant"
+  },
+  {
+    "Chinese": "顾问",
+    "Pinyin": "gùwèn",
+    "english": "consultant"
+  },
+  {
+    "Chinese": "实习生",
+    "Pinyin": "shíxíshēng",
+    "english": "intern"
+  },
+  {
+    "Chinese": "学徒",
+    "Pinyin": "xuétú",
+    "english": "apprentice"
+  },
+  {
+    "Chinese": "合作伙伴",
+    "Pinyin": "hézuò huǒbàn",
+    "english": "business partner"
+  },
+  {
+    "Chinese": "会议",
+    "Pinyin": "huìyì",
+    "english": "meeting"
+  },
+  {
+    "Chinese": "会议室",
+    "Pinyin": "huìyìshì",
+    "english": "conference room"
+  },
+  {
+    "Chinese": "研讨会",
+    "Pinyin": "yántǎohuì",
+    "english": "seminar"
+  },
+  {
+    "Chinese": "讲座",
+    "Pinyin": "jiǎngzuò",
+    "english": "lecture"
+  },
+  {
+    "Chinese": "日程",
+    "Pinyin": "rìchéng",
+    "english": "schedule"
+  },
+  {
+    "Chinese": "议程",
+    "Pinyin": "yìchéng",
+    "english": "agenda"
+  },
+  {
+    "Chinese": "休息室",
+    "Pinyin": "xiūxīshì",
+    "english": "break room"
+  },
+  {
+    "Chinese": "茶水间",
+    "Pinyin": "cháshuǐjiān",
+    "english": "pantry"
+  },
+  {
+    "Chinese": "食堂",
+    "Pinyin": "shítáng",
+    "english": "canteen"
+  },
+  {
+    "Chinese": "停车场",
+    "Pinyin": "tíngchēchǎng",
+    "english": "parking lot"
+  },
+  {
+    "Chinese": "大楼",
+    "Pinyin": "dàlóu",
+    "english": "building"
+  },
+  {
+    "Chinese": "办公室隔间",
+    "Pinyin": "bàngōngshì géjiān",
+    "english": "cubicle"
+  },
+  {
+    "Chinese": "开放式办公室",
+    "Pinyin": "kāifàngshì bàngōngshì",
+    "english": "open-plan office"
+  },
+  {
+    "Chinese": "报告",
+    "Pinyin": "bàogào",
+    "english": "report"
+  },
+  {
+    "Chinese": "总结",
+    "Pinyin": "zǒngjié",
+    "english": "summary"
+  },
+  {
+    "Chinese": "计划书",
+    "Pinyin": "jìhuàshū",
+    "english": "proposal"
+  },
+  {
+    "Chinese": "预算",
+    "Pinyin": "yùsuàn",
+    "english": "budget"
+  },
+  {
+    "Chinese": "合同",
+    "Pinyin": "hétóng",
+    "english": "contract"
+  },
+  {
+    "Chinese": "协议",
+    "Pinyin": "xiéyì",
+    "english": "agreement"
+  },
+  {
+    "Chinese": "申请",
+    "Pinyin": "shēnqǐng",
+    "english": "application"
+  },
+  {
+    "Chinese": "审批",
+    "Pinyin": "shěnpī",
+    "english": "approval"
+  },
+  {
+    "Chinese": "表格",
+    "Pinyin": "biǎogé",
+    "english": "form"
+  },
+  {
+    "Chinese": "简历",
+    "Pinyin": "jiǎnlì",
+    "english": "resume"
+  },
+  {
+    "Chinese": "履历",
+    "Pinyin": "lǚlì",
+    "english": "curriculum vitae"
+  },
+  {
+    "Chinese": "证明",
+    "Pinyin": "zhèngmíng",
+    "english": "certificate"
+  },
+  {
+    "Chinese": "资料",
+    "Pinyin": "zīliào",
+    "english": "materials"
+  },
+  {
+    "Chinese": "档案",
+    "Pinyin": "dàng'àn",
+    "english": "archive"
+  },
+  {
+    "Chinese": "文档",
+    "Pinyin": "wéndǎng",
+    "english": "document"
+  },
+  {
+    "Chinese": "电脑",
+    "Pinyin": "diànnǎo",
+    "english": "computer"
+  },
+  {
+    "Chinese": "笔记本电脑",
+    "Pinyin": "bǐjìběn diànnǎo",
+    "english": "laptop"
+  },
+  {
+    "Chinese": "平板电脑",
+    "Pinyin": "píngbǎn diànnǎo",
+    "english": "tablet"
+  },
+  {
+    "Chinese": "打印机",
+    "Pinyin": "dǎyìnjī",
+    "english": "printer"
+  },
+  {
+    "Chinese": "复印机",
+    "Pinyin": "fùyìnjī",
+    "english": "photocopier"
+  },
+  {
+    "Chinese": "扫描仪",
+    "Pinyin": "sǎomiáoyí",
+    "english": "scanner"
+  },
+  {
+    "Chinese": "传真机",
+    "Pinyin": "chuánzhēnjī",
+    "english": "fax machine"
+  },
+  {
+    "Chinese": "电话",
+    "Pinyin": "diànhuà",
+    "english": "telephone"
+  },
+  {
+    "Chinese": "手机",
+    "Pinyin": "shǒujī",
+    "english": "mobile phone"
+  },
+  {
+    "Chinese": "耳机",
+    "Pinyin": "ěrjī",
+    "english": "headphones"
+  },
+  {
+    "Chinese": "键盘",
+    "Pinyin": "jiànpán",
+    "english": "keyboard"
+  },
+  {
+    "Chinese": "鼠标",
+    "Pinyin": "shǔbiāo",
+    "english": "mouse"
+  },
+  {
+    "Chinese": "显示器",
+    "Pinyin": "xiǎnshìqì",
+    "english": "monitor"
+  },
+  {
+    "Chinese": "投影仪",
+    "Pinyin": "tóuyǐngyí",
+    "english": "projector"
+  },
+  {
+    "Chinese": "复印纸",
+    "Pinyin": "fùyìn zhǐ",
+    "english": "copy paper"
+  },
+  {
+    "Chinese": "文件夹",
+    "Pinyin": "wénjiànjiā",
+    "english": "folder"
+  },
+  {
+    "Chinese": "回形针",
+    "Pinyin": "huíxíngzhēn",
+    "english": "paperclip"
+  },
+  {
+    "Chinese": "订书机",
+    "Pinyin": "dìngshūjī",
+    "english": "stapler"
+  },
+  {
+    "Chinese": "笔记本",
+    "Pinyin": "bǐjìběn",
+    "english": "notebook"
+  },
+  {
+    "Chinese": "便利贴",
+    "Pinyin": "biànlìtiē",
+    "english": "sticky note"
+  },
+  {
+    "Chinese": "名片",
+    "Pinyin": "míngpiàn",
+    "english": "business card"
+  },
+  {
+    "Chinese": "工作",
+    "Pinyin": "gōngzuò",
+    "english": "work, job"
+  },
+  {
+    "Chinese": "上班",
+    "Pinyin": "shàngbān",
+    "english": "go to work"
+  },
+  {
+    "Chinese": "下班",
+    "Pinyin": "xiàbān",
+    "english": "get off work"
+  },
+  {
+    "Chinese": "打卡",
+    "Pinyin": "dǎkǎ",
+    "english": "clock in/out"
+  },
+  {
+    "Chinese": "加班",
+    "Pinyin": "jiābān",
+    "english": "overtime"
+  },
+  {
+    "Chinese": "请假",
+    "Pinyin": "qǐngjià",
+    "english": "request leave"
+  },
+  {
+    "Chinese": "休假",
+    "Pinyin": "xiūjià",
+    "english": "vacation"
+  },
+  {
+    "Chinese": "病假",
+    "Pinyin": "bìngjià",
+    "english": "sick leave"
+  },
+  {
+    "Chinese": "产假",
+    "Pinyin": "chǎnjià",
+    "english": "maternity leave"
+  },
+  {
+    "Chinese": "辞职",
+    "Pinyin": "cízhí",
+    "english": "resign"
+  },
+  {
+    "Chinese": "解雇",
+    "Pinyin": "jiěgù",
+    "english": "fire, dismiss"
+  },
+  {
+    "Chinese": "晋升",
+    "Pinyin": "jìnshēng",
+    "english": "promotion"
+  },
+  {
+    "Chinese": "调动",
+    "Pinyin": "diàodòng",
+    "english": "job transfer"
+  },
+  {
+    "Chinese": "考勤",
+    "Pinyin": "kǎoqín",
+    "english": "attendance"
+  },
+  {
+    "Chinese": "绩效",
+    "Pinyin": "jīxiào",
+    "english": "performance"
+  },
+  {
+    "Chinese": "任务",
+    "Pinyin": "rènwù",
+    "english": "task"
+  },
+  {
+    "Chinese": "目标",
+    "Pinyin": "mùbiāo",
+    "english": "goal"
+  },
+  {
+    "Chinese": "完成",
+    "Pinyin": "wánchéng",
+    "english": "complete"
+  },
+  {
+    "Chinese": "效率",
+    "Pinyin": "xiàolǜ",
+    "english": "efficiency"
+  },
+  {
+    "Chinese": "合作",
+    "Pinyin": "hézuò",
+    "english": "cooperate"
+  },
+  {
+    "Chinese": "讨论",
+    "Pinyin": "tǎolùn",
+    "english": "discuss"
+  },
+  {
+    "Chinese": "签署",
+    "Pinyin": "qiānshǔ",
+    "english": "sign"
+  },
+  {
+    "Chinese": "盖章",
+    "Pinyin": "gàizhāng",
+    "english": "seal"
+  },
+  {
+    "Chinese": "招聘",
+    "Pinyin": "zhāopìn",
+    "english": "recruit"
+  },
+  {
+    "Chinese": "招聘会",
+    "Pinyin": "zhāopìn huì",
+    "english": "job fair"
+  },
+  {
+    "Chinese": "应聘",
+    "Pinyin": "yìngpìn",
+    "english": "apply for a job"
+  },
+  {
+    "Chinese": "面试",
+    "Pinyin": "miànshì",
+    "english": "interview"
+  },
+  {
+    "Chinese": "录用",
+    "Pinyin": "lùyòng",
+    "english": "hire"
+  },
+  {
+    "Chinese": "人事部",
+    "Pinyin": "rénshì bù",
+    "english": "HR department"
+  },
+  {
+    "Chinese": "人力资源",
+    "Pinyin": "rénlì zīyuán",
+    "english": "human resources"
+  },
+  {
+    "Chinese": "劳动合同",
+    "Pinyin": "láodòng hétóng",
+    "english": "labor contract"
+  },
+  {
+    "Chinese": "薪水",
+    "Pinyin": "xīnshuǐ",
+    "english": "salary"
+  },
+  {
+    "Chinese": "工资",
+    "Pinyin": "gōngzī",
+    "english": "wage"
+  },
+  {
+    "Chinese": "奖金",
+    "Pinyin": "jiǎngjīn",
+    "english": "bonus"
+  },
+  {
+    "Chinese": "津贴",
+    "Pinyin": "jīntiē",
+    "english": "allowance"
+  },
+  {
+    "Chinese": "福利",
+    "Pinyin": "fúlì",
+    "english": "benefits"
+  },
+  {
+    "Chinese": "保险",
+    "Pinyin": "bǎoxiǎn",
+    "english": "insurance"
+  },
+  {
+    "Chinese": "养老金",
+    "Pinyin": "yǎnglǎo jīn",
+    "english": "pension"
+  },
+  {
+    "Chinese": "职业",
+    "Pinyin": "zhíyè",
+    "english": "occupation"
+  },
+  {
+    "Chinese": "事业",
+    "Pinyin": "shìyè",
+    "english": "career"
+  },
+  {
+    "Chinese": "培训",
+    "Pinyin": "péixùn",
+    "english": "training"
+  },
+  {
+    "Chinese": "技能",
+    "Pinyin": "jìnéng",
+    "english": "skills"
+  },
+  {
+    "Chinese": "经验",
+    "Pinyin": "jīngyàn",
+    "english": "experience"
+  },
+  {
+    "Chinese": "领导",
+    "Pinyin": "lǐngdǎo",
+    "english": "leadership"
+  },
+  {
+    "Chinese": "责任",
+    "Pinyin": "zérèn",
+    "english": "responsibility"
+  },
+  {
+    "Chinese": "权利",
+    "Pinyin": "quánlì",
+    "english": "rights"
+  },
+  {
+    "Chinese": "义务",
+    "Pinyin": "yìwù",
+    "english": "duty"
+  }
+]

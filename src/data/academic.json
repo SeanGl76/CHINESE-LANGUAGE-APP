@@ -1,0 +1,527 @@
+[
+  {
+    "Chinese": "学校",
+    "Pinyin": "xuéxiào",
+    "english": "school"
+  },
+  {
+    "Chinese": "小学",
+    "Pinyin": "xiǎoxué",
+    "english": "primary school"
+  },
+  {
+    "Chinese": "初中",
+    "Pinyin": "chūzhōng",
+    "english": "junior high school"
+  },
+  {
+    "Chinese": "高中",
+    "Pinyin": "gāozhōng",
+    "english": "senior high school"
+  },
+  {
+    "Chinese": "大学",
+    "Pinyin": "dàxué",
+    "english": "university"
+  },
+  {
+    "Chinese": "学院",
+    "Pinyin": "xuéyuàn",
+    "english": "college, institute"
+  },
+  {
+    "Chinese": "研究院",
+    "Pinyin": "yánjiūyuàn",
+    "english": "research institute"
+  },
+  {
+    "Chinese": "研究生院",
+    "Pinyin": "yánjiūshēngyuàn",
+    "english": "graduate school"
+  },
+  {
+    "Chinese": "职业学校",
+    "Pinyin": "zhíyè xuéxiào",
+    "english": "vocational school"
+  },
+  {
+    "Chinese": "国际学校",
+    "Pinyin": "guójì xuéxiào",
+    "english": "international school"
+  },
+  {
+    "Chinese": "寄宿学校",
+    "Pinyin": "jìsù xuéxiào",
+    "english": "boarding school"
+  },
+  {
+    "Chinese": "私立学校",
+    "Pinyin": "sīlì xuéxiào",
+    "english": "private school"
+  },
+  {
+    "Chinese": "公立学校",
+    "Pinyin": "gōnglì xuéxiào",
+    "english": "public school"
+  },
+  {
+    "Chinese": "学生",
+    "Pinyin": "xuéshēng",
+    "english": "student"
+  },
+  {
+    "Chinese": "同学",
+    "Pinyin": "tóngxué",
+    "english": "classmate"
+  },
+  {
+    "Chinese": "老师",
+    "Pinyin": "lǎoshī",
+    "english": "teacher"
+  },
+  {
+    "Chinese": "教授",
+    "Pinyin": "jiàoshòu",
+    "english": "professor"
+  },
+  {
+    "Chinese": "讲师",
+    "Pinyin": "jiǎngshī",
+    "english": "lecturer"
+  },
+  {
+    "Chinese": "导师",
+    "Pinyin": "dǎoshī",
+    "english": "supervisor"
+  },
+  {
+    "Chinese": "班主任",
+    "Pinyin": "bānzhǔrèn",
+    "english": "homeroom teacher"
+  },
+  {
+    "Chinese": "校长",
+    "Pinyin": "xiàozhǎng",
+    "english": "principal"
+  },
+  {
+    "Chinese": "学长",
+    "Pinyin": "xuézhǎng",
+    "english": "senior schoolmate"
+  },
+  {
+    "Chinese": "学姐",
+    "Pinyin": "xuéjiě",
+    "english": "female senior schoolmate"
+  },
+  {
+    "Chinese": "学弟",
+    "Pinyin": "xuédì",
+    "english": "male junior schoolmate"
+  },
+  {
+    "Chinese": "学妹",
+    "Pinyin": "xuémèi",
+    "english": "female junior schoolmate"
+  },
+  {
+    "Chinese": "校友",
+    "Pinyin": "xiàoyǒu",
+    "english": "alumni"
+  },
+  {
+    "Chinese": "职员",
+    "Pinyin": "zhíyuán",
+    "english": "staff"
+  },
+  {
+    "Chinese": "教室",
+    "Pinyin": "jiàoshì",
+    "english": "classroom"
+  },
+  {
+    "Chinese": "办公室",
+    "Pinyin": "bàngōngshì",
+    "english": "office"
+  },
+  {
+    "Chinese": "实验室",
+    "Pinyin": "shíyànshì",
+    "english": "laboratory"
+  },
+  {
+    "Chinese": "图书馆",
+    "Pinyin": "túshūguǎn",
+    "english": "library"
+  },
+  {
+    "Chinese": "阅览室",
+    "Pinyin": "yuèlǎnshì",
+    "english": "reading room"
+  },
+  {
+    "Chinese": "食堂",
+    "Pinyin": "shítáng",
+    "english": "canteen"
+  },
+  {
+    "Chinese": "宿舍",
+    "Pinyin": "sùshè",
+    "english": "dormitory"
+  },
+  {
+    "Chinese": "操场",
+    "Pinyin": "cāochǎng",
+    "english": "playground, sports field"
+  },
+  {
+    "Chinese": "体育馆",
+    "Pinyin": "tǐyùguǎn",
+    "english": "gymnasium"
+  },
+  {
+    "Chinese": "礼堂",
+    "Pinyin": "lǐtáng",
+    "english": "auditorium"
+  },
+  {
+    "Chinese": "校园",
+    "Pinyin": "xiàoyuán",
+    "english": "campus"
+  },
+  {
+    "Chinese": "校门",
+    "Pinyin": "xiàomén",
+    "english": "school gate"
+  },
+  {
+    "Chinese": "课程",
+    "Pinyin": "kèchéng",
+    "english": "course"
+  },
+  {
+    "Chinese": "科目",
+    "Pinyin": "kēmù",
+    "english": "subject"
+  },
+  {
+    "Chinese": "语文",
+    "Pinyin": "yǔwén",
+    "english": "Chinese language"
+  },
+  {
+    "Chinese": "数学",
+    "Pinyin": "shùxué",
+    "english": "mathematics"
+  },
+  {
+    "Chinese": "英语",
+    "Pinyin": "yīngyǔ",
+    "english": "English"
+  },
+  {
+    "Chinese": "外语",
+    "Pinyin": "wàiyǔ",
+    "english": "foreign language"
+  },
+  {
+    "Chinese": "历史",
+    "Pinyin": "lìshǐ",
+    "english": "history"
+  },
+  {
+    "Chinese": "地理",
+    "Pinyin": "dìlǐ",
+    "english": "geography"
+  },
+  {
+    "Chinese": "物理",
+    "Pinyin": "wùlǐ",
+    "english": "physics"
+  },
+  {
+    "Chinese": "化学",
+    "Pinyin": "huàxué",
+    "english": "chemistry"
+  },
+  {
+    "Chinese": "生物",
+    "Pinyin": "shēngwù",
+    "english": "biology"
+  },
+  {
+    "Chinese": "政治",
+    "Pinyin": "zhèngzhì",
+    "english": "politics"
+  },
+  {
+    "Chinese": "哲学",
+    "Pinyin": "zhéxué",
+    "english": "philosophy"
+  },
+  {
+    "Chinese": "经济学",
+    "Pinyin": "jīngjìxué",
+    "english": "economics"
+  },
+  {
+    "Chinese": "法学",
+    "Pinyin": "fǎxué",
+    "english": "law"
+  },
+  {
+    "Chinese": "教育学",
+    "Pinyin": "jiàoyùxué",
+    "english": "education"
+  },
+  {
+    "Chinese": "医学",
+    "Pinyin": "yīxué",
+    "english": "medicine"
+  },
+  {
+    "Chinese": "工学",
+    "Pinyin": "gōngxué",
+    "english": "engineering"
+  },
+  {
+    "Chinese": "计算机科学",
+    "Pinyin": "jìsuànjī kēxué",
+    "english": "computer science"
+  },
+  {
+    "Chinese": "艺术",
+    "Pinyin": "yìshù",
+    "english": "art"
+  },
+  {
+    "Chinese": "音乐",
+    "Pinyin": "yīnyuè",
+    "english": "music"
+  },
+  {
+    "Chinese": "美术",
+    "Pinyin": "měishù",
+    "english": "fine arts"
+  },
+  {
+    "Chinese": "体育",
+    "Pinyin": "tǐyù",
+    "english": "physical education"
+  },
+  {
+    "Chinese": "上课",
+    "Pinyin": "shàngkè",
+    "english": "attend class"
+  },
+  {
+    "Chinese": "下课",
+    "Pinyin": "xiàkè",
+    "english": "finish class"
+  },
+  {
+    "Chinese": "考试",
+    "Pinyin": "kǎoshì",
+    "english": "exam"
+  },
+  {
+    "Chinese": "测验",
+    "Pinyin": "cèyàn",
+    "english": "quiz"
+  },
+  {
+    "Chinese": "作业",
+    "Pinyin": "zuòyè",
+    "english": "homework"
+  },
+  {
+    "Chinese": "练习",
+    "Pinyin": "liànxí",
+    "english": "exercise"
+  },
+  {
+    "Chinese": "研究",
+    "Pinyin": "yánjiū",
+    "english": "research"
+  },
+  {
+    "Chinese": "论文",
+    "Pinyin": "lùnwén",
+    "english": "thesis, paper"
+  },
+  {
+    "Chinese": "实验",
+    "Pinyin": "shíyàn",
+    "english": "experiment"
+  },
+  {
+    "Chinese": "毕业",
+    "Pinyin": "bìyè",
+    "english": "graduate"
+  },
+  {
+    "Chinese": "升学",
+    "Pinyin": "shēngxué",
+    "english": "enter a higher school"
+  },
+  {
+    "Chinese": "学位",
+    "Pinyin": "xuéwèi",
+    "english": "degree"
+  },
+  {
+    "Chinese": "学分",
+    "Pinyin": "xuéfēn",
+    "english": "credit"
+  },
+  {
+    "Chinese": "奖学金",
+    "Pinyin": "jiǎngxuéjīn",
+    "english": "scholarship"
+  },
+  {
+    "Chinese": "成绩",
+    "Pinyin": "chéngjì",
+    "english": "grade, score"
+  },
+  {
+    "Chinese": "分数",
+    "Pinyin": "fēnshù",
+    "english": "mark"
+  },
+  {
+    "Chinese": "课堂",
+    "Pinyin": "kètáng",
+    "english": "classroom session"
+  },
+  {
+    "Chinese": "讲座",
+    "Pinyin": "jiǎngzuò",
+    "english": "lecture"
+  },
+  {
+    "Chinese": "演讲",
+    "Pinyin": "yǎnjiǎng",
+    "english": "speech"
+  },
+  {
+    "Chinese": "辩论",
+    "Pinyin": "biànlùn",
+    "english": "debate"
+  },
+  {
+    "Chinese": "课题",
+    "Pinyin": "kètí",
+    "english": "topic"
+  },
+  {
+    "Chinese": "笔记",
+    "Pinyin": "bǐjì",
+    "english": "notes"
+  },
+  {
+    "Chinese": "教材",
+    "Pinyin": "jiàocái",
+    "english": "teaching material"
+  },
+  {
+    "Chinese": "课本",
+    "Pinyin": "kèběn",
+    "english": "textbook"
+  },
+  {
+    "Chinese": "参考书",
+    "Pinyin": "cānkǎoshū",
+    "english": "reference book"
+  },
+  {
+    "Chinese": "字典",
+    "Pinyin": "zìdiǎn",
+    "english": "dictionary"
+  },
+  {
+    "Chinese": "文凭",
+    "Pinyin": "wénpíng",
+    "english": "diploma"
+  },
+  {
+    "Chinese": "校规",
+    "Pinyin": "xiàoguī",
+    "english": "school rules"
+  },
+  {
+    "Chinese": "纪律",
+    "Pinyin": "jìlǜ",
+    "english": "discipline"
+  },
+  {
+    "Chinese": "请假条",
+    "Pinyin": "qǐngjiàtiáo",
+    "english": "leave note"
+  },
+  {
+    "Chinese": "开学",
+    "Pinyin": "kāixué",
+    "english": "school starts"
+  },
+  {
+    "Chinese": "放假",
+    "Pinyin": "fàngjià",
+    "english": "have holiday"
+  },
+  {
+    "Chinese": "寒假",
+    "Pinyin": "hánjià",
+    "english": "winter vacation"
+  },
+  {
+    "Chinese": "暑假",
+    "Pinyin": "shǔjià",
+    "english": "summer vacation"
+  },
+  {
+    "Chinese": "补习",
+    "Pinyin": "bǔxí",
+    "english": "tutoring"
+  },
+  {
+    "Chinese": "辅导",
+    "Pinyin": "fǔdǎo",
+    "english": "counseling, guidance"
+  },
+  {
+    "Chinese": "班级",
+    "Pinyin": "bānjí",
+    "english": "class"
+  },
+  {
+    "Chinese": "年级",
+    "Pinyin": "niánjí",
+    "english": "grade"
+  },
+  {
+    "Chinese": "讲义",
+    "Pinyin": "jiǎngyì",
+    "english": "handout"
+  },
+  {
+    "Chinese": "学术",
+    "Pinyin": "xuéshù",
+    "english": "academic"
+  },
+  {
+    "Chinese": "学术会议",
+    "Pinyin": "xuéshù huìyì",
+    "english": "academic conference"
+  },
+  {
+    "Chinese": "学术论文",
+    "Pinyin": "xuéshù lùnwén",
+    "english": "academic paper"
+  },
+  {
+    "Chinese": "研究报告",
+    "Pinyin": "yánjiū bàogào",
+    "english": "research report"
+  }
+]
