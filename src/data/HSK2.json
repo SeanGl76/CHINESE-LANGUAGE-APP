@@ -1,0 +1,806 @@
+[
+  {
+    "simp": "吧",
+    "trad": "吧",
+    "pinyin": "ba",
+    "english": "(modal particle / suggestion)"
+  },
+  {
+    "simp": "白",
+    "trad": "白",
+    "pinyin": "bái",
+    "english": "white"
+  },
+  {
+    "simp": "百",
+    "trad": "百",
+    "pinyin": "bǎi",
+    "english": "hundred"
+  },
+  {
+    "simp": "帮助",
+    "trad": "幫助",
+    "pinyin": "bāngzhù",
+    "english": "to help"
+  },
+  {
+    "simp": "报纸",
+    "trad": "報紙",
+    "pinyin": "bàozhǐ",
+    "english": "newspaper"
+  },
+  {
+    "simp": "比",
+    "trad": "比",
+    "pinyin": "bǐ",
+    "english": "to compare; than"
+  },
+  {
+    "simp": "别",
+    "trad": "別",
+    "pinyin": "bié",
+    "english": "don't; other; else"
+  },
+  {
+    "simp": "宾馆",
+    "trad": "賓館",
+    "pinyin": "bīnguǎn",
+    "english": "hotel; guesthouse"
+  },
+  {
+    "simp": "唱歌",
+    "trad": "唱歌",
+    "pinyin": "chànggē",
+    "english": "to sing"
+  },
+  {
+    "simp": "出",
+    "trad": "出",
+    "pinyin": "chū",
+    "english": "to go out"
+  },
+  {
+    "simp": "穿",
+    "trad": "穿",
+    "pinyin": "chuān",
+    "english": "to wear; to put on"
+  },
+  {
+    "simp": "次",
+    "trad": "次",
+    "pinyin": "cì",
+    "english": "(measure) time(s); occurrence"
+  },
+  {
+    "simp": "从",
+    "trad": "從",
+    "pinyin": "cóng",
+    "english": "from; since"
+  },
+  {
+    "simp": "错",
+    "trad": "錯",
+    "pinyin": "cuò",
+    "english": "wrong; mistaken"
+  },
+  {
+    "simp": "打篮球",
+    "trad": "打籃球",
+    "pinyin": "dǎ lánqiú",
+    "english": "to play basketball"
+  },
+  {
+    "simp": "大家",
+    "trad": "大家",
+    "pinyin": "dàjiā",
+    "english": "everybody"
+  },
+  {
+    "simp": "但是",
+    "trad": "但是",
+    "pinyin": "dànshì",
+    "english": "but; however"
+  },
+  {
+    "simp": "到",
+    "trad": "到",
+    "pinyin": "dào",
+    "english": "to arrive; to reach; until"
+  },
+  {
+    "simp": "得",
+    "trad": "得",
+    "pinyin": "de",
+    "english": "(structural particle after verb)"
+  },
+  {
+    "simp": "等",
+    "trad": "等",
+    "pinyin": "děng",
+    "english": "to wait; and so on"
+  },
+  {
+    "simp": "第一",
+    "trad": "第一",
+    "pinyin": "dì-yī",
+    "english": "first; number one"
+  },
+  {
+    "simp": "懂",
+    "trad": "懂",
+    "pinyin": "dǒng",
+    "english": "to understand"
+  },
+  {
+    "simp": "对",
+    "trad": "對",
+    "pinyin": "duì",
+    "english": "correct; towards; to"
+  },
+  {
+    "simp": "房间",
+    "trad": "房間",
+    "pinyin": "fángjiān",
+    "english": "room"
+  },
+  {
+    "simp": "非常",
+    "trad": "非常",
+    "pinyin": "fēicháng",
+    "english": "very; extremely"
+  },
+  {
+    "simp": "服务员",
+    "trad": "服務員",
+    "pinyin": "fúwùyuán",
+    "english": "waiter/waitress; attendant"
+  },
+  {
+    "simp": "告诉",
+    "trad": "告訴",
+    "pinyin": "gàosu",
+    "english": "to tell; to inform"
+  },
+  {
+    "simp": "给",
+    "trad": "給",
+    "pinyin": "gěi",
+    "english": "to give; for"
+  },
+  {
+    "simp": "公共汽车",
+    "trad": "公共汽車",
+    "pinyin": "gōnggòng qìchē",
+    "english": "bus"
+  },
+  {
+    "simp": "公司",
+    "trad": "公司",
+    "pinyin": "gōngsī",
+    "english": "company"
+  },
+  {
+    "simp": "贵",
+    "trad": "貴",
+    "pinyin": "guì",
+    "english": "expensive; honorable"
+  },
+  {
+    "simp": "过",
+    "trad": "過",
+    "pinyin": "guò",
+    "english": "to pass; to spend (time); (particle)"
+  },
+  {
+    "simp": "还是",
+    "trad": "還是",
+    "pinyin": "háishi",
+    "english": "still; or (in questions)"
+  },
+  {
+    "simp": "孩子",
+    "trad": "孩子",
+    "pinyin": "háizi",
+    "english": "child; kid"
+  },
+  {
+    "simp": "好吃",
+    "trad": "好吃",
+    "pinyin": "hǎochī",
+    "english": "tasty; delicious"
+  },
+  {
+    "simp": "黑",
+    "trad": "黑",
+    "pinyin": "hēi",
+    "english": "black"
+  },
+  {
+    "simp": "红",
+    "trad": "紅",
+    "pinyin": "hóng",
+    "english": "red"
+  },
+  {
+    "simp": "机场",
+    "trad": "機場",
+    "pinyin": "jīchǎng",
+    "english": "airport"
+  },
+  {
+    "simp": "鸡蛋",
+    "trad": "雞蛋",
+    "pinyin": "jīdàn",
+    "english": "egg"
+  },
+  {
+    "simp": "件",
+    "trad": "件",
+    "pinyin": "jiàn",
+    "english": "(measure) piece; item (for clothes, matters)"
+  },
+  {
+    "simp": "教室",
+    "trad": "教室",
+    "pinyin": "jiàoshì",
+    "english": "classroom"
+  },
+  {
+    "simp": "姐姐",
+    "trad": "姐姐",
+    "pinyin": "jiějie",
+    "english": "older sister"
+  },
+  {
+    "simp": "介绍",
+    "trad": "介紹",
+    "pinyin": "jièshào",
+    "english": "to introduce"
+  },
+  {
+    "simp": "进",
+    "trad": "進",
+    "pinyin": "jìn",
+    "english": "to enter"
+  },
+  {
+    "simp": "近",
+    "trad": "近",
+    "pinyin": "jìn",
+    "english": "near; close"
+  },
+  {
+    "simp": "经常",
+    "trad": "經常",
+    "pinyin": "jīngcháng",
+    "english": "often; frequently"
+  },
+  {
+    "simp": "就",
+    "trad": "就",
+    "pinyin": "jiù",
+    "english": "then; right away; only"
+  },
+  {
+    "simp": "咖啡",
+    "trad": "咖啡",
+    "pinyin": "kāfēi",
+    "english": "coffee"
+  },
+  {
+    "simp": "开始",
+    "trad": "開始",
+    "pinyin": "kāishǐ",
+    "english": "to start; to begin"
+  },
+  {
+    "simp": "考试",
+    "trad": "考試",
+    "pinyin": "kǎoshì",
+    "english": "exam; to take a test"
+  },
+  {
+    "simp": "可能",
+    "trad": "可能",
+    "pinyin": "kěnéng",
+    "english": "possible; maybe"
+  },
+  {
+    "simp": "可以",
+    "trad": "可以",
+    "pinyin": "kěyǐ",
+    "english": "can; may; be allowed to"
+  },
+  {
+    "simp": "课",
+    "trad": "課",
+    "pinyin": "kè",
+    "english": "lesson; class"
+  },
+  {
+    "simp": "快",
+    "trad": "快",
+    "pinyin": "kuài",
+    "english": "fast; quick"
+  },
+  {
+    "simp": "快乐",
+    "trad": "快樂",
+    "pinyin": "kuàilè",
+    "english": "happy"
+  },
+  {
+    "simp": "离",
+    "trad": "離",
+    "pinyin": "lí",
+    "english": "to be away from"
+  },
+  {
+    "simp": "两",
+    "trad": "兩",
+    "pinyin": "liǎng",
+    "english": "two (before measure words)"
+  },
+  {
+    "simp": "旅游",
+    "trad": "旅遊",
+    "pinyin": "lǚyóu",
+    "english": "to travel; travel"
+  },
+  {
+    "simp": "卖",
+    "trad": "賣",
+    "pinyin": "mài",
+    "english": "to sell"
+  },
+  {
+    "simp": "慢",
+    "trad": "慢",
+    "pinyin": "màn",
+    "english": "slow"
+  },
+  {
+    "simp": "忙",
+    "trad": "忙",
+    "pinyin": "máng",
+    "english": "busy"
+  },
+  {
+    "simp": "每",
+    "trad": "每",
+    "pinyin": "měi",
+    "english": "every; each"
+  },
+  {
+    "simp": "妹妹",
+    "trad": "妹妹",
+    "pinyin": "mèimei",
+    "english": "younger sister"
+  },
+  {
+    "simp": "门",
+    "trad": "門",
+    "pinyin": "mén",
+    "english": "door; gate"
+  },
+  {
+    "simp": "米",
+    "trad": "米",
+    "pinyin": "mǐ",
+    "english": "meter; rice (grain)"
+  },
+  {
+    "simp": "面条",
+    "trad": "麵條",
+    "pinyin": "miàntiáo",
+    "english": "noodles"
+  },
+  {
+    "simp": "男",
+    "trad": "男",
+    "pinyin": "nán",
+    "english": "male; man"
+  },
+  {
+    "simp": "您",
+    "trad": "您",
+    "pinyin": "nín",
+    "english": "you (polite)"
+  },
+  {
+    "simp": "牛奶",
+    "trad": "牛奶",
+    "pinyin": "niúnǎi",
+    "english": "milk"
+  },
+  {
+    "simp": "女",
+    "trad": "女",
+    "pinyin": "nǚ",
+    "english": "female; woman"
+  },
+  {
+    "simp": "旁边",
+    "trad": "旁邊",
+    "pinyin": "pángbiān",
+    "english": "side; beside"
+  },
+  {
+    "simp": "跑步",
+    "trad": "跑步",
+    "pinyin": "pǎobù",
+    "english": "to run; to jog"
+  },
+  {
+    "simp": "便宜",
+    "trad": "便宜",
+    "pinyin": "piányi",
+    "english": "cheap; inexpensive"
+  },
+  {
+    "simp": "妻子",
+    "trad": "妻子",
+    "pinyin": "qīzi",
+    "english": "wife"
+  },
+  {
+    "simp": "起床",
+    "trad": "起床",
+    "pinyin": "qǐchuáng",
+    "english": "to get up (from bed)"
+  },
+  {
+    "simp": "千",
+    "trad": "千",
+    "pinyin": "qiān",
+    "english": "thousand"
+  },
+  {
+    "simp": "铅笔",
+    "trad": "鉛筆",
+    "pinyin": "qiānbǐ",
+    "english": "pencil"
+  },
+  {
+    "simp": "晴",
+    "trad": "晴",
+    "pinyin": "qíng",
+    "english": "sunny; clear (weather)"
+  },
+  {
+    "simp": "去年",
+    "trad": "去年",
+    "pinyin": "qùnián",
+    "english": "last year"
+  },
+  {
+    "simp": "让",
+    "trad": "讓",
+    "pinyin": "ràng",
+    "english": "to let; to allow; to make (sb. do sth.)"
+  },
+  {
+    "simp": "日",
+    "trad": "日",
+    "pinyin": "rì",
+    "english": "day; sun"
+  },
+  {
+    "simp": "上班",
+    "trad": "上班",
+    "pinyin": "shàngbān",
+    "english": "to go to work; be on duty"
+  },
+  {
+    "simp": "身体",
+    "trad": "身體",
+    "pinyin": "shēntǐ",
+    "english": "body; health"
+  },
+  {
+    "simp": "生病",
+    "trad": "生病",
+    "pinyin": "shēngbìng",
+    "english": "to fall ill; be sick"
+  },
+  {
+    "simp": "生日",
+    "trad": "生日",
+    "pinyin": "shēngrì",
+    "english": "birthday"
+  },
+  {
+    "simp": "时间",
+    "trad": "時間",
+    "pinyin": "shíjiān",
+    "english": "time"
+  },
+  {
+    "simp": "事情",
+    "trad": "事情",
+    "pinyin": "shìqing",
+    "english": "thing; matter; affair"
+  },
+  {
+    "simp": "手表",
+    "trad": "手錶",
+    "pinyin": "shǒubiǎo",
+    "english": "watch (wristwatch)"
+  },
+  {
+    "simp": "手机",
+    "trad": "手機",
+    "pinyin": "shǒujī",
+    "english": "mobile phone"
+  },
+  {
+    "simp": "送",
+    "trad": "送",
+    "pinyin": "sòng",
+    "english": "to give (as a gift); to send; to see off"
+  },
+  {
+    "simp": "跳舞",
+    "trad": "跳舞",
+    "pinyin": "tiàowǔ",
+    "english": "to dance"
+  },
+  {
+    "simp": "外",
+    "trad": "外",
+    "pinyin": "wài",
+    "english": "outside; external"
+  },
+  {
+    "simp": "完",
+    "trad": "完",
+    "pinyin": "wán",
+    "english": "to finish; to complete"
+  },
+  {
+    "simp": "往",
+    "trad": "往",
+    "pinyin": "wǎng",
+    "english": "towards; to"
+  },
+  {
+    "simp": "为什么",
+    "trad": "為什麼",
+    "pinyin": "wèishénme",
+    "english": "why"
+  },
+  {
+    "simp": "问",
+    "trad": "問",
+    "pinyin": "wèn",
+    "english": "to ask"
+  },
+  {
+    "simp": "问题",
+    "trad": "問題",
+    "pinyin": "wèntí",
+    "english": "question; problem"
+  },
+  {
+    "simp": "西瓜",
+    "trad": "西瓜",
+    "pinyin": "xīguā",
+    "english": "watermelon"
+  },
+  {
+    "simp": "希望",
+    "trad": "希望",
+    "pinyin": "xīwàng",
+    "english": "to hope"
+  },
+  {
+    "simp": "洗",
+    "trad": "洗",
+    "pinyin": "xǐ",
+    "english": "to wash"
+  },
+  {
+    "simp": "小时",
+    "trad": "小時",
+    "pinyin": "xiǎoshí",
+    "english": "hour"
+  },
+  {
+    "simp": "笑",
+    "trad": "笑",
+    "pinyin": "xiào",
+    "english": "to laugh; to smile"
+  },
+  {
+    "simp": "新",
+    "trad": "新",
+    "pinyin": "xīn",
+    "english": "new"
+  },
+  {
+    "simp": "姓",
+    "trad": "姓",
+    "pinyin": "xìng",
+    "english": "surname; to be surnamed"
+  },
+  {
+    "simp": "休息",
+    "trad": "休息",
+    "pinyin": "xiūxi",
+    "english": "to rest"
+  },
+  {
+    "simp": "雪",
+    "trad": "雪",
+    "pinyin": "xuě",
+    "english": "snow"
+  },
+  {
+    "simp": "眼睛",
+    "trad": "眼睛",
+    "pinyin": "yǎnjing",
+    "english": "eye"
+  },
+  {
+    "simp": "羊肉",
+    "trad": "羊肉",
+    "pinyin": "yángròu",
+    "english": "mutton; lamb meat"
+  },
+  {
+    "simp": "要",
+    "trad": "要",
+    "pinyin": "yào",
+    "english": "to want; will; to ask for"
+  },
+  {
+    "simp": "也",
+    "trad": "也",
+    "pinyin": "yě",
+    "english": "also; too"
+  },
+  {
+    "simp": "一共",
+    "trad": "一共",
+    "pinyin": "yígòng",
+    "english": "in total; altogether"
+  },
+  {
+    "simp": "一下",
+    "trad": "一下",
+    "pinyin": "yíxià",
+    "english": "once; a bit"
+  },
+  {
+    "simp": "一起",
+    "trad": "一起",
+    "pinyin": "yìqǐ",
+    "english": "together"
+  },
+  {
+    "simp": "已经",
+    "trad": "已經",
+    "pinyin": "yǐjīng",
+    "english": "already"
+  },
+  {
+    "simp": "意思",
+    "trad": "意思",
+    "pinyin": "yìsi",
+    "english": "meaning; idea"
+  },
+  {
+    "simp": "因为",
+    "trad": "因為",
+    "pinyin": "yīnwèi",
+    "english": "because"
+  },
+  {
+    "simp": "阴",
+    "trad": "陰",
+    "pinyin": "yīn",
+    "english": "overcast; cloudy (yin)"
+  },
+  {
+    "simp": "游泳",
+    "trad": "游泳",
+    "pinyin": "yóuyǒng",
+    "english": "to swim"
+  },
+  {
+    "simp": "右边",
+    "trad": "右邊",
+    "pinyin": "yòubian",
+    "english": "right side"
+  },
+  {
+    "simp": "鱼",
+    "trad": "魚",
+    "pinyin": "yú",
+    "english": "fish"
+  },
+  {
+    "simp": "远",
+    "trad": "遠",
+    "pinyin": "yuǎn",
+    "english": "far; distant"
+  },
+  {
+    "simp": "运动",
+    "trad": "運動",
+    "pinyin": "yùndòng",
+    "english": "sports; exercise"
+  },
+  {
+    "simp": "再",
+    "trad": "再",
+    "pinyin": "zài",
+    "english": "again; then"
+  },
+  {
+    "simp": "早上",
+    "trad": "早上",
+    "pinyin": "zǎoshang",
+    "english": "morning"
+  },
+  {
+    "simp": "丈夫",
+    "trad": "丈夫",
+    "pinyin": "zhàngfu",
+    "english": "husband"
+  },
+  {
+    "simp": "找",
+    "trad": "找",
+    "pinyin": "zhǎo",
+    "english": "to look for; to find; to seek"
+  },
+  {
+    "simp": "着",
+    "trad": "著",
+    "pinyin": "zhe",
+    "english": "(particle indicating ongoing action)"
+  },
+  {
+    "simp": "真",
+    "trad": "真",
+    "pinyin": "zhēn",
+    "english": "really; truly"
+  },
+  {
+    "simp": "正在",
+    "trad": "正在",
+    "pinyin": "zhèngzài",
+    "english": "in the process of; in the middle of"
+  },
+  {
+    "simp": "知道",
+    "trad": "知道",
+    "pinyin": "zhīdào",
+    "english": "to know"
+  },
+  {
+    "simp": "准备",
+    "trad": "準備",
+    "pinyin": "zhǔnbèi",
+    "english": "to prepare; preparation"
+  },
+  {
+    "simp": "走",
+    "trad": "走",
+    "pinyin": "zǒu",
+    "english": "to walk; to leave"
+  },
+  {
+    "simp": "最",
+    "trad": "最",
+    "pinyin": "zuì",
+    "english": "most"
+  },
+  {
+    "simp": "左边",
+    "trad": "左邊",
+    "pinyin": "zuǒbian",
+    "english": "left side"
+  }
+]
