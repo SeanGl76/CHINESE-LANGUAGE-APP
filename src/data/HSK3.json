@@ -1,0 +1,1792 @@
+[
+  {
+    "Chinese": "啊",
+    "Pinyin": "a",
+    "English": "ah; oh"
+  },
+  {
+    "Chinese": "爱好",
+    "Pinyin": "àihào",
+    "English": "hobby; interest"
+  },
+  {
+    "Chinese": "安静",
+    "Pinyin": "ānjìng",
+    "English": "quiet; peaceful"
+  },
+  {
+    "Chinese": "把",
+    "Pinyin": "bǎ",
+    "English": "(measure word for objects with handles)"
+  },
+  {
+    "Chinese": "班",
+    "Pinyin": "bān",
+    "English": "class; team"
+  },
+  {
+    "Chinese": "搬",
+    "Pinyin": "bān",
+    "English": "to move; to carry"
+  },
+  {
+    "Chinese": "办法",
+    "Pinyin": "bànfǎ",
+    "English": "method; way"
+  },
+  {
+    "Chinese": "办公室",
+    "Pinyin": "bàngōngshì",
+    "English": "office"
+  },
+  {
+    "Chinese": "帮忙",
+    "Pinyin": "bāngmáng",
+    "English": "to help; to do a favor"
+  },
+  {
+    "Chinese": "包",
+    "Pinyin": "bāo",
+    "English": "bag; package"
+  },
+  {
+    "Chinese": "饱",
+    "Pinyin": "bǎo",
+    "English": "full (eating)"
+  },
+  {
+    "Chinese": "北方",
+    "Pinyin": "běifāng",
+    "English": "north; northern part"
+  },
+  {
+    "Chinese": "被",
+    "Pinyin": "bèi",
+    "English": "(passive voice marker)"
+  },
+  {
+    "Chinese": "鼻子",
+    "Pinyin": "bízi",
+    "English": "nose"
+  },
+  {
+    "Chinese": "比较",
+    "Pinyin": "bǐjiào",
+    "English": "relatively; fairly"
+  },
+  {
+    "Chinese": "比赛",
+    "Pinyin": "bǐsài",
+    "English": "competition; match"
+  },
+  {
+    "Chinese": "必须",
+    "Pinyin": "bìxū",
+    "English": "must; have to"
+  },
+  {
+    "Chinese": "变化",
+    "Pinyin": "biànhuà",
+    "English": "change; transformation"
+  },
+  {
+    "Chinese": "表示",
+    "Pinyin": "biǎoshì",
+    "English": "to express; to indicate"
+  },
+  {
+    "Chinese": "表演",
+    "Pinyin": "biǎoyǎn",
+    "English": "to perform; performance"
+  },
+  {
+    "Chinese": "别人",
+    "Pinyin": "biérén",
+    "English": "other people; others"
+  },
+  {
+    "Chinese": "宾馆",
+    "Pinyin": "bīnguǎn",
+    "English": "hotel; guesthouse"
+  },
+  {
+    "Chinese": "冰箱",
+    "Pinyin": "bīngxiāng",
+    "English": "refrigerator"
+  },
+  {
+    "Chinese": "才",
+    "Pinyin": "cái",
+    "English": "only then; just"
+  },
+  {
+    "Chinese": "菜单",
+    "Pinyin": "càidān",
+    "English": "menu"
+  },
+  {
+    "Chinese": "参加",
+    "Pinyin": "cānjiā",
+    "English": "to participate; to join"
+  },
+  {
+    "Chinese": "草",
+    "Pinyin": "cǎo",
+    "English": "grass"
+  },
+  {
+    "Chinese": "层",
+    "Pinyin": "céng",
+    "English": "layer; floor; level"
+  },
+  {
+    "Chinese": "差",
+    "Pinyin": "chà",
+    "English": "to lack; to differ"
+  },
+  {
+    "Chinese": "长",
+    "Pinyin": "cháng",
+    "English": "long"
+  },
+  {
+    "Chinese": "场",
+    "Pinyin": "chǎng",
+    "English": "(measure word for events)"
+  },
+  {
+    "Chinese": "唱歌",
+    "Pinyin": "chànggē",
+    "English": "to sing (a song)"
+  },
+  {
+    "Chinese": "超市",
+    "Pinyin": "chāoshì",
+    "English": "supermarket"
+  },
+  {
+    "Chinese": "衬衫",
+    "Pinyin": "chènshān",
+    "English": "shirt"
+  },
+  {
+    "Chinese": "成绩",
+    "Pinyin": "chéngjì",
+    "English": "grade; achievement"
+  },
+  {
+    "Chinese": "城市",
+    "Pinyin": "chéngshì",
+    "English": "city"
+  },
+  {
+    "Chinese": "迟到",
+    "Pinyin": "chídào",
+    "English": "to be late"
+  },
+  {
+    "Chinese": "出",
+    "Pinyin": "chū",
+    "English": "to go out; to come out"
+  },
+  {
+    "Chinese": "出现",
+    "Pinyin": "chūxiàn",
+    "English": "to appear; to emerge"
+  },
+  {
+    "Chinese": "厨房",
+    "Pinyin": "chúfáng",
+    "English": "kitchen"
+  },
+  {
+    "Chinese": "除了",
+    "Pinyin": "chúle",
+    "English": "except; besides"
+  },
+  {
+    "Chinese": "穿",
+    "Pinyin": "chuān",
+    "English": "to wear; to put on"
+  },
+  {
+    "Chinese": "船",
+    "Pinyin": "chuán",
+    "English": "boat; ship"
+  },
+  {
+    "Chinese": "春",
+    "Pinyin": "chūn",
+    "English": "spring"
+  },
+  {
+    "Chinese": "词语",
+    "Pinyin": "cíyǔ",
+    "English": "word; term"
+  },
+  {
+    "Chinese": "聪明",
+    "Pinyin": "cōngming",
+    "English": "smart; clever"
+  },
+  {
+    "Chinese": "从",
+    "Pinyin": "cóng",
+    "English": "from"
+  },
+  {
+    "Chinese": "打扫",
+    "Pinyin": "dǎsǎo",
+    "English": "to clean; to sweep"
+  },
+  {
+    "Chinese": "打算",
+    "Pinyin": "dǎsuàn",
+    "English": "to plan; to intend"
+  },
+  {
+    "Chinese": "带",
+    "Pinyin": "dài",
+    "English": "to bring; to carry"
+  },
+  {
+    "Chinese": "担心",
+    "Pinyin": "dānxīn",
+    "English": "to worry"
+  },
+  {
+    "Chinese": "蛋糕",
+    "Pinyin": "dàngāo",
+    "English": "cake"
+  },
+  {
+    "Chinese": "当",
+    "Pinyin": "dāng",
+    "English": "to act as; to be"
+  },
+  {
+    "Chinese": "当然",
+    "Pinyin": "dāngrán",
+    "English": "of course; certainly"
+  },
+  {
+    "Chinese": "到",
+    "Pinyin": "dào",
+    "English": "to arrive; to reach"
+  },
+  {
+    "Chinese": "得",
+    "Pinyin": "de",
+    "English": "(complement marker)"
+  },
+  {
+    "Chinese": "灯",
+    "Pinyin": "dēng",
+    "English": "lamp; light"
+  },
+  {
+    "Chinese": "低",
+    "Pinyin": "dī",
+    "English": "low"
+  },
+  {
+    "Chinese": "地方",
+    "Pinyin": "dìfang",
+    "English": "place; location"
+  },
+  {
+    "Chinese": "地铁",
+    "Pinyin": "dìtiě",
+    "English": "subway; metro"
+  },
+  {
+    "Chinese": "地图",
+    "Pinyin": "dìtú",
+    "English": "map"
+  },
+  {
+    "Chinese": "电梯",
+    "Pinyin": "diàntī",
+    "English": "elevator; lift"
+  },
+  {
+    "Chinese": "电子邮件",
+    "Pinyin": "diànzǐ yóujiàn",
+    "English": "email"
+  },
+  {
+    "Chinese": "东",
+    "Pinyin": "dōng",
+    "English": "east"
+  },
+  {
+    "Chinese": "冬",
+    "Pinyin": "dōng",
+    "English": "winter"
+  },
+  {
+    "Chinese": "懂",
+    "Pinyin": "dǒng",
+    "English": "to understand"
+  },
+  {
+    "Chinese": "动物",
+    "Pinyin": "dòngwù",
+    "English": "animal"
+  },
+  {
+    "Chinese": "短",
+    "Pinyin": "duǎn",
+    "English": "short"
+  },
+  {
+    "Chinese": "段",
+    "Pinyin": "duàn",
+    "English": "section; paragraph"
+  },
+  {
+    "Chinese": "锻炼",
+    "Pinyin": "duànliàn",
+    "English": "to exercise; to work out"
+  },
+  {
+    "Chinese": "多么",
+    "Pinyin": "duōme",
+    "English": "how; what"
+  },
+  {
+    "Chinese": "饿",
+    "Pinyin": "è",
+    "English": "hungry"
+  },
+  {
+    "Chinese": "而",
+    "Pinyin": "ér",
+    "English": "and; but"
+  },
+  {
+    "Chinese": "耳朵",
+    "Pinyin": "ěrduo",
+    "English": "ear"
+  },
+  {
+    "Chinese": "发",
+    "Pinyin": "fā",
+    "English": "to send; to develop"
+  },
+  {
+    "Chinese": "发现",
+    "Pinyin": "fāxiàn",
+    "English": "to discover; to find"
+  },
+  {
+    "Chinese": "发展",
+    "Pinyin": "fāzhǎn",
+    "English": "to develop; development"
+  },
+  {
+    "Chinese": "方便",
+    "Pinyin": "fāngbiàn",
+    "English": "convenient"
+  },
+  {
+    "Chinese": "方法",
+    "Pinyin": "fāngfǎ",
+    "English": "method; way"
+  },
+  {
+    "Chinese": "方向",
+    "Pinyin": "fāngxiàng",
+    "English": "direction"
+  },
+  {
+    "Chinese": "放",
+    "Pinyin": "fàng",
+    "English": "to put; to place"
+  },
+  {
+    "Chinese": "放心",
+    "Pinyin": "fàngxīn",
+    "English": "to be at ease; to rest assured"
+  },
+  {
+    "Chinese": "分",
+    "Pinyin": "fēn",
+    "English": "minute; to divide"
+  },
+  {
+    "Chinese": "分钟",
+    "Pinyin": "fēnzhōng",
+    "English": "minute"
+  },
+  {
+    "Chinese": "附近",
+    "Pinyin": "fùjìn",
+    "English": "nearby; vicinity"
+  },
+  {
+    "Chinese": "复习",
+    "Pinyin": "fùxí",
+    "English": "to review; to revise"
+  },
+  {
+    "Chinese": "干净",
+    "Pinyin": "gānjìng",
+    "English": "clean"
+  },
+  {
+    "Chinese": "敢",
+    "Pinyin": "gǎn",
+    "English": "to dare"
+  },
+  {
+    "Chinese": "感冒",
+    "Pinyin": "gǎnmào",
+    "English": "cold; flu"
+  },
+  {
+    "Chinese": "感觉",
+    "Pinyin": "gǎnjué",
+    "English": "to feel; feeling"
+  },
+  {
+    "Chinese": "刚",
+    "Pinyin": "gāng",
+    "English": "just (recently)"
+  },
+  {
+    "Chinese": "刚才",
+    "Pinyin": "gāngcái",
+    "English": "just now; a moment ago"
+  },
+  {
+    "Chinese": "高兴",
+    "Pinyin": "gāoxìng",
+    "English": "happy; glad"
+  },
+  {
+    "Chinese": "告诉",
+    "Pinyin": "gàosu",
+    "English": "to tell; to inform"
+  },
+  {
+    "Chinese": "哥哥",
+    "Pinyin": "gēge",
+    "English": "older brother"
+  },
+  {
+    "Chinese": "根据",
+    "Pinyin": "gēnjù",
+    "English": "according to; based on"
+  },
+  {
+    "Chinese": "更",
+    "Pinyin": "gèng",
+    "English": "more; even more"
+  },
+  {
+    "Chinese": "公园",
+    "Pinyin": "gōngyuán",
+    "English": "park"
+  },
+  {
+    "Chinese": "公斤",
+    "Pinyin": "gōngjīn",
+    "English": "kilogram"
+  },
+  {
+    "Chinese": "共同",
+    "Pinyin": "gòngtóng",
+    "English": "common; together"
+  },
+  {
+    "Chinese": "够",
+    "Pinyin": "gòu",
+    "English": "enough"
+  },
+  {
+    "Chinese": "故事",
+    "Pinyin": "gùshi",
+    "English": "story; tale"
+  },
+  {
+    "Chinese": "刮风",
+    "Pinyin": "guā fēng",
+    "English": "to be windy"
+  },
+  {
+    "Chinese": "关",
+    "Pinyin": "guān",
+    "English": "to close; to turn off"
+  },
+  {
+    "Chinese": "关系",
+    "Pinyin": "guānxi",
+    "English": "relationship; connection"
+  },
+  {
+    "Chinese": "关心",
+    "Pinyin": "guānxīn",
+    "English": "to care about; to be concerned"
+  },
+  {
+    "Chinese": "关于",
+    "Pinyin": "guānyú",
+    "English": "about; regarding"
+  },
+  {
+    "Chinese": "管理",
+    "Pinyin": "guǎnlǐ",
+    "English": "to manage; management"
+  },
+  {
+    "Chinese": "国家",
+    "Pinyin": "guójiā",
+    "English": "country; nation"
+  },
+  {
+    "Chinese": "过",
+    "Pinyin": "guò",
+    "English": "to pass; (experience marker)"
+  },
+  {
+    "Chinese": "过去",
+    "Pinyin": "guòqù",
+    "English": "past; formerly"
+  },
+  {
+    "Chinese": "还是",
+    "Pinyin": "háishi",
+    "English": "or; still"
+  },
+  {
+    "Chinese": "害怕",
+    "Pinyin": "hàipà",
+    "English": "to be afraid; to fear"
+  },
+  {
+    "Chinese": "寒假",
+    "Pinyin": "hánjià",
+    "English": "winter vacation"
+  },
+  {
+    "Chinese": "汉语",
+    "Pinyin": "Hànyǔ",
+    "English": "Chinese language"
+  },
+  {
+    "Chinese": "河",
+    "Pinyin": "hé",
+    "English": "river"
+  },
+  {
+    "Chinese": "盒子",
+    "Pinyin": "hézi",
+    "English": "box"
+  },
+  {
+    "Chinese": "黑板",
+    "Pinyin": "hēibǎn",
+    "English": "blackboard"
+  },
+  {
+    "Chinese": "后来",
+    "Pinyin": "hòulái",
+    "English": "later; afterwards"
+  },
+  {
+    "Chinese": "护照",
+    "Pinyin": "hùzhào",
+    "English": "passport"
+  },
+  {
+    "Chinese": "花",
+    "Pinyin": "huā",
+    "English": "flower; to spend"
+  },
+  {
+    "Chinese": "画",
+    "Pinyin": "huà",
+    "English": "to paint; painting"
+  },
+  {
+    "Chinese": "坏",
+    "Pinyin": "huài",
+    "English": "bad; broken"
+  },
+  {
+    "Chinese": "欢迎",
+    "Pinyin": "huānyíng",
+    "English": "to welcome"
+  },
+  {
+    "Chinese": "还",
+    "Pinyin": "huán",
+    "English": "to return; to give back"
+  },
+  {
+    "Chinese": "环境",
+    "Pinyin": "huánjìng",
+    "English": "environment"
+  },
+  {
+    "Chinese": "换",
+    "Pinyin": "huàn",
+    "English": "to change; to exchange"
+  },
+  {
+    "Chinese": "黄",
+    "Pinyin": "huáng",
+    "English": "yellow"
+  },
+  {
+    "Chinese": "回答",
+    "Pinyin": "huídá",
+    "English": "to answer; to reply"
+  },
+  {
+    "Chinese": "会议",
+    "Pinyin": "huìyì",
+    "English": "meeting; conference"
+  },
+  {
+    "Chinese": "火车站",
+    "Pinyin": "huǒchēzhàn",
+    "English": "train station"
+  },
+  {
+    "Chinese": "或者",
+    "Pinyin": "huòzhě",
+    "English": "or"
+  },
+  {
+    "Chinese": "几乎",
+    "Pinyin": "jīhū",
+    "English": "almost; nearly"
+  },
+  {
+    "Chinese": "机会",
+    "Pinyin": "jīhuì",
+    "English": "opportunity; chance"
+  },
+  {
+    "Chinese": "鸡蛋",
+    "Pinyin": "jīdàn",
+    "English": "egg"
+  },
+  {
+    "Chinese": "极",
+    "Pinyin": "jí",
+    "English": "extremely; utmost"
+  },
+  {
+    "Chinese": "记得",
+    "Pinyin": "jìde",
+    "English": "to remember"
+  },
+  {
+    "Chinese": "季节",
+    "Pinyin": "jìjié",
+    "English": "season"
+  },
+  {
+    "Chinese": "检查",
+    "Pinyin": "jiǎnchá",
+    "English": "to inspect; to check"
+  },
+  {
+    "Chinese": "简单",
+    "Pinyin": "jiǎndān",
+    "English": "simple; easy"
+  },
+  {
+    "Chinese": "见面",
+    "Pinyin": "jiànmiàn",
+    "English": "to meet"
+  },
+  {
+    "Chinese": "健康",
+    "Pinyin": "jiànkāng",
+    "English": "healthy; health"
+  },
+  {
+    "Chinese": "讲",
+    "Pinyin": "jiǎng",
+    "English": "to speak; to explain"
+  },
+  {
+    "Chinese": "教",
+    "Pinyin": "jiāo",
+    "English": "to teach"
+  },
+  {
+    "Chinese": "角",
+    "Pinyin": "jiǎo",
+    "English": "corner; jiao (currency)"
+  },
+  {
+    "Chinese": "脚",
+    "Pinyin": "jiǎo",
+    "English": "foot"
+  },
+  {
+    "Chinese": "接",
+    "Pinyin": "jiē",
+    "English": "to receive; to meet"
+  },
+  {
+    "Chinese": "街道",
+    "Pinyin": "jiēdào",
+    "English": "street"
+  },
+  {
+    "Chinese": "节目",
+    "Pinyin": "jiémù",
+    "English": "program; show"
+  },
+  {
+    "Chinese": "节日",
+    "Pinyin": "jiérì",
+    "English": "festival; holiday"
+  },
+  {
+    "Chinese": "结束",
+    "Pinyin": "jiéshù",
+    "English": "to end; to finish"
+  },
+  {
+    "Chinese": "结婚",
+    "Pinyin": "jiéhūn",
+    "English": "to get married"
+  },
+  {
+    "Chinese": "解决",
+    "Pinyin": "jiějué",
+    "English": "to solve; to resolve"
+  },
+  {
+    "Chinese": "借",
+    "Pinyin": "jiè",
+    "English": "to borrow; to lend"
+  },
+  {
+    "Chinese": "经常",
+    "Pinyin": "jīngcháng",
+    "English": "often; frequently"
+  },
+  {
+    "Chinese": "经过",
+    "Pinyin": "jīngguò",
+    "English": "to pass through; to go through"
+  },
+  {
+    "Chinese": "经理",
+    "Pinyin": "jīnglǐ",
+    "English": "manager"
+  },
+  {
+    "Chinese": "久",
+    "Pinyin": "jiǔ",
+    "English": "long (time)"
+  },
+  {
+    "Chinese": "旧",
+    "Pinyin": "jiù",
+    "English": "old; used"
+  },
+  {
+    "Chinese": "举行",
+    "Pinyin": "jǔxíng",
+    "English": "to hold (an event)"
+  },
+  {
+    "Chinese": "句子",
+    "Pinyin": "jùzi",
+    "English": "sentence"
+  },
+  {
+    "Chinese": "决定",
+    "Pinyin": "juédìng",
+    "English": "to decide; decision"
+  },
+  {
+    "Chinese": "觉得",
+    "Pinyin": "juéde",
+    "English": "to feel; to think"
+  },
+  {
+    "Chinese": "咖啡",
+    "Pinyin": "kāfēi",
+    "English": "coffee"
+  },
+  {
+    "Chinese": "开始",
+    "Pinyin": "kāishǐ",
+    "English": "to begin; to start"
+  },
+  {
+    "Chinese": "看见",
+    "Pinyin": "kànjiàn",
+    "English": "to see; to catch sight of"
+  },
+  {
+    "Chinese": "考试",
+    "Pinyin": "kǎoshì",
+    "English": "exam; test"
+  },
+  {
+    "Chinese": "渴",
+    "Pinyin": "kě",
+    "English": "thirsty"
+  },
+  {
+    "Chinese": "可爱",
+    "Pinyin": "kě'ài",
+    "English": "cute; lovely"
+  },
+  {
+    "Chinese": "可能",
+    "Pinyin": "kěnéng",
+    "English": "possible; maybe"
+  },
+  {
+    "Chinese": "可以",
+    "Pinyin": "kěyǐ",
+    "English": "can; may"
+  },
+  {
+    "Chinese": "刻",
+    "Pinyin": "kè",
+    "English": "quarter (of an hour)"
+  },
+  {
+    "Chinese": "客人",
+    "Pinyin": "kèrén",
+    "English": "guest; visitor"
+  },
+  {
+    "Chinese": "课",
+    "Pinyin": "kè",
+    "English": "class; lesson"
+  },
+  {
+    "Chinese": "空调",
+    "Pinyin": "kōngtiáo",
+    "English": "air conditioner"
+  },
+  {
+    "Chinese": "口",
+    "Pinyin": "kǒu",
+    "English": "mouth; (measure word)"
+  },
+  {
+    "Chinese": "哭",
+    "Pinyin": "kū",
+    "English": "to cry; to weep"
+  },
+  {
+    "Chinese": "裤子",
+    "Pinyin": "kùzi",
+    "English": "pants; trousers"
+  },
+  {
+    "Chinese": "筷子",
+    "Pinyin": "kuàizi",
+    "English": "chopsticks"
+  },
+  {
+    "Chinese": "蓝",
+    "Pinyin": "lán",
+    "English": "blue"
+  },
+  {
+    "Chinese": "老",
+    "Pinyin": "lǎo",
+    "English": "old"
+  },
+  {
+    "Chinese": "离",
+    "Pinyin": "lí",
+    "English": "to be away from; to leave"
+  },
+  {
+    "Chinese": "离开",
+    "Pinyin": "líkāi",
+    "English": "to leave; to depart"
+  },
+  {
+    "Chinese": "礼物",
+    "Pinyin": "lǐwù",
+    "English": "gift; present"
+  },
+  {
+    "Chinese": "历史",
+    "Pinyin": "lìshǐ",
+    "English": "history"
+  },
+  {
+    "Chinese": "脸",
+    "Pinyin": "liǎn",
+    "English": "face"
+  },
+  {
+    "Chinese": "练习",
+    "Pinyin": "liànxí",
+    "English": "to practice; exercise"
+  },
+  {
+    "Chinese": "辆",
+    "Pinyin": "liàng",
+    "English": "(measure word for vehicles)"
+  },
+  {
+    "Chinese": "了解",
+    "Pinyin": "liǎojiě",
+    "English": "to understand; to know"
+  },
+  {
+    "Chinese": "邻居",
+    "Pinyin": "línjū",
+    "English": "neighbor"
+  },
+  {
+    "Chinese": "楼",
+    "Pinyin": "lóu",
+    "English": "building; floor"
+  },
+  {
+    "Chinese": "绿",
+    "Pinyin": "lǜ",
+    "English": "green"
+  },
+  {
+    "Chinese": "旅游",
+    "Pinyin": "lǚyóu",
+    "English": "to travel; tourism"
+  },
+  {
+    "Chinese": "马",
+    "Pinyin": "mǎ",
+    "English": "horse"
+  },
+  {
+    "Chinese": "马上",
+    "Pinyin": "mǎshàng",
+    "English": "immediately; right away"
+  },
+  {
+    "Chinese": "满意",
+    "Pinyin": "mǎnyì",
+    "English": "satisfied; pleased"
+  },
+  {
+    "Chinese": "帽子",
+    "Pinyin": "màozi",
+    "English": "hat; cap"
+  },
+  {
+    "Chinese": "米",
+    "Pinyin": "mǐ",
+    "English": "rice; meter"
+  },
+  {
+    "Chinese": "面包",
+    "Pinyin": "miànbāo",
+    "English": "bread"
+  },
+  {
+    "Chinese": "面条",
+    "Pinyin": "miàntiáo",
+    "English": "noodles"
+  },
+  {
+    "Chinese": "明白",
+    "Pinyin": "míngbai",
+    "English": "to understand; clear"
+  },
+  {
+    "Chinese": "拿",
+    "Pinyin": "ná",
+    "English": "to take; to hold"
+  },
+  {
+    "Chinese": "奶奶",
+    "Pinyin": "nǎinai",
+    "English": "grandmother (paternal)"
+  },
+  {
+    "Chinese": "南",
+    "Pinyin": "nán",
+    "English": "south"
+  },
+  {
+    "Chinese": "难",
+    "Pinyin": "nán",
+    "English": "difficult"
+  },
+  {
+    "Chinese": "难过",
+    "Pinyin": "nánguò",
+    "English": "sad; upset"
+  },
+  {
+    "Chinese": "年级",
+    "Pinyin": "niánjí",
+    "English": "grade; year (in school)"
+  },
+  {
+    "Chinese": "年轻",
+    "Pinyin": "niánqīng",
+    "English": "young"
+  },
+  {
+    "Chinese": "鸟",
+    "Pinyin": "niǎo",
+    "English": "bird"
+  },
+  {
+    "Chinese": "努力",
+    "Pinyin": "nǔlì",
+    "English": "to work hard; effort"
+  },
+  {
+    "Chinese": "爬山",
+    "Pinyin": "pá shān",
+    "English": "to climb a mountain; to hike"
+  },
+  {
+    "Chinese": "盘子",
+    "Pinyin": "pánzi",
+    "English": "plate; dish"
+  },
+  {
+    "Chinese": "胖",
+    "Pinyin": "pàng",
+    "English": "fat; plump"
+  },
+  {
+    "Chinese": "皮鞋",
+    "Pinyin": "píxié",
+    "English": "leather shoes"
+  },
+  {
+    "Chinese": "啤酒",
+    "Pinyin": "píjiǔ",
+    "English": "beer"
+  },
+  {
+    "Chinese": "葡萄",
+    "Pinyin": "pútao",
+    "English": "grape"
+  },
+  {
+    "Chinese": "普通话",
+    "Pinyin": "pǔtōnghuà",
+    "English": "Mandarin Chinese"
+  },
+  {
+    "Chinese": "骑",
+    "Pinyin": "qí",
+    "English": "to ride"
+  },
+  {
+    "Chinese": "其实",
+    "Pinyin": "qíshí",
+    "English": "actually; in fact"
+  },
+  {
+    "Chinese": "其他",
+    "Pinyin": "qítā",
+    "English": "other; else"
+  },
+  {
+    "Chinese": "奇怪",
+    "Pinyin": "qíguài",
+    "English": "strange; odd"
+  },
+  {
+    "Chinese": "铅笔",
+    "Pinyin": "qiānbǐ",
+    "English": "pencil"
+  },
+  {
+    "Chinese": "千",
+    "Pinyin": "qiān",
+    "English": "thousand"
+  },
+  {
+    "Chinese": "墙",
+    "Pinyin": "qiáng",
+    "English": "wall"
+  },
+  {
+    "Chinese": "桥",
+    "Pinyin": "qiáo",
+    "English": "bridge"
+  },
+  {
+    "Chinese": "清楚",
+    "Pinyin": "qīngchu",
+    "English": "clear; distinct"
+  },
+  {
+    "Chinese": "秋",
+    "Pinyin": "qiū",
+    "English": "autumn; fall"
+  },
+  {
+    "Chinese": "裙子",
+    "Pinyin": "qúnzi",
+    "English": "skirt; dress"
+  },
+  {
+    "Chinese": "然后",
+    "Pinyin": "ránhòu",
+    "English": "then; after that"
+  },
+  {
+    "Chinese": "热情",
+    "Pinyin": "rèqíng",
+    "English": "warm; enthusiastic"
+  },
+  {
+    "Chinese": "认为",
+    "Pinyin": "rènwéi",
+    "English": "to think; to believe"
+  },
+  {
+    "Chinese": "认真",
+    "Pinyin": "rènzhēn",
+    "English": "earnest; serious"
+  },
+  {
+    "Chinese": "容易",
+    "Pinyin": "róngyì",
+    "English": "easy"
+  },
+  {
+    "Chinese": "如果",
+    "Pinyin": "rúguǒ",
+    "English": "if"
+  },
+  {
+    "Chinese": "伞",
+    "Pinyin": "sǎn",
+    "English": "umbrella"
+  },
+  {
+    "Chinese": "上网",
+    "Pinyin": "shàng wǎng",
+    "English": "to go online; to surf the internet"
+  },
+  {
+    "Chinese": "生气",
+    "Pinyin": "shēngqì",
+    "English": "to be angry"
+  },
+  {
+    "Chinese": "声音",
+    "Pinyin": "shēngyīn",
+    "English": "sound; voice"
+  },
+  {
+    "Chinese": "使",
+    "Pinyin": "shǐ",
+    "English": "to make; to cause"
+  },
+  {
+    "Chinese": "世界",
+    "Pinyin": "shìjiè",
+    "English": "world"
+  },
+  {
+    "Chinese": "试",
+    "Pinyin": "shì",
+    "English": "to try; to test"
+  },
+  {
+    "Chinese": "瘦",
+    "Pinyin": "shòu",
+    "English": "thin; lean"
+  },
+  {
+    "Chinese": "叔叔",
+    "Pinyin": "shūshu",
+    "English": "uncle (father's younger brother)"
+  },
+  {
+    "Chinese": "舒服",
+    "Pinyin": "shūfu",
+    "English": "comfortable"
+  },
+  {
+    "Chinese": "树",
+    "Pinyin": "shù",
+    "English": "tree"
+  },
+  {
+    "Chinese": "数学",
+    "Pinyin": "shùxué",
+    "English": "mathematics"
+  },
+  {
+    "Chinese": "刷牙",
+    "Pinyin": "shuā yá",
+    "English": "to brush teeth"
+  },
+  {
+    "Chinese": "双",
+    "Pinyin": "shuāng",
+    "English": "pair; both"
+  },
+  {
+    "Chinese": "水平",
+    "Pinyin": "shuǐpíng",
+    "English": "level; standard"
+  },
+  {
+    "Chinese": "司机",
+    "Pinyin": "sījī",
+    "English": "driver"
+  },
+  {
+    "Chinese": "虽然",
+    "Pinyin": "suīrán",
+    "English": "although; even though"
+  },
+  {
+    "Chinese": "孙子",
+    "Pinyin": "sūnzi",
+    "English": "grandson"
+  },
+  {
+    "Chinese": "所以",
+    "Pinyin": "suǒyǐ",
+    "English": "so; therefore"
+  },
+  {
+    "Chinese": "它",
+    "Pinyin": "tā",
+    "English": "it"
+  },
+  {
+    "Chinese": "台",
+    "Pinyin": "tái",
+    "English": "(measure word for machines)"
+  },
+  {
+    "Chinese": "太阳",
+    "Pinyin": "tàiyáng",
+    "English": "sun"
+  },
+  {
+    "Chinese": "糖",
+    "Pinyin": "táng",
+    "English": "sugar; candy"
+  },
+  {
+    "Chinese": "特别",
+    "Pinyin": "tèbié",
+    "English": "special; especially"
+  },
+  {
+    "Chinese": "疼",
+    "Pinyin": "téng",
+    "English": "painful; sore"
+  },
+  {
+    "Chinese": "提",
+    "Pinyin": "tí",
+    "English": "to lift; to raise"
+  },
+  {
+    "Chinese": "提高",
+    "Pinyin": "tígāo",
+    "English": "to improve; to raise"
+  },
+  {
+    "Chinese": "体育",
+    "Pinyin": "tǐyù",
+    "English": "physical education; sports"
+  },
+  {
+    "Chinese": "甜",
+    "Pinyin": "tián",
+    "English": "sweet"
+  },
+  {
+    "Chinese": "条",
+    "Pinyin": "tiáo",
+    "English": "(measure word for long objects)"
+  },
+  {
+    "Chinese": "跳舞",
+    "Pinyin": "tiàowǔ",
+    "English": "to dance"
+  },
+  {
+    "Chinese": "听说",
+    "Pinyin": "tīngshuō",
+    "English": "to hear of; to be told"
+  },
+  {
+    "Chinese": "停",
+    "Pinyin": "tíng",
+    "English": "to stop; to park"
+  },
+  {
+    "Chinese": "突然",
+    "Pinyin": "tūrán",
+    "English": "suddenly; unexpectedly"
+  },
+  {
+    "Chinese": "图书馆",
+    "Pinyin": "túshūguǎn",
+    "English": "library"
+  },
+  {
+    "Chinese": "腿",
+    "Pinyin": "tuǐ",
+    "English": "leg"
+  },
+  {
+    "Chinese": "完成",
+    "Pinyin": "wánchéng",
+    "English": "to complete; to finish"
+  },
+  {
+    "Chinese": "碗",
+    "Pinyin": "wǎn",
+    "English": "bowl"
+  },
+  {
+    "Chinese": "万",
+    "Pinyin": "wàn",
+    "English": "ten thousand"
+  },
+  {
+    "Chinese": "忘记",
+    "Pinyin": "wàngjì",
+    "English": "to forget"
+  },
+  {
+    "Chinese": "为",
+    "Pinyin": "wèi",
+    "English": "for; because of"
+  },
+  {
+    "Chinese": "为了",
+    "Pinyin": "wèile",
+    "English": "in order to; for the sake of"
+  },
+  {
+    "Chinese": "位",
+    "Pinyin": "wèi",
+    "English": "(polite measure word for people)"
+  },
+  {
+    "Chinese": "文化",
+    "Pinyin": "wénhuà",
+    "English": "culture"
+  },
+  {
+    "Chinese": "西",
+    "Pinyin": "xī",
+    "English": "west"
+  },
+  {
+    "Chinese": "习惯",
+    "Pinyin": "xíguàn",
+    "English": "habit; to be used to"
+  },
+  {
+    "Chinese": "洗手间",
+    "Pinyin": "xǐshǒujiān",
+    "English": "bathroom; restroom"
+  },
+  {
+    "Chinese": "洗澡",
+    "Pinyin": "xǐzǎo",
+    "English": "to take a bath/shower"
+  },
+  {
+    "Chinese": "夏",
+    "Pinyin": "xià",
+    "English": "summer"
+  },
+  {
+    "Chinese": "先",
+    "Pinyin": "xiān",
+    "English": "first; before"
+  },
+  {
+    "Chinese": "香蕉",
+    "Pinyin": "xiāngjiāo",
+    "English": "banana"
+  },
+  {
+    "Chinese": "相同",
+    "Pinyin": "xiāngtóng",
+    "English": "same; identical"
+  },
+  {
+    "Chinese": "相信",
+    "Pinyin": "xiāngxìn",
+    "English": "to believe; to trust"
+  },
+  {
+    "Chinese": "响",
+    "Pinyin": "xiǎng",
+    "English": "to make a sound; loud"
+  },
+  {
+    "Chinese": "像",
+    "Pinyin": "xiàng",
+    "English": "to be like; to resemble"
+  },
+  {
+    "Chinese": "小心",
+    "Pinyin": "xiǎoxīn",
+    "English": "to be careful"
+  },
+  {
+    "Chinese": "校长",
+    "Pinyin": "xiàozhǎng",
+    "English": "principal; headmaster"
+  },
+  {
+    "Chinese": "鞋",
+    "Pinyin": "xié",
+    "English": "shoe"
+  },
+  {
+    "Chinese": "新闻",
+    "Pinyin": "xīnwén",
+    "English": "news"
+  },
+  {
+    "Chinese": "新鲜",
+    "Pinyin": "xīnxiān",
+    "English": "fresh"
+  },
+  {
+    "Chinese": "信",
+    "Pinyin": "xìn",
+    "English": "letter"
+  },
+  {
+    "Chinese": "兴趣",
+    "Pinyin": "xìngqù",
+    "English": "interest"
+  },
+  {
+    "Chinese": "行李箱",
+    "Pinyin": "xínglixiāng",
+    "English": "suitcase"
+  },
+  {
+    "Chinese": "熊猫",
+    "Pinyin": "xióngmāo",
+    "English": "panda"
+  },
+  {
+    "Chinese": "需要",
+    "Pinyin": "xūyào",
+    "English": "to need; to require"
+  },
+  {
+    "Chinese": "选择",
+    "Pinyin": "xuǎnzé",
+    "English": "to choose; choice"
+  },
+  {
+    "Chinese": "雪",
+    "Pinyin": "xuě",
+    "English": "snow"
+  },
+  {
+    "Chinese": "颜色",
+    "Pinyin": "yánsè",
+    "English": "color"
+  },
+  {
+    "Chinese": "眼睛",
+    "Pinyin": "yǎnjing",
+    "English": "eye"
+  },
+  {
+    "Chinese": "演出",
+    "Pinyin": "yǎnchū",
+    "English": "performance; to perform"
+  },
+  {
+    "Chinese": "阳光",
+    "Pinyin": "yángguāng",
+    "English": "sunshine; sunlight"
+  },
+  {
+    "Chinese": "养",
+    "Pinyin": "yǎng",
+    "English": "to raise; to keep"
+  },
+  {
+    "Chinese": "样子",
+    "Pinyin": "yàngzi",
+    "English": "appearance; manner"
+  },
+  {
+    "Chinese": "要求",
+    "Pinyin": "yāoqiú",
+    "English": "to demand; requirement"
+  },
+  {
+    "Chinese": "爷爷",
+    "Pinyin": "yéye",
+    "English": "grandfather (paternal)"
+  },
+  {
+    "Chinese": "一般",
+    "Pinyin": "yībān",
+    "English": "ordinary; generally"
+  },
+  {
+    "Chinese": "一边",
+    "Pinyin": "yībiān",
+    "English": "one side; at the same time"
+  },
+  {
+    "Chinese": "一定",
+    "Pinyin": "yīdìng",
+    "English": "certainly; surely"
+  },
+  {
+    "Chinese": "一共",
+    "Pinyin": "yīgòng",
+    "English": "altogether; in total"
+  },
+  {
+    "Chinese": "一样",
+    "Pinyin": "yīyàng",
+    "English": "same; alike"
+  },
+  {
+    "Chinese": "一直",
+    "Pinyin": "yīzhí",
+    "English": "always; continuously"
+  },
+  {
+    "Chinese": "以后",
+    "Pinyin": "yǐhòu",
+    "English": "after; later"
+  },
+  {
+    "Chinese": "以前",
+    "Pinyin": "yǐqián",
+    "English": "before; previously"
+  },
+  {
+    "Chinese": "以为",
+    "Pinyin": "yǐwéi",
+    "English": "to think (mistakenly)"
+  },
+  {
+    "Chinese": "音乐",
+    "Pinyin": "yīnyuè",
+    "English": "music"
+  },
+  {
+    "Chinese": "银行",
+    "Pinyin": "yínháng",
+    "English": "bank"
+  },
+  {
+    "Chinese": "引起",
+    "Pinyin": "yǐnqǐ",
+    "English": "to give rise to; to cause"
+  },
+  {
+    "Chinese": "应该",
+    "Pinyin": "yīnggāi",
+    "English": "should; ought to"
+  },
+  {
+    "Chinese": "影响",
+    "Pinyin": "yǐngxiǎng",
+    "English": "to influence; effect"
+  },
+  {
+    "Chinese": "用",
+    "Pinyin": "yòng",
+    "English": "to use"
+  },
+  {
+    "Chinese": "游戏",
+    "Pinyin": "yóuxì",
+    "English": "game"
+  },
+  {
+    "Chinese": "有名",
+    "Pinyin": "yǒumíng",
+    "English": "famous; well-known"
+  },
+  {
+    "Chinese": "又",
+    "Pinyin": "yòu",
+    "English": "again; both...and"
+  },
+  {
+    "Chinese": "遇到",
+    "Pinyin": "yùdào",
+    "English": "to meet; to encounter"
+  },
+  {
+    "Chinese": "元",
+    "Pinyin": "yuán",
+    "English": "yuan (currency)"
+  },
+  {
+    "Chinese": "原来",
+    "Pinyin": "yuánlái",
+    "English": "original; originally"
+  },
+  {
+    "Chinese": "远",
+    "Pinyin": "yuǎn",
+    "English": "far; distant"
+  },
+  {
+    "Chinese": "愿意",
+    "Pinyin": "yuànyì",
+    "English": "to be willing"
+  },
+  {
+    "Chinese": "月亮",
+    "Pinyin": "yuèliang",
+    "English": "moon"
+  },
+  {
+    "Chinese": "云",
+    "Pinyin": "yún",
+    "English": "cloud"
+  },
+  {
+    "Chinese": "站",
+    "Pinyin": "zhàn",
+    "English": "station; to stand"
+  },
+  {
+    "Chinese": "张",
+    "Pinyin": "zhāng",
+    "English": "(measure word for flat objects)"
+  },
+  {
+    "Chinese": "长",
+    "Pinyin": "zhǎng",
+    "English": "to grow"
+  },
+  {
+    "Chinese": "着急",
+    "Pinyin": "zháojí",
+    "English": "worried; anxious"
+  },
+  {
+    "Chinese": "照顾",
+    "Pinyin": "zhàogù",
+    "English": "to take care of; to look after"
+  },
+  {
+    "Chinese": "照片",
+    "Pinyin": "zhàopiàn",
+    "English": "photo; picture"
+  },
+  {
+    "Chinese": "照相机",
+    "Pinyin": "zhàoxiàngjī",
+    "English": "camera"
+  },
+  {
+    "Chinese": "只",
+    "Pinyin": "zhǐ",
+    "English": "only; just"
+  },
+  {
+    "Chinese": "只",
+    "Pinyin": "zhǐ",
+    "English": "(measure word for animals)"
+  },
+  {
+    "Chinese": "中间",
+    "Pinyin": "zhōngjiān",
+    "English": "middle; center"
+  },
+  {
+    "Chinese": "终于",
+    "Pinyin": "zhōngyú",
+    "English": "finally; at last"
+  },
+  {
+    "Chinese": "种",
+    "Pinyin": "zhǒng",
+    "English": "kind; type"
+  },
+  {
+    "Chinese": "重要",
+    "Pinyin": "zhòngyào",
+    "English": "important"
+  },
+  {
+    "Chinese": "周末",
+    "Pinyin": "zhōumò",
+    "English": "weekend"
+  },
+  {
+    "Chinese": "主要",
+    "Pinyin": "zhǔyào",
+    "English": "main; major"
+  },
+  {
+    "Chinese": "注意",
+    "Pinyin": "zhùyì",
+    "English": "to pay attention to; to notice"
+  },
+  {
+    "Chinese": "自己",
+    "Pinyin": "zìjǐ",
+    "English": "oneself; self"
+  },
+  {
+    "Chinese": "自行车",
+    "Pinyin": "zìxíngchē",
+    "English": "bicycle"
+  },
+  {
+    "Chinese": "总是",
+    "Pinyin": "zǒngshì",
+    "English": "always"
+  },
+  {
+    "Chinese": "嘴",
+    "Pinyin": "zuǐ",
+    "English": "mouth"
+  },
+  {
+    "Chinese": "最后",
+    "Pinyin": "zuìhòu",
+    "English": "final; last"
+  },
+  {
+    "Chinese": "最近",
+    "Pinyin": "zuìjìn",
+    "English": "recently; lately"
+  },
+  {
+    "Chinese": "作业",
+    "Pinyin": "zuòyè",
+    "English": "homework; assignment"
+  },
+  {
+    "Chinese": "作用",
+    "Pinyin": "zuòyòng",
+    "English": "effect; function"
+  }
+]

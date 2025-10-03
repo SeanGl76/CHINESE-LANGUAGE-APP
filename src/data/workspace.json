@@ -1,0 +1,597 @@
+[
+  {
+    "Chinese": "办公室",
+    "Pinyin": "bàngōngshì",
+    "English meaning": "office"
+  },
+  {
+    "Chinese": "公司",
+    "Pinyin": "gōngsī",
+    "English meaning": "company"
+  },
+  {
+    "Chinese": "企业",
+    "Pinyin": "qǐyè",
+    "English meaning": "enterprise"
+  },
+  {
+    "Chinese": "部门",
+    "Pinyin": "bùmén",
+    "English meaning": "department"
+  },
+  {
+    "Chinese": "科室",
+    "Pinyin": "kēshì",
+    "English meaning": "division"
+  },
+  {
+    "Chinese": "总部",
+    "Pinyin": "zǒngbù",
+    "English meaning": "headquarters"
+  },
+  {
+    "Chinese": "分公司",
+    "Pinyin": "fēngōngsī",
+    "English meaning": "branch office"
+  },
+  {
+    "Chinese": "经理",
+    "Pinyin": "jīnglǐ",
+    "English meaning": "manager"
+  },
+  {
+    "Chinese": "主管",
+    "Pinyin": "zhǔguǎn",
+    "English meaning": "supervisor"
+  },
+  {
+    "Chinese": "主任",
+    "Pinyin": "zhǔrèn",
+    "English meaning": "director"
+  },
+  {
+    "Chinese": "同事",
+    "Pinyin": "tóngshì",
+    "English meaning": "colleague"
+  },
+  {
+    "Chinese": "同僚",
+    "Pinyin": "tóngliáo",
+    "English meaning": "coworker"
+  },
+  {
+    "Chinese": "同伴",
+    "Pinyin": "tóngbàn",
+    "English meaning": "companion, peer"
+  },
+  {
+    "Chinese": "员工",
+    "Pinyin": "yuángōng",
+    "English meaning": "employee"
+  },
+  {
+    "Chinese": "职员",
+    "Pinyin": "zhíyuán",
+    "English meaning": "staff"
+  },
+  {
+    "Chinese": "老板",
+    "Pinyin": "lǎobǎn",
+    "English meaning": "boss"
+  },
+  {
+    "Chinese": "上司",
+    "Pinyin": "shàngsī",
+    "English meaning": "superior"
+  },
+  {
+    "Chinese": "秘书",
+    "Pinyin": "mìshū",
+    "English meaning": "secretary"
+  },
+  {
+    "Chinese": "助理",
+    "Pinyin": "zhùlǐ",
+    "English meaning": "assistant"
+  },
+  {
+    "Chinese": "顾问",
+    "Pinyin": "gùwèn",
+    "English meaning": "consultant"
+  },
+  {
+    "Chinese": "实习生",
+    "Pinyin": "shíxíshēng",
+    "English meaning": "intern"
+  },
+  {
+    "Chinese": "学徒",
+    "Pinyin": "xuétú",
+    "English meaning": "apprentice"
+  },
+  {
+    "Chinese": "合作伙伴",
+    "Pinyin": "hézuò huǒbàn",
+    "English meaning": "business partner"
+  },
+  {
+    "Chinese": "会议",
+    "Pinyin": "huìyì",
+    "English meaning": "meeting"
+  },
+  {
+    "Chinese": "会议室",
+    "Pinyin": "huìyìshì",
+    "English meaning": "conference room"
+  },
+  {
+    "Chinese": "研讨会",
+    "Pinyin": "yántǎohuì",
+    "English meaning": "seminar"
+  },
+  {
+    "Chinese": "讲座",
+    "Pinyin": "jiǎngzuò",
+    "English meaning": "lecture"
+  },
+  {
+    "Chinese": "日程",
+    "Pinyin": "rìchéng",
+    "English meaning": "schedule"
+  },
+  {
+    "Chinese": "议程",
+    "Pinyin": "yìchéng",
+    "English meaning": "agenda"
+  },
+  {
+    "Chinese": "休息室",
+    "Pinyin": "xiūxīshì",
+    "English meaning": "break room"
+  },
+  {
+    "Chinese": "茶水间",
+    "Pinyin": "cháshuǐjiān",
+    "English meaning": "pantry"
+  },
+  {
+    "Chinese": "食堂",
+    "Pinyin": "shítáng",
+    "English meaning": "canteen"
+  },
+  {
+    "Chinese": "停车场",
+    "Pinyin": "tíngchēchǎng",
+    "English meaning": "parking lot"
+  },
+  {
+    "Chinese": "大楼",
+    "Pinyin": "dàlóu",
+    "English meaning": "building"
+  },
+  {
+    "Chinese": "办公室隔间",
+    "Pinyin": "bàngōngshì géjiān",
+    "English meaning": "cubicle"
+  },
+  {
+    "Chinese": "开放式办公室",
+    "Pinyin": "kāifàngshì bàngōngshì",
+    "English meaning": "open-plan office"
+  },
+  {
+    "Chinese": "报告",
+    "Pinyin": "bàogào",
+    "English meaning": "report"
+  },
+  {
+    "Chinese": "总结",
+    "Pinyin": "zǒngjié",
+    "English meaning": "summary"
+  },
+  {
+    "Chinese": "计划书",
+    "Pinyin": "jìhuàshū",
+    "English meaning": "proposal"
+  },
+  {
+    "Chinese": "预算",
+    "Pinyin": "yùsuàn",
+    "English meaning": "budget"
+  },
+  {
+    "Chinese": "合同",
+    "Pinyin": "hétóng",
+    "English meaning": "contract"
+  },
+  {
+    "Chinese": "协议",
+    "Pinyin": "xiéyì",
+    "English meaning": "agreement"
+  },
+  {
+    "Chinese": "申请",
+    "Pinyin": "shēnqǐng",
+    "English meaning": "application"
+  },
+  {
+    "Chinese": "审批",
+    "Pinyin": "shěnpī",
+    "English meaning": "approval"
+  },
+  {
+    "Chinese": "表格",
+    "Pinyin": "biǎogé",
+    "English meaning": "form"
+  },
+  {
+    "Chinese": "简历",
+    "Pinyin": "jiǎnlì",
+    "English meaning": "resume"
+  },
+  {
+    "Chinese": "履历",
+    "Pinyin": "lǚlì",
+    "English meaning": "curriculum vitae"
+  },
+  {
+    "Chinese": "证明",
+    "Pinyin": "zhèngmíng",
+    "English meaning": "certificate"
+  },
+  {
+    "Chinese": "资料",
+    "Pinyin": "zīliào",
+    "English meaning": "materials"
+  },
+  {
+    "Chinese": "档案",
+    "Pinyin": "dàng'àn",
+    "English meaning": "archive"
+  },
+  {
+    "Chinese": "文档",
+    "Pinyin": "wéndǎng",
+    "English meaning": "document"
+  },
+  {
+    "Chinese": "电脑",
+    "Pinyin": "diànnǎo",
+    "English meaning": "computer"
+  },
+  {
+    "Chinese": "笔记本电脑",
+    "Pinyin": "bǐjìběn diànnǎo",
+    "English meaning": "laptop"
+  },
+  {
+    "Chinese": "平板电脑",
+    "Pinyin": "píngbǎn diànnǎo",
+    "English meaning": "tablet"
+  },
+  {
+    "Chinese": "打印机",
+    "Pinyin": "dǎyìnjī",
+    "English meaning": "printer"
+  },
+  {
+    "Chinese": "复印机",
+    "Pinyin": "fùyìnjī",
+    "English meaning": "photocopier"
+  },
+  {
+    "Chinese": "扫描仪",
+    "Pinyin": "sǎomiáoyí",
+    "English meaning": "scanner"
+  },
+  {
+    "Chinese": "传真机",
+    "Pinyin": "chuánzhēnjī",
+    "English meaning": "fax machine"
+  },
+  {
+    "Chinese": "电话",
+    "Pinyin": "diànhuà",
+    "English meaning": "telephone"
+  },
+  {
+    "Chinese": "手机",
+    "Pinyin": "shǒujī",
+    "English meaning": "mobile phone"
+  },
+  {
+    "Chinese": "耳机",
+    "Pinyin": "ěrjī",
+    "English meaning": "headphones"
+  },
+  {
+    "Chinese": "键盘",
+    "Pinyin": "jiànpán",
+    "English meaning": "keyboard"
+  },
+  {
+    "Chinese": "鼠标",
+    "Pinyin": "shǔbiāo",
+    "English meaning": "mouse"
+  },
+  {
+    "Chinese": "显示器",
+    "Pinyin": "xiǎnshìqì",
+    "English meaning": "monitor"
+  },
+  {
+    "Chinese": "投影仪",
+    "Pinyin": "tóuyǐngyí",
+    "English meaning": "projector"
+  },
+  {
+    "Chinese": "复印纸",
+    "Pinyin": "fùyìn zhǐ",
+    "English meaning": "copy paper"
+  },
+  {
+    "Chinese": "文件夹",
+    "Pinyin": "wénjiànjiā",
+    "English meaning": "folder"
+  },
+  {
+    "Chinese": "回形针",
+    "Pinyin": "huíxíngzhēn",
+    "English meaning": "paperclip"
+  },
+  {
+    "Chinese": "订书机",
+    "Pinyin": "dìngshūjī",
+    "English meaning": "stapler"
+  },
+  {
+    "Chinese": "笔记本",
+    "Pinyin": "bǐjìběn",
+    "English meaning": "notebook"
+  },
+  {
+    "Chinese": "便利贴",
+    "Pinyin": "biànlìtiē",
+    "English meaning": "sticky note"
+  },
+  {
+    "Chinese": "名片",
+    "Pinyin": "míngpiàn",
+    "English meaning": "business card"
+  },
+  {
+    "Chinese": "工作",
+    "Pinyin": "gōngzuò",
+    "English meaning": "work, job"
+  },
+  {
+    "Chinese": "上班",
+    "Pinyin": "shàngbān",
+    "English meaning": "go to work"
+  },
+  {
+    "Chinese": "下班",
+    "Pinyin": "xiàbān",
+    "English meaning": "get off work"
+  },
+  {
+    "Chinese": "打卡",
+    "Pinyin": "dǎkǎ",
+    "English meaning": "clock in/out"
+  },
+  {
+    "Chinese": "加班",
+    "Pinyin": "jiābān",
+    "English meaning": "overtime"
+  },
+  {
+    "Chinese": "请假",
+    "Pinyin": "qǐngjià",
+    "English meaning": "request leave"
+  },
+  {
+    "Chinese": "休假",
+    "Pinyin": "xiūjià",
+    "English meaning": "vacation"
+  },
+  {
+    "Chinese": "病假",
+    "Pinyin": "bìngjià",
+    "English meaning": "sick leave"
+  },
+  {
+    "Chinese": "产假",
+    "Pinyin": "chǎnjià",
+    "English meaning": "maternity leave"
+  },
+  {
+    "Chinese": "辞职",
+    "Pinyin": "cízhí",
+    "English meaning": "resign"
+  },
+  {
+    "Chinese": "解雇",
+    "Pinyin": "jiěgù",
+    "English meaning": "fire, dismiss"
+  },
+  {
+    "Chinese": "晋升",
+    "Pinyin": "jìnshēng",
+    "English meaning": "promotion"
+  },
+  {
+    "Chinese": "调动",
+    "Pinyin": "diàodòng",
+    "English meaning": "job transfer"
+  },
+  {
+    "Chinese": "考勤",
+    "Pinyin": "kǎoqín",
+    "English meaning": "attendance"
+  },
+  {
+    "Chinese": "绩效",
+    "Pinyin": "jīxiào",
+    "English meaning": "performance"
+  },
+  {
+    "Chinese": "任务",
+    "Pinyin": "rènwù",
+    "English meaning": "task"
+  },
+  {
+    "Chinese": "目标",
+    "Pinyin": "mùbiāo",
+    "English meaning": "goal"
+  },
+  {
+    "Chinese": "完成",
+    "Pinyin": "wánchéng",
+    "English meaning": "complete"
+  },
+  {
+    "Chinese": "效率",
+    "Pinyin": "xiàolǜ",
+    "English meaning": "efficiency"
+  },
+  {
+    "Chinese": "合作",
+    "Pinyin": "hézuò",
+    "English meaning": "cooperate"
+  },
+  {
+    "Chinese": "讨论",
+    "Pinyin": "tǎolùn",
+    "English meaning": "discuss"
+  },
+  {
+    "Chinese": "签署",
+    "Pinyin": "qiānshǔ",
+    "English meaning": "sign"
+  },
+  {
+    "Chinese": "盖章",
+    "Pinyin": "gàizhāng",
+    "English meaning": "seal"
+  },
+  {
+    "Chinese": "招聘",
+    "Pinyin": "zhāopìn",
+    "English meaning": "recruit"
+  },
+  {
+    "Chinese": "招聘会",
+    "Pinyin": "zhāopìn huì",
+    "English meaning": "job fair"
+  },
+  {
+    "Chinese": "应聘",
+    "Pinyin": "yìngpìn",
+    "English meaning": "apply for a job"
+  },
+  {
+    "Chinese": "面试",
+    "Pinyin": "miànshì",
+    "English meaning": "interview"
+  },
+  {
+    "Chinese": "录用",
+    "Pinyin": "lùyòng",
+    "English meaning": "hire"
+  },
+  {
+    "Chinese": "人事部",
+    "Pinyin": "rénshì bù",
+    "English meaning": "HR department"
+  },
+  {
+    "Chinese": "人力资源",
+    "Pinyin": "rénlì zīyuán",
+    "English meaning": "human resources"
+  },
+  {
+    "Chinese": "劳动合同",
+    "Pinyin": "láodòng hétóng",
+    "English meaning": "labor contract"
+  },
+  {
+    "Chinese": "薪水",
+    "Pinyin": "xīnshuǐ",
+    "English meaning": "salary"
+  },
+  {
+    "Chinese": "工资",
+    "Pinyin": "gōngzī",
+    "English meaning": "wage"
+  },
+  {
+    "Chinese": "奖金",
+    "Pinyin": "jiǎngjīn",
+    "English meaning": "bonus"
+  },
+  {
+    "Chinese": "津贴",
+    "Pinyin": "jīntiē",
+    "English meaning": "allowance"
+  },
+  {
+    "Chinese": "福利",
+    "Pinyin": "fúlì",
+    "English meaning": "benefits"
+  },
+  {
+    "Chinese": "保险",
+    "Pinyin": "bǎoxiǎn",
+    "English meaning": "insurance"
+  },
+  {
+    "Chinese": "养老金",
+    "Pinyin": "yǎnglǎo jīn",
+    "English meaning": "pension"
+  },
+  {
+    "Chinese": "职业",
+    "Pinyin": "zhíyè",
+    "English meaning": "occupation"
+  },
+  {
+    "Chinese": "事业",
+    "Pinyin": "shìyè",
+    "English meaning": "career"
+  },
+  {
+    "Chinese": "培训",
+    "Pinyin": "péixùn",
+    "English meaning": "training"
+  },
+  {
+    "Chinese": "技能",
+    "Pinyin": "jìnéng",
+    "English meaning": "skills"
+  },
+  {
+    "Chinese": "经验",
+    "Pinyin": "jīngyàn",
+    "English meaning": "experience"
+  },
+  {
+    "Chinese": "领导",
+    "Pinyin": "lǐngdǎo",
+    "English meaning": "leadership"
+  },
+  {
+    "Chinese": "责任",
+    "Pinyin": "zérèn",
+    "English meaning": "responsibility"
+  },
+  {
+    "Chinese": "权利",
+    "Pinyin": "quánlì",
+    "English meaning": "rights"
+  },
+  {
+    "Chinese": "义务",
+    "Pinyin": "yìwù",
+    "English meaning": "duty"
+  }
+]

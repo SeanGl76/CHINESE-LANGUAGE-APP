@@ -1,0 +1,482 @@
+[
+  {
+    "Chinese": "中国",
+    "Pinyin": "Zhōngguó",
+    "English meaning": "China"
+  },
+  {
+    "Chinese": "美国",
+    "Pinyin": "Měiguó",
+    "English meaning": "United States"
+  },
+  {
+    "Chinese": "英国",
+    "Pinyin": "Yīngguó",
+    "English meaning": "United Kingdom"
+  },
+  {
+    "Chinese": "法国",
+    "Pinyin": "Fǎguó",
+    "English meaning": "France"
+  },
+  {
+    "Chinese": "德国",
+    "Pinyin": "Déguó",
+    "English meaning": "Germany"
+  },
+  {
+    "Chinese": "意大利",
+    "Pinyin": "Yìdàlì",
+    "English meaning": "Italy"
+  },
+  {
+    "Chinese": "西班牙",
+    "Pinyin": "Xībānyá",
+    "English meaning": "Spain"
+  },
+  {
+    "Chinese": "葡萄牙",
+    "Pinyin": "Pútáoyá",
+    "English meaning": "Portugal"
+  },
+  {
+    "Chinese": "俄罗斯",
+    "Pinyin": "Éluósī",
+    "English meaning": "Russia"
+  },
+  {
+    "Chinese": "乌克兰",
+    "Pinyin": "Wūkèlán",
+    "English meaning": "Ukraine"
+  },
+  {
+    "Chinese": "波兰",
+    "Pinyin": "Bōlán",
+    "English meaning": "Poland"
+  },
+  {
+    "Chinese": "荷兰",
+    "Pinyin": "Hélán",
+    "English meaning": "Netherlands"
+  },
+  {
+    "Chinese": "比利时",
+    "Pinyin": "Bǐlìshí",
+    "English meaning": "Belgium"
+  },
+  {
+    "Chinese": "瑞士",
+    "Pinyin": "Ruìshì",
+    "English meaning": "Switzerland"
+  },
+  {
+    "Chinese": "瑞典",
+    "Pinyin": "Ruìdiǎn",
+    "English meaning": "Sweden"
+  },
+  {
+    "Chinese": "挪威",
+    "Pinyin": "Nuówēi",
+    "English meaning": "Norway"
+  },
+  {
+    "Chinese": "丹麦",
+    "Pinyin": "Dānmài",
+    "English meaning": "Denmark"
+  },
+  {
+    "Chinese": "芬兰",
+    "Pinyin": "Fēnlán",
+    "English meaning": "Finland"
+  },
+  {
+    "Chinese": "希腊",
+    "Pinyin": "Xīlà",
+    "English meaning": "Greece"
+  },
+  {
+    "Chinese": "土耳其",
+    "Pinyin": "Tǔ'ěrqí",
+    "English meaning": "Turkey"
+  },
+  {
+    "Chinese": "以色列",
+    "Pinyin": "Yǐsèliè",
+    "English meaning": "Israel"
+  },
+  {
+    "Chinese": "埃及",
+    "Pinyin": "Āijí",
+    "English meaning": "Egypt"
+  },
+  {
+    "Chinese": "南非",
+    "Pinyin": "Nánfēi",
+    "English meaning": "South Africa"
+  },
+  {
+    "Chinese": "印度",
+    "Pinyin": "Yìndù",
+    "English meaning": "India"
+  },
+  {
+    "Chinese": "巴基斯坦",
+    "Pinyin": "Bājīsītǎn",
+    "English meaning": "Pakistan"
+  },
+  {
+    "Chinese": "孟加拉国",
+    "Pinyin": "Mèngjiālāguó",
+    "English meaning": "Bangladesh"
+  },
+  {
+    "Chinese": "日本",
+    "Pinyin": "Rìběn",
+    "English meaning": "Japan"
+  },
+  {
+    "Chinese": "韩国",
+    "Pinyin": "Hánguó",
+    "English meaning": "South Korea"
+  },
+  {
+    "Chinese": "朝鲜",
+    "Pinyin": "Cháoxiǎn",
+    "English meaning": "North Korea"
+  },
+  {
+    "Chinese": "越南",
+    "Pinyin": "Yuènán",
+    "English meaning": "Vietnam"
+  },
+  {
+    "Chinese": "泰国",
+    "Pinyin": "Tàiguó",
+    "English meaning": "Thailand"
+  },
+  {
+    "Chinese": "新加坡",
+    "Pinyin": "Xīnjiāpō",
+    "English meaning": "Singapore"
+  },
+  {
+    "Chinese": "马来西亚",
+    "Pinyin": "Mǎláixīyà",
+    "English meaning": "Malaysia"
+  },
+  {
+    "Chinese": "菲律宾",
+    "Pinyin": "Fēilǜbīn",
+    "English meaning": "Philippines"
+  },
+  {
+    "Chinese": "印尼",
+    "Pinyin": "Yìnní",
+    "English meaning": "Indonesia"
+  },
+  {
+    "Chinese": "澳大利亚",
+    "Pinyin": "Àodàlìyà",
+    "English meaning": "Australia"
+  },
+  {
+    "Chinese": "新西兰",
+    "Pinyin": "Xīnxīlán",
+    "English meaning": "New Zealand"
+  },
+  {
+    "Chinese": "加拿大",
+    "Pinyin": "Jiānádà",
+    "English meaning": "Canada"
+  },
+  {
+    "Chinese": "墨西哥",
+    "Pinyin": "Mòxīgē",
+    "English meaning": "Mexico"
+  },
+  {
+    "Chinese": "巴西",
+    "Pinyin": "Bāxī",
+    "English meaning": "Brazil"
+  },
+  {
+    "Chinese": "阿根廷",
+    "Pinyin": "Āgēntíng",
+    "English meaning": "Argentina"
+  },
+  {
+    "Chinese": "智利",
+    "Pinyin": "Zhìlì",
+    "English meaning": "Chile"
+  },
+  {
+    "Chinese": "哥伦比亚",
+    "Pinyin": "Gēlúnbǐyà",
+    "English meaning": "Colombia"
+  },
+  {
+    "Chinese": "秘鲁",
+    "Pinyin": "Bìlǔ",
+    "English meaning": "Peru"
+  },
+  {
+    "Chinese": "委内瑞拉",
+    "Pinyin": "Wěinèiruìlā",
+    "English meaning": "Venezuela"
+  },
+  {
+    "Chinese": "北京",
+    "Pinyin": "Běijīng",
+    "English meaning": "Beijing"
+  },
+  {
+    "Chinese": "上海",
+    "Pinyin": "Shànghǎi",
+    "English meaning": "Shanghai"
+  },
+  {
+    "Chinese": "广州",
+    "Pinyin": "Guǎngzhōu",
+    "English meaning": "Guangzhou"
+  },
+  {
+    "Chinese": "深圳",
+    "Pinyin": "Shēnzhèn",
+    "English meaning": "Shenzhen"
+  },
+  {
+    "Chinese": "天津",
+    "Pinyin": "Tiānjīn",
+    "English meaning": "Tianjin"
+  },
+  {
+    "Chinese": "重庆",
+    "Pinyin": "Chóngqìng",
+    "English meaning": "Chongqing"
+  },
+  {
+    "Chinese": "南京",
+    "Pinyin": "Nánjīng",
+    "English meaning": "Nanjing"
+  },
+  {
+    "Chinese": "杭州",
+    "Pinyin": "Hángzhōu",
+    "English meaning": "Hangzhou"
+  },
+  {
+    "Chinese": "苏州",
+    "Pinyin": "Sūzhōu",
+    "English meaning": "Suzhou"
+  },
+  {
+    "Chinese": "成都",
+    "Pinyin": "Chéngdū",
+    "English meaning": "Chengdu"
+  },
+  {
+    "Chinese": "西安",
+    "Pinyin": "Xī’ān",
+    "English meaning": "Xi’an"
+  },
+  {
+    "Chinese": "武汉",
+    "Pinyin": "Wǔhàn",
+    "English meaning": "Wuhan"
+  },
+  {
+    "Chinese": "长沙",
+    "Pinyin": "Chángshā",
+    "English meaning": "Changsha"
+  },
+  {
+    "Chinese": "昆明",
+    "Pinyin": "Kūnmíng",
+    "English meaning": "Kunming"
+  },
+  {
+    "Chinese": "大连",
+    "Pinyin": "Dàlián",
+    "English meaning": "Dalian"
+  },
+  {
+    "Chinese": "青岛",
+    "Pinyin": "Qīngdǎo",
+    "English meaning": "Qingdao"
+  },
+  {
+    "Chinese": "厦门",
+    "Pinyin": "Xiàmén",
+    "English meaning": "Xiamen"
+  },
+  {
+    "Chinese": "哈尔滨",
+    "Pinyin": "Hā’ěrbīn",
+    "English meaning": "Harbin"
+  },
+  {
+    "Chinese": "郑州",
+    "Pinyin": "Zhèngzhōu",
+    "English meaning": "Zhengzhou"
+  },
+  {
+    "Chinese": "济南",
+    "Pinyin": "Jǐnán",
+    "English meaning": "Jinan"
+  },
+  {
+    "Chinese": "纽约",
+    "Pinyin": "Niǔyuē",
+    "English meaning": "New York"
+  },
+  {
+    "Chinese": "洛杉矶",
+    "Pinyin": "Luòshānjī",
+    "English meaning": "Los Angeles"
+  },
+  {
+    "Chinese": "华盛顿",
+    "Pinyin": "Huáshèngdùn",
+    "English meaning": "Washington, D.C."
+  },
+  {
+    "Chinese": "伦敦",
+    "Pinyin": "Lúndūn",
+    "English meaning": "London"
+  },
+  {
+    "Chinese": "巴黎",
+    "Pinyin": "Bālí",
+    "English meaning": "Paris"
+  },
+  {
+    "Chinese": "柏林",
+    "Pinyin": "Bólín",
+    "English meaning": "Berlin"
+  },
+  {
+    "Chinese": "罗马",
+    "Pinyin": "Luómǎ",
+    "English meaning": "Rome"
+  },
+  {
+    "Chinese": "马德里",
+    "Pinyin": "Mǎdélǐ",
+    "English meaning": "Madrid"
+  },
+  {
+    "Chinese": "巴塞罗那",
+    "Pinyin": "Bāsàiluónà",
+    "English meaning": "Barcelona"
+  },
+  {
+    "Chinese": "阿姆斯特丹",
+    "Pinyin": "Āmǔsītèdān",
+    "English meaning": "Amsterdam"
+  },
+  {
+    "Chinese": "布鲁塞尔",
+    "Pinyin": "Bùlǔsài’ěr",
+    "English meaning": "Brussels"
+  },
+  {
+    "Chinese": "日内瓦",
+    "Pinyin": "Rìnèiwǎ",
+    "English meaning": "Geneva"
+  },
+  {
+    "Chinese": "莫斯科",
+    "Pinyin": "Mòsīkē",
+    "English meaning": "Moscow"
+  },
+  {
+    "Chinese": "圣彼得堡",
+    "Pinyin": "Shèng Bǐdébǎo",
+    "English meaning": "St. Petersburg"
+  },
+  {
+    "Chinese": "伊斯坦布尔",
+    "Pinyin": "Yīsītǎnbù’ěr",
+    "English meaning": "Istanbul"
+  },
+  {
+    "Chinese": "开罗",
+    "Pinyin": "Kāiluó",
+    "English meaning": "Cairo"
+  },
+  {
+    "Chinese": "德里",
+    "Pinyin": "Délǐ",
+    "English meaning": "Delhi"
+  },
+  {
+    "Chinese": "孟买",
+    "Pinyin": "Mèngmǎi",
+    "English meaning": "Mumbai"
+  },
+  {
+    "Chinese": "东京",
+    "Pinyin": "Dōngjīng",
+    "English meaning": "Tokyo"
+  },
+  {
+    "Chinese": "大阪",
+    "Pinyin": "Dàbǎn",
+    "English meaning": "Osaka"
+  },
+  {
+    "Chinese": "首尔",
+    "Pinyin": "Shǒu’ěr",
+    "English meaning": "Seoul"
+  },
+  {
+    "Chinese": "河内",
+    "Pinyin": "Hénèi",
+    "English meaning": "Hanoi"
+  },
+  {
+    "Chinese": "曼谷",
+    "Pinyin": "Màngǔ",
+    "English meaning": "Bangkok"
+  },
+  {
+    "Chinese": "悉尼",
+    "Pinyin": "Xīní",
+    "English meaning": "Sydney"
+  },
+  {
+    "Chinese": "墨尔本",
+    "Pinyin": "Mò’ěrběn",
+    "English meaning": "Melbourne"
+  },
+  {
+    "Chinese": "渥太华",
+    "Pinyin": "Wòtàihuá",
+    "English meaning": "Ottawa"
+  },
+  {
+    "Chinese": "多伦多",
+    "Pinyin": "Duōlúnduō",
+    "English meaning": "Toronto"
+  },
+  {
+    "Chinese": "墨西哥城",
+    "Pinyin": "Mòxīgē Chéng",
+    "English meaning": "Mexico City"
+  },
+  {
+    "Chinese": "里约热内卢",
+    "Pinyin": "Lǐyuē Rènèilú",
+    "English meaning": "Rio de Janeiro"
+  },
+  {
+    "Chinese": "布宜诺斯艾利斯",
+    "Pinyin": "Bùyínuòsī Àilìsī",
+    "English meaning": "Buenos Aires"
+  },
+  {
+    "Chinese": "圣保罗",
+    "Pinyin": "Shèng Bǎoluó",
+    "English meaning": "São Paulo"
+  }
+]

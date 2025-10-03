@@ -1,0 +1,332 @@
+[
+  {
+    "Chinese": "商业",
+    "Pinyin": "shāngyè",
+    "English meaning": "business, commerce"
+  },
+  {
+    "Chinese": "生意",
+    "Pinyin": "shēngyì",
+    "English meaning": "business, trade"
+  },
+  {
+    "Chinese": "公司",
+    "Pinyin": "gōngsī",
+    "English meaning": "company"
+  },
+  {
+    "Chinese": "企业",
+    "Pinyin": "qǐyè",
+    "English meaning": "enterprise"
+  },
+  {
+    "Chinese": "集团",
+    "Pinyin": "jítuán",
+    "English meaning": "corporation, group"
+  },
+  {
+    "Chinese": "客户",
+    "Pinyin": "kèhù",
+    "English meaning": "client, customer"
+  },
+  {
+    "Chinese": "供应商",
+    "Pinyin": "gōngyìngshāng",
+    "English meaning": "supplier"
+  },
+  {
+    "Chinese": "合作伙伴",
+    "Pinyin": "hézuò huǒbàn",
+    "English meaning": "business partner"
+  },
+  {
+    "Chinese": "投资者",
+    "Pinyin": "tóuzīzhě",
+    "English meaning": "investor"
+  },
+  {
+    "Chinese": "股东",
+    "Pinyin": "gǔdōng",
+    "English meaning": "shareholder"
+  },
+  {
+    "Chinese": "董事会",
+    "Pinyin": "dǒngshìhuì",
+    "English meaning": "board of directors"
+  },
+  {
+    "Chinese": "管理层",
+    "Pinyin": "guǎnlǐcéng",
+    "English meaning": "management"
+  },
+  {
+    "Chinese": "经理",
+    "Pinyin": "jīnglǐ",
+    "English meaning": "manager"
+  },
+  {
+    "Chinese": "总裁",
+    "Pinyin": "zǒngcái",
+    "English meaning": "CEO, president"
+  },
+  {
+    "Chinese": "总经理",
+    "Pinyin": "zǒng jīnglǐ",
+    "English meaning": "general manager"
+  },
+  {
+    "Chinese": "市场部",
+    "Pinyin": "shìchǎng bù",
+    "English meaning": "marketing department"
+  },
+  {
+    "Chinese": "财务部",
+    "Pinyin": "cáiwù bù",
+    "English meaning": "finance department"
+  },
+  {
+    "Chinese": "人力资源部",
+    "Pinyin": "rénlì zīyuán bù",
+    "English meaning": "human resources department"
+  },
+  {
+    "Chinese": "销售部",
+    "Pinyin": "xiāoshòu bù",
+    "English meaning": "sales department"
+  },
+  {
+    "Chinese": "研发部",
+    "Pinyin": "yánfā bù",
+    "English meaning": "R&D department"
+  },
+  {
+    "Chinese": "市场",
+    "Pinyin": "shìchǎng",
+    "English meaning": "market"
+  },
+  {
+    "Chinese": "贸易",
+    "Pinyin": "màoyì",
+    "English meaning": "trade"
+  },
+  {
+    "Chinese": "投资",
+    "Pinyin": "tóuzī",
+    "English meaning": "investment"
+  },
+  {
+    "Chinese": "资金",
+    "Pinyin": "zījīn",
+    "English meaning": "funds, capital"
+  },
+  {
+    "Chinese": "利润",
+    "Pinyin": "lìrùn",
+    "English meaning": "profit"
+  },
+  {
+    "Chinese": "亏损",
+    "Pinyin": "kuīsǔn",
+    "English meaning": "loss"
+  },
+  {
+    "Chinese": "收入",
+    "Pinyin": "shōurù",
+    "English meaning": "income"
+  },
+  {
+    "Chinese": "支出",
+    "Pinyin": "zhīchū",
+    "English meaning": "expense"
+  },
+  {
+    "Chinese": "预算",
+    "Pinyin": "yùsuàn",
+    "English meaning": "budget"
+  },
+  {
+    "Chinese": "成本",
+    "Pinyin": "chéngběn",
+    "English meaning": "cost"
+  },
+  {
+    "Chinese": "价格",
+    "Pinyin": "jiàgé",
+    "English meaning": "price"
+  },
+  {
+    "Chinese": "合同",
+    "Pinyin": "hétóng",
+    "English meaning": "contract"
+  },
+  {
+    "Chinese": "协议",
+    "Pinyin": "xiéyì",
+    "English meaning": "agreement"
+  },
+  {
+    "Chinese": "订单",
+    "Pinyin": "dìngdān",
+    "English meaning": "order (business)"
+  },
+  {
+    "Chinese": "发票",
+    "Pinyin": "fāpiào",
+    "English meaning": "invoice"
+  },
+  {
+    "Chinese": "收据",
+    "Pinyin": "shōujù",
+    "English meaning": "receipt"
+  },
+  {
+    "Chinese": "出口",
+    "Pinyin": "chūkǒu",
+    "English meaning": "export"
+  },
+  {
+    "Chinese": "进口",
+    "Pinyin": "jìnkǒu",
+    "English meaning": "import"
+  },
+  {
+    "Chinese": "外贸",
+    "Pinyin": "wàimào",
+    "English meaning": "foreign trade"
+  },
+  {
+    "Chinese": "开会",
+    "Pinyin": "kāihuì",
+    "English meaning": "hold a meeting"
+  },
+  {
+    "Chinese": "谈判",
+    "Pinyin": "tánpàn",
+    "English meaning": "negotiation"
+  },
+  {
+    "Chinese": "签约",
+    "Pinyin": "qiānyuē",
+    "English meaning": "sign a contract"
+  },
+  {
+    "Chinese": "合作",
+    "Pinyin": "hézuò",
+    "English meaning": "cooperate"
+  },
+  {
+    "Chinese": "竞争",
+    "Pinyin": "jìngzhēng",
+    "English meaning": "competition"
+  },
+  {
+    "Chinese": "发展",
+    "Pinyin": "fāzhǎn",
+    "English meaning": "develop"
+  },
+  {
+    "Chinese": "推广",
+    "Pinyin": "tuīguǎng",
+    "English meaning": "promote"
+  },
+  {
+    "Chinese": "营销",
+    "Pinyin": "yíngxiāo",
+    "English meaning": "marketing"
+  },
+  {
+    "Chinese": "广告",
+    "Pinyin": "guǎnggào",
+    "English meaning": "advertisement"
+  },
+  {
+    "Chinese": "品牌",
+    "Pinyin": "pǐnpái",
+    "English meaning": "brand"
+  },
+  {
+    "Chinese": "报价",
+    "Pinyin": "bàojià",
+    "English meaning": "quote a price"
+  },
+  {
+    "Chinese": "成交",
+    "Pinyin": "chéngjiāo",
+    "English meaning": "close a deal"
+  },
+  {
+    "Chinese": "交货",
+    "Pinyin": "jiāohuò",
+    "English meaning": "deliver goods"
+  },
+  {
+    "Chinese": "付款",
+    "Pinyin": "fùkuǎn",
+    "English meaning": "make payment"
+  },
+  {
+    "Chinese": "退款",
+    "Pinyin": "tuìkuǎn",
+    "English meaning": "refund"
+  },
+  {
+    "Chinese": "物流",
+    "Pinyin": "wùliú",
+    "English meaning": "logistics"
+  },
+  {
+    "Chinese": "供应链",
+    "Pinyin": "gōngyìngliàn",
+    "English meaning": "supply chain"
+  },
+  {
+    "Chinese": "战略",
+    "Pinyin": "zhànlüè",
+    "English meaning": "strategy"
+  },
+  {
+    "Chinese": "目标",
+    "Pinyin": "mùbiāo",
+    "English meaning": "goal"
+  },
+  {
+    "Chinese": "计划",
+    "Pinyin": "jìhuà",
+    "English meaning": "plan"
+  },
+  {
+    "Chinese": "方案",
+    "Pinyin": "fāng'àn",
+    "English meaning": "proposal, plan"
+  },
+  {
+    "Chinese": "业绩",
+    "Pinyin": "yèjì",
+    "English meaning": "business performance"
+  },
+  {
+    "Chinese": "风险",
+    "Pinyin": "fēngxiǎn",
+    "English meaning": "risk"
+  },
+  {
+    "Chinese": "机遇",
+    "Pinyin": "jīyù",
+    "English meaning": "opportunity"
+  },
+  {
+    "Chinese": "挑战",
+    "Pinyin": "tiǎozhàn",
+    "English meaning": "challenge"
+  },
+  {
+    "Chinese": "责任",
+    "Pinyin": "zérèn",
+    "English meaning": "responsibility"
+  },
+  {
+    "Chinese": "权利",
+    "Pinyin": "quánlì",
+    "English meaning": "rights"
+  }
+]

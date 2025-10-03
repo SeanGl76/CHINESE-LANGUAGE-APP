@@ -1,0 +1,592 @@
+[
+  {
+    "Chinese": "飞机",
+    "Pinyin": "fēijī",
+    "English meaning": "airplane"
+  },
+  {
+    "Chinese": "火车",
+    "Pinyin": "huǒchē",
+    "English meaning": "train"
+  },
+  {
+    "Chinese": "地铁",
+    "Pinyin": "dìtiě",
+    "English meaning": "subway"
+  },
+  {
+    "Chinese": "出租车",
+    "Pinyin": "chūzūchē",
+    "English meaning": "taxi"
+  },
+  {
+    "Chinese": "公共汽车",
+    "Pinyin": "gōnggòng qìchē",
+    "English meaning": "bus"
+  },
+  {
+    "Chinese": "电车",
+    "Pinyin": "diànchē",
+    "English meaning": "tram"
+  },
+  {
+    "Chinese": "轮船",
+    "Pinyin": "lúnchuán",
+    "English meaning": "ship"
+  },
+  {
+    "Chinese": "港口",
+    "Pinyin": "gǎngkǒu",
+    "English meaning": "port, harbor"
+  },
+  {
+    "Chinese": "机场",
+    "Pinyin": "jīchǎng",
+    "English meaning": "airport"
+  },
+  {
+    "Chinese": "车站",
+    "Pinyin": "chēzhàn",
+    "English meaning": "station"
+  },
+  {
+    "Chinese": "高速公路",
+    "Pinyin": "gāosù gōnglù",
+    "English meaning": "highway"
+  },
+  {
+    "Chinese": "护照检查",
+    "Pinyin": "hùzhào jiǎnchá",
+    "English meaning": "passport control"
+  },
+  {
+    "Chinese": "行李",
+    "Pinyin": "xínglǐ",
+    "English meaning": "luggage"
+  },
+  {
+    "Chinese": "登机牌",
+    "Pinyin": "dēngjīpái",
+    "English meaning": "boarding pass"
+  },
+  {
+    "Chinese": "安检",
+    "Pinyin": "ānjiǎn",
+    "English meaning": "security check"
+  },
+  {
+    "Chinese": "转机",
+    "Pinyin": "zhuǎnjī",
+    "English meaning": "transfer flight"
+  },
+  {
+    "Chinese": "出发",
+    "Pinyin": "chūfā",
+    "English meaning": "depart"
+  },
+  {
+    "Chinese": "到达",
+    "Pinyin": "dàodá",
+    "English meaning": "arrive"
+  },
+  {
+    "Chinese": "延误",
+    "Pinyin": "yánwù",
+    "English meaning": "delay"
+  },
+  {
+    "Chinese": "签证",
+    "Pinyin": "qiānzhèng",
+    "English meaning": "visa"
+  },
+  {
+    "Chinese": "酒店",
+    "Pinyin": "jiǔdiàn",
+    "English meaning": "hotel"
+  },
+  {
+    "Chinese": "旅馆",
+    "Pinyin": "lǚguǎn",
+    "English meaning": "inn, hotel"
+  },
+  {
+    "Chinese": "青年旅舍",
+    "Pinyin": "qīngnián lǚshè",
+    "English meaning": "youth hostel"
+  },
+  {
+    "Chinese": "宾馆",
+    "Pinyin": "bīnguǎn",
+    "English meaning": "guesthouse"
+  },
+  {
+    "Chinese": "预订",
+    "Pinyin": "yùdìng",
+    "English meaning": "reserve, book"
+  },
+  {
+    "Chinese": "入住",
+    "Pinyin": "rùzhù",
+    "English meaning": "check in"
+  },
+  {
+    "Chinese": "退房",
+    "Pinyin": "tuìfáng",
+    "English meaning": "check out"
+  },
+  {
+    "Chinese": "前台",
+    "Pinyin": "qiántái",
+    "English meaning": "reception desk"
+  },
+  {
+    "Chinese": "钥匙",
+    "Pinyin": "yàoshi",
+    "English meaning": "key"
+  },
+  {
+    "Chinese": "房卡",
+    "Pinyin": "fángkǎ",
+    "English meaning": "room card"
+  },
+  {
+    "Chinese": "单人间",
+    "Pinyin": "dānrénjiān",
+    "English meaning": "single room"
+  },
+  {
+    "Chinese": "双人间",
+    "Pinyin": "shuāngrénjiān",
+    "English meaning": "double room"
+  },
+  {
+    "Chinese": "套房",
+    "Pinyin": "tàofáng",
+    "English meaning": "suite"
+  },
+  {
+    "Chinese": "旅客",
+    "Pinyin": "lǚkè",
+    "English meaning": "traveler, guest"
+  },
+  {
+    "Chinese": "行程",
+    "Pinyin": "xíngchéng",
+    "English meaning": "itinerary"
+  },
+  {
+    "Chinese": "导游",
+    "Pinyin": "dǎoyóu",
+    "English meaning": "tour guide"
+  },
+  {
+    "Chinese": "景点",
+    "Pinyin": "jǐngdiǎn",
+    "English meaning": "scenic spot"
+  },
+  {
+    "Chinese": "景区",
+    "Pinyin": "jǐngqū",
+    "English meaning": "scenic area"
+  },
+  {
+    "Chinese": "博物馆",
+    "Pinyin": "bówùguǎn",
+    "English meaning": "museum"
+  },
+  {
+    "Chinese": "美术馆",
+    "Pinyin": "měishùguǎn",
+    "English meaning": "art gallery"
+  },
+  {
+    "Chinese": "公园",
+    "Pinyin": "gōngyuán",
+    "English meaning": "park"
+  },
+  {
+    "Chinese": "动物园",
+    "Pinyin": "dòngwùyuán",
+    "English meaning": "zoo"
+  },
+  {
+    "Chinese": "植物园",
+    "Pinyin": "zhíwùyuán",
+    "English meaning": "botanical garden"
+  },
+  {
+    "Chinese": "古迹",
+    "Pinyin": "gǔjì",
+    "English meaning": "historic site"
+  },
+  {
+    "Chinese": "寺庙",
+    "Pinyin": "sìmiào",
+    "English meaning": "temple"
+  },
+  {
+    "Chinese": "教堂",
+    "Pinyin": "jiàotáng",
+    "English meaning": "church"
+  },
+  {
+    "Chinese": "清真寺",
+    "Pinyin": "qīngzhēnsì",
+    "English meaning": "mosque"
+  },
+  {
+    "Chinese": "宫殿",
+    "Pinyin": "gōngdiàn",
+    "English meaning": "palace"
+  },
+  {
+    "Chinese": "长城",
+    "Pinyin": "Chángchéng",
+    "English meaning": "the Great Wall"
+  },
+  {
+    "Chinese": "故宫",
+    "Pinyin": "Gùgōng",
+    "English meaning": "the Forbidden City"
+  },
+  {
+    "Chinese": "黄山",
+    "Pinyin": "Huángshān",
+    "English meaning": "Yellow Mountain"
+  },
+  {
+    "Chinese": "张家界",
+    "Pinyin": "Zhāngjiājiè",
+    "English meaning": "Zhangjiajie"
+  },
+  {
+    "Chinese": "导览图",
+    "Pinyin": "dǎolǎn tú",
+    "English meaning": "tourist map"
+  },
+  {
+    "Chinese": "餐厅",
+    "Pinyin": "cāntīng",
+    "English meaning": "restaurant"
+  },
+  {
+    "Chinese": "饭店",
+    "Pinyin": "fàndiàn",
+    "English meaning": "restaurant, hotel"
+  },
+  {
+    "Chinese": "快餐",
+    "Pinyin": "kuàicān",
+    "English meaning": "fast food"
+  },
+  {
+    "Chinese": "小吃",
+    "Pinyin": "xiǎochī",
+    "English meaning": "snack"
+  },
+  {
+    "Chinese": "特色菜",
+    "Pinyin": "tèsè cài",
+    "English meaning": "specialty dish"
+  },
+  {
+    "Chinese": "饮料",
+    "Pinyin": "yǐnliào",
+    "English meaning": "beverage"
+  },
+  {
+    "Chinese": "水",
+    "Pinyin": "shuǐ",
+    "English meaning": "water"
+  },
+  {
+    "Chinese": "啤酒",
+    "Pinyin": "píjiǔ",
+    "English meaning": "beer"
+  },
+  {
+    "Chinese": "葡萄酒",
+    "Pinyin": "pútáojiǔ",
+    "English meaning": "wine"
+  },
+  {
+    "Chinese": "菜单",
+    "Pinyin": "càidān",
+    "English meaning": "menu"
+  },
+  {
+    "Chinese": "服务员",
+    "Pinyin": "fúwùyuán",
+    "English meaning": "waiter/waitress"
+  },
+  {
+    "Chinese": "结账",
+    "Pinyin": "jiézhàng",
+    "English meaning": "pay the bill"
+  },
+  {
+    "Chinese": "预订座位",
+    "Pinyin": "yùdìng zuòwèi",
+    "English meaning": "reserve a seat"
+  },
+  {
+    "Chinese": "素食",
+    "Pinyin": "sùshí",
+    "English meaning": "vegetarian food"
+  },
+  {
+    "Chinese": "早餐",
+    "Pinyin": "zǎocān",
+    "English meaning": "breakfast"
+  },
+  {
+    "Chinese": "午餐",
+    "Pinyin": "wǔcān",
+    "English meaning": "lunch"
+  },
+  {
+    "Chinese": "晚餐",
+    "Pinyin": "wǎncān",
+    "English meaning": "dinner"
+  },
+  {
+    "Chinese": "宵夜",
+    "Pinyin": "xiāoyè",
+    "English meaning": "late night snack"
+  },
+  {
+    "Chinese": "自助餐",
+    "Pinyin": "zìzhùcān",
+    "English meaning": "buffet"
+  },
+  {
+    "Chinese": "火锅",
+    "Pinyin": "huǒguō",
+    "English meaning": "hotpot"
+  },
+  {
+    "Chinese": "商场",
+    "Pinyin": "shāngchǎng",
+    "English meaning": "shopping mall"
+  },
+  {
+    "Chinese": "市场",
+    "Pinyin": "shìchǎng",
+    "English meaning": "market"
+  },
+  {
+    "Chinese": "纪念品",
+    "Pinyin": "jìniànpǐn",
+    "English meaning": "souvenir"
+  },
+  {
+    "Chinese": "工艺品",
+    "Pinyin": "gōngyìpǐn",
+    "English meaning": "handicraft"
+  },
+  {
+    "Chinese": "特色产品",
+    "Pinyin": "tèsè chǎnpǐn",
+    "English meaning": "local product"
+  },
+  {
+    "Chinese": "价格",
+    "Pinyin": "jiàgé",
+    "English meaning": "price"
+  },
+  {
+    "Chinese": "便宜",
+    "Pinyin": "piányi",
+    "English meaning": "cheap"
+  },
+  {
+    "Chinese": "贵",
+    "Pinyin": "guì",
+    "English meaning": "expensive"
+  },
+  {
+    "Chinese": "讨价还价",
+    "Pinyin": "tǎojià huánjià",
+    "English meaning": "bargain"
+  },
+  {
+    "Chinese": "付款",
+    "Pinyin": "fùkuǎn",
+    "English meaning": "make a payment"
+  },
+  {
+    "Chinese": "现金",
+    "Pinyin": "xiànjīn",
+    "English meaning": "cash"
+  },
+  {
+    "Chinese": "信用卡",
+    "Pinyin": "xìnyòngkǎ",
+    "English meaning": "credit card"
+  },
+  {
+    "Chinese": "收据",
+    "Pinyin": "shōujù",
+    "English meaning": "receipt"
+  },
+  {
+    "Chinese": "打折",
+    "Pinyin": "dǎzhé",
+    "English meaning": "discount"
+  },
+  {
+    "Chinese": "换钱",
+    "Pinyin": "huàn qián",
+    "English meaning": "exchange money"
+  },
+  {
+    "Chinese": "旅行",
+    "Pinyin": "lǚxíng",
+    "English meaning": "travel"
+  },
+  {
+    "Chinese": "旅游",
+    "Pinyin": "lǚyóu",
+    "English meaning": "tourism"
+  },
+  {
+    "Chinese": "冒险",
+    "Pinyin": "màoxiǎn",
+    "English meaning": "adventure"
+  },
+  {
+    "Chinese": "徒步",
+    "Pinyin": "túbù",
+    "English meaning": "hiking"
+  },
+  {
+    "Chinese": "滑雪",
+    "Pinyin": "huáxuě",
+    "English meaning": "skiing"
+  },
+  {
+    "Chinese": "冲浪",
+    "Pinyin": "chōnglàng",
+    "English meaning": "surfing"
+  },
+  {
+    "Chinese": "潜水",
+    "Pinyin": "qiánshuǐ",
+    "English meaning": "diving"
+  },
+  {
+    "Chinese": "游泳",
+    "Pinyin": "yóuyǒng",
+    "English meaning": "swimming"
+  },
+  {
+    "Chinese": "晒太阳",
+    "Pinyin": "shài tàiyáng",
+    "English meaning": "sunbathe"
+  },
+  {
+    "Chinese": "露营",
+    "Pinyin": "lùyíng",
+    "English meaning": "camping"
+  },
+  {
+    "Chinese": "拍照",
+    "Pinyin": "pāizhào",
+    "English meaning": "take photos"
+  },
+  {
+    "Chinese": "录像",
+    "Pinyin": "lùxiàng",
+    "English meaning": "record video"
+  },
+  {
+    "Chinese": "纪念",
+    "Pinyin": "jìniàn",
+    "English meaning": "commemorate"
+  },
+  {
+    "Chinese": "休闲",
+    "Pinyin": "xiūxián",
+    "English meaning": "leisure"
+  },
+  {
+    "Chinese": "探险",
+    "Pinyin": "tànxiǎn",
+    "English meaning": "explore"
+  },
+  {
+    "Chinese": "导览",
+    "Pinyin": "dǎolǎn",
+    "English meaning": "guided tour"
+  },
+  {
+    "Chinese": "自由行",
+    "Pinyin": "zìyóuxíng",
+    "English meaning": "self-guided trip"
+  },
+  {
+    "Chinese": "团体游",
+    "Pinyin": "tuántǐ yóu",
+    "English meaning": "group tour"
+  },
+  {
+    "Chinese": "邮轮",
+    "Pinyin": "yóulún",
+    "English meaning": "cruise"
+  },
+  {
+    "Chinese": "护照",
+    "Pinyin": "hùzhào",
+    "English meaning": "passport"
+  },
+  {
+    "Chinese": "身份证",
+    "Pinyin": "shēnfèn zhèng",
+    "English meaning": "ID card"
+  },
+  {
+    "Chinese": "驾驶证",
+    "Pinyin": "jiàshǐ zhèng",
+    "English meaning": "driver's license"
+  },
+  {
+    "Chinese": "地图",
+    "Pinyin": "dìtú",
+    "English meaning": "map"
+  },
+  {
+    "Chinese": "指南",
+    "Pinyin": "zhǐnán",
+    "English meaning": "guidebook"
+  },
+  {
+    "Chinese": "翻译",
+    "Pinyin": "fānyì",
+    "English meaning": "translation"
+  },
+  {
+    "Chinese": "旅行社",
+    "Pinyin": "lǚxíngshè",
+    "English meaning": "travel agency"
+  },
+  {
+    "Chinese": "预订号码",
+    "Pinyin": "yùdìng hàomǎ",
+    "English meaning": "reservation number"
+  },
+  {
+    "Chinese": "联系电话",
+    "Pinyin": "liánxì diànhuà",
+    "English meaning": "contact number"
+  },
+  {
+    "Chinese": "紧急电话",
+    "Pinyin": "jǐnjí diànhuà",
+    "English meaning": "emergency phone number"
+  },
+  {
+    "Chinese": "旅游保险",
+    "Pinyin": "lǚyóu bǎoxiǎn",
+    "English meaning": "travel insurance"
+  }
+]
